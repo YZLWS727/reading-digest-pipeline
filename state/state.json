@@ -115,14 +115,18 @@
   },
   "f4447c99deaecc8c": {
    "date": "2026-08-31",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-28T07:55:41Z",
    "slug": "/podcasts/huberman-lab/how-to-accelerate-learning-improve-education-joe-liemandt",
    "match_score": 1.0,
-   "words": 30921
+   "words": 30921,
+   "chars": 53888,
+   "cjk": 44982,
+   "chunks": 29,
+   "title_zh": "加速学习与教育 | Joe Liemandt"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T07:55:41Z"
+ "updated_at": "2026-09-28T08:08:24Z"
 }
