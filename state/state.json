@@ -862,7 +862,7 @@
   },
   "13722a4b9e39de44": {
    "date": "2026-02-05",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T12:36:54Z",
    "slug": "/podcasts/huberman-lab/essentials-the-science-of-gratitude-how-to-build-a-gratitude-practice",
@@ -871,9 +871,12 @@
    "chars": 11853,
    "cjk": 9324,
    "chunks": 7,
-   "title_zh": "精华版：运动科学与实践 | Ido Portal"
+   "title_zh": "精华版：运动科学与实践 | Ido Portal",
+   "doc_id": "deSjACYMrnMb",
+   "doc_url": "https://docs.qq.com/doc/DZGVTakFDWU1ybk1i",
+   "done_at": "2026-09-28T12:39:55Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T12:39:45Z"
+ "updated_at": "2026-09-28T12:39:55Z"
 }
