@@ -290,14 +290,18 @@
   },
   "a878a3cc34962d8f": {
    "date": "2026-07-23",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-28T09:12:38Z",
    "slug": "/podcasts/huberman-lab/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris",
    "match_score": 1.0,
-   "words": 7004
+   "words": 7004,
+   "chars": 11293,
+   "cjk": 9790,
+   "chunks": 7,
+   "title_zh": "精华版：冥想专注意识扩展 | Dr. Sam Harris"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T09:12:38Z"
+ "updated_at": "2026-09-28T09:16:30Z"
 }
