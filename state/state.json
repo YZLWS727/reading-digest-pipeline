@@ -19,14 +19,18 @@
   },
   "841e518d2e4edcb4": {
    "date": "2026-09-21",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 2,
    "last_try": "2026-09-28T07:09:00Z",
    "slug": "/podcasts/huberman-lab/best-tools-for-gut-health-weight-loss-dr-chris-thompson",
    "match_score": 1.0,
-   "words": 29891
+   "words": 29891,
+   "chars": 52116,
+   "cjk": 43233,
+   "chunks": 29,
+   "title_zh": "肠道健康与减重 Dr. Chris Thompson"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T07:09:00Z"
+ "updated_at": "2026-09-28T07:21:11Z"
 }
