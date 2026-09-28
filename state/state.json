@@ -255,8 +255,17 @@
    "title_zh": "免疫系统运作与提升 | Dr. Max Krummel",
    "last_error": "error: tool error: {\"code\": -32603, \"message\": \"tool execution failed (tool: manage.import_progress): 11607:docID not match pattern, docID: , trace_id:5172dfc0cad44fb69529a92a88f53926\"}",
    "last_error_at": "2026-09-28T09:01:01Z"
+  },
+  "3d9cc5faf76fe30c": {
+   "date": "2026-07-30",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T09:01:03Z",
+   "slug": "/podcasts/huberman-lab/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink",
+   "match_score": 1.0,
+   "words": 7554
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T09:01:01Z"
+ "updated_at": "2026-09-28T09:01:03Z"
 }
