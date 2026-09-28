@@ -17,7 +17,7 @@ class FatalTdocsError(TdocsError):
     """Token 失效/权限问题：停止本轮，不反复重试。"""
 
 
-def safe_filename(title: str, limit: int = 60) -> str:
+def safe_filename(title: str, limit: int = 48) -> str:
     t = re.sub(r'[\\/:*?"<>|\r\n\t]+', " ", title).strip()
     t = re.sub(r"\s+", " ", t)
     return t[:limit].strip() or "digest"
