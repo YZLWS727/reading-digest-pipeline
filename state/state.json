@@ -35,14 +35,18 @@
   },
   "fbfb1c38fae08ff7": {
    "date": "2026-09-17",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-28T07:21:25Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin",
    "match_score": 1.0,
-   "words": 7359
+   "words": 7359,
+   "chars": 11975,
+   "cjk": 10033,
+   "chunks": 7,
+   "title_zh": "精华版：评估与提升健身各方面 | Dr. Andy Galpin"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T07:21:26Z"
+ "updated_at": "2026-09-28T07:25:00Z"
 }
