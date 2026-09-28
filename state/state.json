@@ -317,7 +317,7 @@
   },
   "d5ff4dd744f1ee28": {
    "date": "2026-07-16",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T09:22:56Z",
    "slug": "/podcasts/huberman-lab/the-science-treatment-of-bipolar-disorder",
@@ -326,9 +326,12 @@
    "chars": 43632,
    "cjk": 34484,
    "chunks": 25,
-   "title_zh": "精华版：双相情感障碍科学治疗"
+   "title_zh": "精华版：双相情感障碍科学治疗",
+   "doc_id": "doHqQTmCTLdm",
+   "doc_url": "https://docs.qq.com/doc/DZG9IcVFUbUNUTGRt",
+   "done_at": "2026-09-28T09:33:31Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T09:33:21Z"
+ "updated_at": "2026-09-28T09:33:31Z"
 }
