@@ -624,14 +624,18 @@
   },
   "5dd5921bf3a53b70": {
    "date": "2026-04-16",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-28T11:18:07Z",
    "slug": "/podcasts/huberman-lab/understand-improve-memory-using-science-based-tools",
    "match_score": 1.0,
-   "words": 23283
+   "words": 23283,
+   "chars": 41840,
+   "cjk": 32909,
+   "chunks": 23,
+   "title_zh": "精华版：科学工具助你理解与提升记忆力"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T11:18:07Z"
+ "updated_at": "2026-09-28T11:30:53Z"
 }
