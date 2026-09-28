@@ -838,7 +838,7 @@
   },
   "f4d45567c2455ef3": {
    "date": "2026-02-12",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T12:28:14Z",
    "slug": "/podcasts/huberman-lab/the-science-of-love-desire-and-attachment",
@@ -847,9 +847,12 @@
    "chars": 46673,
    "cjk": 35176,
    "chunks": 25,
-   "title_zh": "精华版：爱的科学、欲望与依恋"
+   "title_zh": "精华版：爱的科学、欲望与依恋",
+   "doc_id": "dSqujQujnzDi",
+   "doc_url": "https://docs.qq.com/doc/DZFNxdWpRdWpuekRp",
+   "done_at": "2026-09-28T12:36:51Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T12:36:40Z"
+ "updated_at": "2026-09-28T12:36:51Z"
 }
