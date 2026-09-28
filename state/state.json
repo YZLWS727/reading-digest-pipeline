@@ -1,5 +1,23 @@
 {
  "version": 1,
- "items": {},
- "runs": []
+ "items": {
+  "43505f5c572d03bb": {
+   "date": "2026-09-24",
+   "status": "done",
+   "attempts": 1,
+   "last_try": "2026-09-28T06:55:45Z",
+   "slug": "/podcasts/huberman-lab/essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin",
+   "match_score": 1.0,
+   "words": 7350,
+   "chars": 12599,
+   "cjk": 10337,
+   "chunks": 7,
+   "title_zh": "精华版：Dr. Andy Galpin 力量与肌肉增长最佳方案 | AMA",
+   "doc_id": "dffvziMGAgtD",
+   "doc_url": "https://docs.qq.com/doc/DZGZmdnppTUdBZ3RE",
+   "done_at": "2026-09-28T06:58:23Z"
+  }
+ },
+ "runs": [],
+ "updated_at": "2026-09-28T06:58:23Z"
 }
