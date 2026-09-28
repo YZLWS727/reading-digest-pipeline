@@ -96,8 +96,17 @@
    "doc_id": "dOctMOMBcpCQ",
    "doc_url": "https://docs.qq.com/doc/DZE9jdE1PTUJjcENR",
    "done_at": "2026-09-28T07:52:56Z"
+  },
+  "87353e29dc00f21a": {
+   "date": "2026-09-03",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T07:52:58Z",
+   "slug": "/podcasts/huberman-lab/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe",
+   "match_score": 1.0,
+   "words": 6127
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T07:52:56Z"
+ "updated_at": "2026-09-28T07:52:58Z"
 }
