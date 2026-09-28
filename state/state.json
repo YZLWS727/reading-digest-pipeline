@@ -560,7 +560,7 @@
   },
   "8e72d738deb006d7": {
    "date": "2026-05-04",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-28T10:53:41Z",
    "slug": "/podcasts/huberman-lab/mental-health-toolkit-tools-to-bolster-your-mood-mental-health",
@@ -573,5 +573,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T11:02:20Z"
+ "updated_at": "2026-09-28T11:02:22Z"
 }
