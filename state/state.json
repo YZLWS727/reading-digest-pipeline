@@ -557,8 +557,17 @@
    "last_try": "2026-09-28T10:53:40Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
    "last_error_at": "2026-09-28T10:53:40Z"
+  },
+  "8e72d738deb006d7": {
+   "date": "2026-05-04",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T10:53:41Z",
+   "slug": "/podcasts/huberman-lab/mental-health-toolkit-tools-to-bolster-your-mood-mental-health",
+   "match_score": 0.8,
+   "words": 23969
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T10:53:40Z"
+ "updated_at": "2026-09-28T10:53:42Z"
 }
