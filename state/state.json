@@ -240,8 +240,17 @@
    "doc_id": "dDOJnweCKuzV",
    "doc_url": "https://docs.qq.com/doc/DZERPSm53ZUNLdXpW",
    "done_at": "2026-09-28T08:46:35Z"
+  },
+  "4ef1af3c7abbe04b": {
+   "date": "2026-08-03",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T08:46:37Z",
+   "slug": "/podcasts/huberman-lab/how-your-immune-system-works-how-to-improve-it-dr-max-krummel",
+   "match_score": 1.0,
+   "words": 30569
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T08:46:35Z"
+ "updated_at": "2026-09-28T08:46:37Z"
 }
