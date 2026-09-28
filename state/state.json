@@ -179,7 +179,7 @@
   },
   "6c8f9505567a7f4b": {
    "date": "2026-08-17",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T08:23:24Z",
    "slug": "/podcasts/huberman-lab/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs",
@@ -188,9 +188,12 @@
    "chars": 44069,
    "cjk": 35900,
    "chunks": 24,
-   "title_zh": "情绪神经科学及情绪调节工具 | Dr. Ralph Adolphs"
+   "title_zh": "情绪神经科学及情绪调节工具 | Dr. Ralph Adolphs",
+   "doc_id": "dqSaoLQhkZzD",
+   "doc_url": "https://docs.qq.com/doc/DZHFTYW9MUWhrWnpE",
+   "done_at": "2026-09-28T08:33:24Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T08:33:15Z"
+ "updated_at": "2026-09-28T08:33:24Z"
 }
