@@ -779,8 +779,16 @@
    "doc_id": "dFJGxJUxgHlE",
    "doc_url": "https://docs.qq.com/doc/DZEZKR3hKVXhnSGxF",
    "done_at": "2026-09-28T12:08:30Z"
+  },
+  "824a4c1a47dbfa00": {
+   "date": "2026-03-02",
+   "status": "pending",
+   "attempts": 1,
+   "last_try": "2026-09-28T12:08:31Z",
+   "last_error": "no_transcript: no transcript match (best=0.20)",
+   "last_error_at": "2026-09-28T12:08:31Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T12:08:30Z"
+ "updated_at": "2026-09-28T12:08:31Z"
 }
