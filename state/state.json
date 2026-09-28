@@ -811,8 +811,17 @@
    "last_try": "2026-09-28T12:18:33Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
    "last_error_at": "2026-09-28T12:18:33Z"
+  },
+  "814ed0b5c179244d": {
+   "date": "2026-02-19",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T12:18:35Z",
+   "slug": "/podcasts/huberman-lab/optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere",
+   "match_score": 0.86,
+   "words": 31869
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T12:18:33Z"
+ "updated_at": "2026-09-28T12:18:36Z"
 }
