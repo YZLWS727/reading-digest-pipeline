@@ -36,7 +36,8 @@ TITLE_PROMPT = """把下面这期播客的英文标题翻译成简体中文标�
 1. 简洁、准确、符合中文播客标题习惯，不超过 30 个汉字；
 2. 保留人名英文原文（如 Dr. Andy Galpin）；
 3. 标题中的 Essentials 一律译作「精华版」，AMA 保留为「AMA」；
-4. 只输出标题本身，不要引号、不要解释、不要句号。
+4. 不要添加原文不存在的词（原文没有 AMA、嘉宾名等就不要出现）；
+5. 只输出标题本身，不要引号、不要解释、不要句号。
 
 英文标题："""
 
@@ -193,6 +194,11 @@ class Translator:
                 try:
                     out = self._clean(self._post(model, TITLE_PROMPT + title, max_tokens=200, temperature=0.3))
                     out = out.splitlines()[0].strip().strip("。")
+                    if "AMA" not in title.upper() and "AMA" in out.upper():
+                        out = re.sub(r"\s*AMA\s*", " ", out, flags=re.IGNORECASE)
+                    if "essentials" not in title.lower() and "精华版" in out:
+                        out = out.replace("精华版", " ")
+                    out = re.sub(r"\s+", " ", out).strip(" ｜|:：-—")
                     if 2 <= cjk_count(out) and len(out) <= 60:
                         return out
                 except FatalApiError:
