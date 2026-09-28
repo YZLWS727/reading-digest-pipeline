@@ -32,8 +32,17 @@
    "doc_id": "dSIxXklvdNvS",
    "doc_url": "https://docs.qq.com/doc/DZFNJeFhrbHZkTnZT",
    "done_at": "2026-09-28T07:21:24Z"
+  },
+  "fbfb1c38fae08ff7": {
+   "date": "2026-09-17",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T07:21:25Z",
+   "slug": "/podcasts/huberman-lab/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin",
+   "match_score": 1.0,
+   "words": 7359
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T07:21:24Z"
+ "updated_at": "2026-09-28T07:21:26Z"
 }
