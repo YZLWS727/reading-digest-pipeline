@@ -790,7 +790,7 @@
   },
   "534d9b2184d3f927": {
    "date": "2026-02-26",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T12:08:33Z",
    "slug": "/podcasts/huberman-lab/using-light-sunlight-blue-light-red-light-to-optimize-health",
@@ -799,9 +799,12 @@
    "chars": 42802,
    "cjk": 33953,
    "chunks": 25,
-   "title_zh": "精华版：用光优化健康"
+   "title_zh": "精华版：用光优化健康",
+   "doc_id": "dkAKLxrBEcUk",
+   "doc_url": "https://docs.qq.com/doc/DZGtBS0x4ckJFY1Vr",
+   "done_at": "2026-09-28T12:18:32Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T12:18:22Z"
+ "updated_at": "2026-09-28T12:18:32Z"
 }
