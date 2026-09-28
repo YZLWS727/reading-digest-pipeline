@@ -838,7 +838,7 @@
   },
   "f4d45567c2455ef3": {
    "date": "2026-02-12",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-28T12:28:14Z",
    "slug": "/podcasts/huberman-lab/the-science-of-love-desire-and-attachment",
@@ -851,5 +851,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T12:36:38Z"
+ "updated_at": "2026-09-28T12:36:40Z"
 }
