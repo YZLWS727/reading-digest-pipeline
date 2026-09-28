@@ -258,7 +258,7 @@
   },
   "3d9cc5faf76fe30c": {
    "date": "2026-07-30",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-28T09:01:03Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink",
@@ -271,5 +271,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T09:03:18Z"
+ "updated_at": "2026-09-28T09:03:21Z"
 }
