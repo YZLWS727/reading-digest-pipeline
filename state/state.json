@@ -648,7 +648,7 @@
   },
   "b96ebf649a7e5feb": {
    "date": "2026-04-09",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T11:31:10Z",
    "slug": "/podcasts/huberman-lab/the-biology-of-aggression-mating-arousal-dr-david-anderson",
@@ -657,9 +657,12 @@
    "chars": 30746,
    "cjk": 24726,
    "chunks": 17,
-   "title_zh": "精华版：攻击、求偶与兴奋的生物学 | Dr. David Anderson"
+   "title_zh": "精华版：攻击、求偶与兴奋的生物学 | Dr. David Anderson",
+   "doc_id": "dVWEZfQeENFD",
+   "doc_url": "https://docs.qq.com/doc/DZFZXRVpmUWVFTkZE",
+   "done_at": "2026-09-28T11:37:11Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T11:36:59Z"
+ "updated_at": "2026-09-28T11:37:11Z"
 }
