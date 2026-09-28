@@ -51,14 +51,18 @@
   },
   "9b937e7dbb44f303": {
    "date": "2026-09-14",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-28T07:25:13Z",
    "slug": "/podcasts/huberman-lab/the-art-of-true-happiness-dr-arthur-brooks",
    "match_score": 1.0,
-   "words": 33257
+   "words": 33257,
+   "chars": 60117,
+   "cjk": 48983,
+   "chunks": 32,
+   "title_zh": "真幸福之道 | Dr. Arthur Brooks"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T07:25:14Z"
+ "updated_at": "2026-09-28T07:36:26Z"
 }
