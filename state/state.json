@@ -67,7 +67,7 @@
   },
   "2d482ba68eb21a8f": {
    "date": "2026-09-10",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-28T07:36:41Z",
    "slug": "/podcasts/huberman-lab/essentials-genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi",
@@ -80,5 +80,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T07:38:30Z"
+ "updated_at": "2026-09-28T07:38:32Z"
 }
