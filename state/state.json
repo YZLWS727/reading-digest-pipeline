@@ -480,7 +480,7 @@
   },
   "16cd633f047c2693": {
    "date": "2026-05-28",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-28T10:28:51Z",
    "slug": "/podcasts/huberman-lab/the-science-process-of-healing-from-grief",
@@ -493,5 +493,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T10:36:05Z"
+ "updated_at": "2026-09-28T10:36:07Z"
 }
