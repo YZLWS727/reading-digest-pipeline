@@ -692,14 +692,18 @@
   },
   "959e42085b56d7a1": {
    "date": "2026-03-26",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-28T11:37:19Z",
    "slug": "/podcasts/huberman-lab/using-salt-to-optimize-mental-physical-performance",
    "match_score": 1.0,
-   "words": 21644
+   "words": 21644,
+   "chars": 36123,
+   "cjk": 29162,
+   "chunks": 21,
+   "title_zh": "精华版：用盐优化身心表现 Dr. Andy Galpin"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T11:37:19Z"
+ "updated_at": "2026-09-28T11:45:46Z"
 }
