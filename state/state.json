@@ -274,14 +274,18 @@
   },
   "a8caf56b95be4caa": {
    "date": "2026-07-27",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-28T09:03:33Z",
    "slug": "/podcasts/huberman-lab/your-top-health-questions-answered",
    "match_score": 1.0,
-   "words": 19842
+   "words": 19842,
+   "chars": 33962,
+   "cjk": 27993,
+   "chunks": 19,
+   "title_zh": "健康 问答"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T09:03:34Z"
+ "updated_at": "2026-09-28T09:12:25Z"
 }
