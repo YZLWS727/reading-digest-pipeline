@@ -560,7 +560,7 @@
   },
   "8e72d738deb006d7": {
    "date": "2026-05-04",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T10:53:41Z",
    "slug": "/podcasts/huberman-lab/mental-health-toolkit-tools-to-bolster-your-mood-mental-health",
@@ -569,9 +569,12 @@
    "chars": 42105,
    "cjk": 33585,
    "chunks": 24,
-   "title_zh": "增强心理与自信 Dr. Paul Conti"
+   "title_zh": "增强心理与自信 Dr. Paul Conti",
+   "doc_id": "doNNbgygPKcf",
+   "doc_url": "https://docs.qq.com/doc/DZG9OTmJneWdQS2Nm",
+   "done_at": "2026-09-28T11:02:32Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T11:02:22Z"
+ "updated_at": "2026-09-28T11:02:32Z"
 }
