@@ -211,7 +211,7 @@
   },
   "b0adcddcc7fa55cd": {
    "date": "2026-08-10",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T08:36:14Z",
    "slug": "/podcasts/huberman-lab/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li",
@@ -220,9 +220,12 @@
    "chars": 34561,
    "cjk": 29017,
    "chunks": 19,
-   "title_zh": "用AI提升智能与丰富人类 | Dr. Fei-Fei Li"
+   "title_zh": "用AI提升智能与丰富人类 | Dr. Fei-Fei Li",
+   "doc_id": "dPHODoZFqCpK",
+   "doc_url": "https://docs.qq.com/doc/DZFBIT0RvWkZxQ3BL",
+   "done_at": "2026-09-28T08:44:07Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T08:43:58Z"
+ "updated_at": "2026-09-28T08:44:07Z"
 }
