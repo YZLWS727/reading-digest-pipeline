@@ -83,7 +83,7 @@
   },
   "3338b494799e401b": {
    "date": "2026-09-07",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T07:38:43Z",
    "slug": "/podcasts/huberman-lab/how-mitochondria-control-your-metabolism-dr-jared-rutter",
@@ -92,9 +92,12 @@
    "chars": 36694,
    "cjk": 31112,
    "chunks": 21,
-   "title_zh": "线粒体如何调控代谢 | Dr. Jared Rutter"
+   "title_zh": "线粒体如何调控代谢 | Dr. Jared Rutter",
+   "doc_id": "dOctMOMBcpCQ",
+   "doc_url": "https://docs.qq.com/doc/DZE9jdE1PTUJjcENR",
+   "done_at": "2026-09-28T07:52:56Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T07:52:46Z"
+ "updated_at": "2026-09-28T07:52:56Z"
 }
