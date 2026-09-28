@@ -99,14 +99,18 @@
   },
   "87353e29dc00f21a": {
    "date": "2026-09-03",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-28T07:52:58Z",
    "slug": "/podcasts/huberman-lab/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe",
    "match_score": 1.0,
-   "words": 6127
+   "words": 6127,
+   "chars": 10689,
+   "cjk": 8590,
+   "chunks": 6,
+   "title_zh": "精华版：用睡眠提升学习记忆与情绪 | Dr. Gina Poe"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T07:52:58Z"
+ "updated_at": "2026-09-28T07:55:28Z"
 }
