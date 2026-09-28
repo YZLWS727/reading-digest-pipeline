@@ -35,7 +35,7 @@
   },
   "fbfb1c38fae08ff7": {
    "date": "2026-09-17",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-28T07:21:25Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin",
@@ -48,5 +48,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T07:25:00Z"
+ "updated_at": "2026-09-28T07:25:02Z"
 }
