@@ -274,7 +274,7 @@
   },
   "a8caf56b95be4caa": {
    "date": "2026-07-27",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T09:03:33Z",
    "slug": "/podcasts/huberman-lab/your-top-health-questions-answered",
@@ -283,9 +283,12 @@
    "chars": 33962,
    "cjk": 27993,
    "chunks": 19,
-   "title_zh": "健康 问答"
+   "title_zh": "健康 问答",
+   "doc_id": "dFLEKBkJsyam",
+   "doc_url": "https://docs.qq.com/doc/DZEZMRUtCa0pzeWFt",
+   "done_at": "2026-09-28T09:12:36Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T09:12:27Z"
+ "updated_at": "2026-09-28T09:12:36Z"
 }
