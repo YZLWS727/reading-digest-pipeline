@@ -814,7 +814,7 @@
   },
   "814ed0b5c179244d": {
    "date": "2026-02-19",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T12:18:35Z",
    "slug": "/podcasts/huberman-lab/optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere",
@@ -823,9 +823,12 @@
    "chars": 51264,
    "cjk": 43585,
    "chunks": 30,
-   "title_zh": "精华版：Jeff Cavaliere 科学工具优化运动计划"
+   "title_zh": "精华版：Jeff Cavaliere 科学工具优化运动计划",
+   "doc_id": "dQRGNzoJfKFx",
+   "doc_url": "https://docs.qq.com/doc/DZFFSR056b0pmS0Z4",
+   "done_at": "2026-09-28T12:28:11Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T12:27:59Z"
+ "updated_at": "2026-09-28T12:28:11Z"
 }
