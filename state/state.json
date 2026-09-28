@@ -408,7 +408,7 @@
   },
   "7783a7878b7849ae": {
    "date": "2026-06-18",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T10:06:54Z",
    "slug": "/podcasts/huberman-lab/improve-flexibility-with-research-supported-stretching-protocols",
@@ -417,9 +417,12 @@
    "chars": 36879,
    "cjk": 29963,
    "chunks": 22,
-   "title_zh": "精华版：研究证实拉伸方案提升柔韧性"
+   "title_zh": "精华版：研究证实拉伸方案提升柔韧性",
+   "doc_id": "djBLUUYrYxqp",
+   "doc_url": "https://docs.qq.com/doc/DZGpCTFVVWXJZeHFw",
+   "done_at": "2026-09-28T10:15:10Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T10:14:59Z"
+ "updated_at": "2026-09-28T10:15:10Z"
 }
