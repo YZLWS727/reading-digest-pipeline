@@ -766,7 +766,7 @@
   },
   "6df389737e47e416": {
    "date": "2026-03-05",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T11:59:50Z",
    "slug": "/podcasts/huberman-lab/the-biology-of-taste-perception-sugar-craving-dr-charles-zuker",
@@ -775,9 +775,12 @@
    "chars": 31217,
    "cjk": 26548,
    "chunks": 18,
-   "title_zh": "精华版：味觉感知与糖瘾生物学 | Dr. Charles Zuker"
+   "title_zh": "精华版：味觉感知与糖瘾生物学 | Dr. Charles Zuker",
+   "doc_id": "dFJGxJUxgHlE",
+   "doc_url": "https://docs.qq.com/doc/DZEZKR3hKVXhnSGxF",
+   "done_at": "2026-09-28T12:08:30Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T12:08:19Z"
+ "updated_at": "2026-09-28T12:08:30Z"
 }
