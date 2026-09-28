@@ -303,8 +303,17 @@
    "doc_id": "dNznfRlgdAKy",
    "doc_url": "https://docs.qq.com/doc/DZE56bmZSbGdkQUt5",
    "done_at": "2026-09-28T09:16:42Z"
+  },
+  "37b25bd3360a8da6": {
+   "date": "2026-07-20",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T09:16:43Z",
+   "slug": "/podcasts/huberman-lab/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood",
+   "match_score": 1.0,
+   "words": 28867
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T09:16:42Z"
+ "updated_at": "2026-09-28T09:16:44Z"
 }
