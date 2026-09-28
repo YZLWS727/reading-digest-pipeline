@@ -432,14 +432,18 @@
   },
   "e12e0470aa2335d2": {
    "date": "2026-06-11",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-28T10:15:13Z",
    "slug": "/podcasts/huberman-lab/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing",
    "match_score": 0.83,
-   "words": 20333
+   "words": 20333,
+   "chars": 32950,
+   "cjk": 26921,
+   "chunks": 19,
+   "title_zh": "睡眠精华版：优化睡眠与睡眠觉醒工具"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T10:15:14Z"
+ "updated_at": "2026-09-28T10:21:03Z"
 }
