@@ -384,14 +384,18 @@
   },
   "b6c03500a3ff7d8d": {
    "date": "2026-06-25",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-28T09:53:39Z",
    "slug": "/podcasts/huberman-lab/dr-layne-norton-the-science-of-eating-for-health-fat-loss-lean-muscle",
    "match_score": 0.88,
-   "words": 41572
+   "words": 41572,
+   "chars": 71484,
+   "cjk": 58435,
+   "chunks": 39,
+   "title_zh": "健康饮食、减脂增肌科学精华版 Dr. Layne Norton"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T09:53:40Z"
+ "updated_at": "2026-09-28T10:06:38Z"
 }
