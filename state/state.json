@@ -147,7 +147,7 @@
   },
   "04b99b70030a00e1": {
    "date": "2026-08-24",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T08:11:36Z",
    "slug": "/podcasts/huberman-lab/how-to-improve-motivation-overcome-procrastination-dr-masud-husain",
@@ -156,9 +156,12 @@
    "chars": 45499,
    "cjk": 36205,
    "chunks": 24,
-   "title_zh": "提升动力克服拖延症 Dr. Masud Husain"
+   "title_zh": "提升动力克服拖延症 Dr. Masud Husain",
+   "doc_id": "dCDQQkfLzeMr",
+   "doc_url": "https://docs.qq.com/doc/DZENEUVFrZkx6ZU1y",
+   "done_at": "2026-09-28T08:21:08Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T08:20:59Z"
+ "updated_at": "2026-09-28T08:21:08Z"
 }
