@@ -477,8 +477,17 @@
    "last_try": "2026-09-28T10:28:49Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
    "last_error_at": "2026-09-28T10:28:49Z"
+  },
+  "16cd633f047c2693": {
+   "date": "2026-05-28",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T10:28:51Z",
+   "slug": "/podcasts/huberman-lab/the-science-process-of-healing-from-grief",
+   "match_score": 1.0,
+   "words": 21725
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T10:28:49Z"
+ "updated_at": "2026-09-28T10:28:52Z"
 }
