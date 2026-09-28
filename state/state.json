@@ -227,7 +227,7 @@
   },
   "91ed7fe1ac2b433f": {
    "date": "2026-08-06",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T08:44:09Z",
    "slug": "/podcasts/huberman-lab/essentials-control-your-brain-chemistry-for-focus-motivation-well-being",
@@ -236,9 +236,12 @@
    "chars": 11622,
    "cjk": 8654,
    "chunks": 6,
-   "title_zh": "精华版：掌控脑化学，专注、动力与幸福感"
+   "title_zh": "精华版：掌控脑化学，专注、动力与幸福感",
+   "doc_id": "dDOJnweCKuzV",
+   "doc_url": "https://docs.qq.com/doc/DZERPSm53ZUNLdXpW",
+   "done_at": "2026-09-28T08:46:35Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T08:46:24Z"
+ "updated_at": "2026-09-28T08:46:35Z"
 }
