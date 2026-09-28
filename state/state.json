@@ -176,8 +176,17 @@
    "doc_id": "dPKjelyPzFhu",
    "doc_url": "https://docs.qq.com/doc/DZFBLamVseVB6Rmh1",
    "done_at": "2026-09-28T08:23:23Z"
+  },
+  "6c8f9505567a7f4b": {
+   "date": "2026-08-17",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T08:23:24Z",
+   "slug": "/podcasts/huberman-lab/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs",
+   "match_score": 1.0,
+   "words": 24799
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T08:23:23Z"
+ "updated_at": "2026-09-28T08:23:25Z"
 }
