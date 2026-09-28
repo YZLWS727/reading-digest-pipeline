@@ -573,8 +573,17 @@
    "doc_id": "doNNbgygPKcf",
    "doc_url": "https://docs.qq.com/doc/DZG9OTmJneWdQS2Nm",
    "done_at": "2026-09-28T11:02:32Z"
+  },
+  "28a28c128c745f71": {
+   "date": "2026-04-30",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T11:02:34Z",
+   "slug": "/podcasts/huberman-lab/controlling-sugar-cravings-metabolism-with-science-based-tools",
+   "match_score": 0.86,
+   "words": 20883
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T11:02:32Z"
+ "updated_at": "2026-09-28T11:02:35Z"
 }
