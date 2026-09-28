@@ -147,7 +147,7 @@
   },
   "04b99b70030a00e1": {
    "date": "2026-08-24",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-28T08:11:36Z",
    "slug": "/podcasts/huberman-lab/how-to-improve-motivation-overcome-procrastination-dr-masud-husain",
@@ -160,5 +160,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T08:20:57Z"
+ "updated_at": "2026-09-28T08:20:59Z"
 }
