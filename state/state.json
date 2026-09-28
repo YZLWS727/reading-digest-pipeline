@@ -287,8 +287,17 @@
    "doc_id": "dFLEKBkJsyam",
    "doc_url": "https://docs.qq.com/doc/DZEZMRUtCa0pzeWFt",
    "done_at": "2026-09-28T09:12:36Z"
+  },
+  "a878a3cc34962d8f": {
+   "date": "2026-07-23",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T09:12:38Z",
+   "slug": "/podcasts/huberman-lab/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris",
+   "match_score": 1.0,
+   "words": 7004
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T09:12:36Z"
+ "updated_at": "2026-09-28T09:12:38Z"
 }
