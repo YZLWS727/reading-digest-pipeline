@@ -621,8 +621,17 @@
    "last_try": "2026-09-28T11:18:05Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
    "last_error_at": "2026-09-28T11:18:05Z"
+  },
+  "5dd5921bf3a53b70": {
+   "date": "2026-04-16",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T11:18:07Z",
+   "slug": "/podcasts/huberman-lab/understand-improve-memory-using-science-based-tools",
+   "match_score": 1.0,
+   "words": 23283
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T11:18:05Z"
+ "updated_at": "2026-09-28T11:18:07Z"
 }
