@@ -501,8 +501,17 @@
    "last_try": "2026-09-28T10:36:19Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
    "last_error_at": "2026-09-28T10:36:19Z"
+  },
+  "464b83dbc01b6597": {
+   "date": "2026-05-21",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T10:36:21Z",
+   "slug": "/podcasts/huberman-lab/the-science-of-learning-speaking-languages-dr-eddie-chang",
+   "match_score": 0.8,
+   "words": 24493
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T10:36:19Z"
+ "updated_at": "2026-09-28T10:36:22Z"
 }
