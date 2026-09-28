@@ -504,7 +504,7 @@
   },
   "464b83dbc01b6597": {
    "date": "2026-05-21",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T10:36:21Z",
    "slug": "/podcasts/huberman-lab/the-science-of-learning-speaking-languages-dr-eddie-chang",
@@ -513,9 +513,12 @@
    "chars": 40698,
    "cjk": 33606,
    "chunks": 24,
-   "title_zh": "精华版：学习与语言科学 | Dr. Eddie Chang"
+   "title_zh": "精华版：学习与语言科学 | Dr. Eddie Chang",
+   "doc_id": "doGlZNRLTDJI",
+   "doc_url": "https://docs.qq.com/doc/DZG9HbFpOUkxUREpJ",
+   "done_at": "2026-09-28T10:46:40Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T10:46:31Z"
+ "updated_at": "2026-09-28T10:46:40Z"
 }
