@@ -83,7 +83,7 @@
   },
   "3338b494799e401b": {
    "date": "2026-09-07",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-28T07:38:43Z",
    "slug": "/podcasts/huberman-lab/how-mitochondria-control-your-metabolism-dr-jared-rutter",
@@ -96,5 +96,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T07:52:44Z"
+ "updated_at": "2026-09-28T07:52:46Z"
 }
