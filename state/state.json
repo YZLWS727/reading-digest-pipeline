@@ -814,7 +814,7 @@
   },
   "814ed0b5c179244d": {
    "date": "2026-02-19",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-28T12:18:35Z",
    "slug": "/podcasts/huberman-lab/optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere",
@@ -827,5 +827,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T12:27:57Z"
+ "updated_at": "2026-09-28T12:27:59Z"
 }
