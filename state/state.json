@@ -67,7 +67,7 @@
   },
   "2d482ba68eb21a8f": {
    "date": "2026-09-10",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T07:36:41Z",
    "slug": "/podcasts/huberman-lab/essentials-genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi",
@@ -76,9 +76,12 @@
    "chars": 10338,
    "cjk": 8439,
    "chunks": 7,
-   "title_zh": "精华版：基因与跨代记忆遗传 | Dr. Oded Rechavi"
+   "title_zh": "精华版：基因与跨代记忆遗传 | Dr. Oded Rechavi",
+   "doc_id": "dXGveTcHWIAx",
+   "doc_url": "https://docs.qq.com/doc/DZFhHdmVUY0hXSUF4",
+   "done_at": "2026-09-28T07:38:41Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T07:38:32Z"
+ "updated_at": "2026-09-28T07:38:41Z"
 }
