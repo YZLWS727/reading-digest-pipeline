@@ -669,8 +669,18 @@
    "last_try": "2026-09-28T11:37:13Z",
    "last_error": "no_transcript: no transcript match (best=0.20)",
    "last_error_at": "2026-09-28T11:37:13Z"
+  },
+  "d1eeb93398a65816": {
+   "date": "2026-04-02",
+   "status": "pending",
+   "attempts": 1,
+   "last_try": "2026-09-28T11:37:14Z",
+   "slug": "/podcasts/huberman-lab/essentials-how-to-build-endurance",
+   "match_score": 1.0,
+   "last_error": "error: title mismatch: Huberman Lab - Essentials: How to Build Endurance Transcript",
+   "last_error_at": "2026-09-28T11:37:15Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T11:37:13Z"
+ "updated_at": "2026-09-28T11:37:15Z"
 }
