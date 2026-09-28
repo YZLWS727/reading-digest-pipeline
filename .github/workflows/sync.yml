@@ -1,0 +1,76 @@
+name: sync
+
+on:
+  schedule:
+    # 北京时间 12:05 与 18:05（UTC 04:05 / 10:05）；脚本内部还有 12:00–22:30 的窗口与 22:30 截止判断
+    - cron: "5 4 * * *"
+    - cron: "5 10 * * *"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "本轮最多处理多少期（0=不限）"
+        required: false
+        default: "0"
+      only:
+        description: "只处理指定 item key（留空=按队列）"
+        required: false
+        default: ""
+      force:
+        description: "忽略时间窗限制（true/false）"
+        required: false
+        default: "false"
+
+concurrency:
+  group: reading-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: install deps
+        run: pip install -r requirements.txt
+
+      - name: run pipeline
+        env:
+          LIMIT: ${{ inputs.limit || 0 }}
+          ONLY: ${{ inputs.only || '' }}
+          FORCE: ${{ inputs.force || 'false' }}
+          FEED_URL: ${{ secrets.FEED_URL }}
+          TRANSCRIPT_BASE: ${{ secrets.TRANSCRIPT_BASE }}
+          TARGET_FOLDER_ID: ${{ secrets.TARGET_FOLDER_ID }}
+          SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+          TENCENT_DOCS_TOKEN: ${{ secrets.TENCENT_DOCS_TOKEN }}
+          WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+          GIT_COMMIT: "1"
+        run: |
+          set -euo pipefail
+          ARGS=(--limit "${LIMIT:-0}")
+          if [ -n "${ONLY:-}" ]; then ARGS+=(--only "$ONLY"); fi
+          if [ "${FORCE:-false}" = "true" ]; then ARGS+=(--force); fi
+          python run.py "${ARGS[@]}"
+
+      - name: commit state
+        if: always()
+        run: |
+          set -euo pipefail
+          git config user.name "reading-bot"
+          git config user.email "reading-bot@users.noreply.github.com"
+          git add state/ || true
+          if ! git diff --cached --quiet; then
+            git commit -m "state: sync"
+            git push
+          fi
