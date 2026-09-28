@@ -131,14 +131,18 @@
   },
   "589d674ed450b270": {
    "date": "2026-08-27",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-28T08:08:38Z",
    "slug": "/podcasts/huberman-lab/essentials-diet-nutrition-for-mental-health-dr-chris-palmer",
    "match_score": 1.0,
-   "words": 6114
+   "words": 6114,
+   "chars": 11404,
+   "cjk": 9124,
+   "chunks": 6,
+   "title_zh": "精华版：饮食营养与心理健康 | Dr. Chris Palmer"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T08:08:39Z"
+ "updated_at": "2026-09-28T08:11:22Z"
 }
