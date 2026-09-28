@@ -128,8 +128,17 @@
    "doc_id": "dHrqaPbdluXu",
    "doc_url": "https://docs.qq.com/doc/DZEhycWFQYmRsdVh1",
    "done_at": "2026-09-28T08:08:36Z"
+  },
+  "589d674ed450b270": {
+   "date": "2026-08-27",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T08:08:38Z",
+   "slug": "/podcasts/huberman-lab/essentials-diet-nutrition-for-mental-health-dr-chris-palmer",
+   "match_score": 1.0,
+   "words": 6114
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T08:08:36Z"
+ "updated_at": "2026-09-28T08:08:39Z"
 }
