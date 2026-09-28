@@ -195,7 +195,7 @@
   },
   "bd197b5f8789cacf": {
    "date": "2026-08-13",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T08:33:26Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried",
@@ -204,9 +204,12 @@
    "chars": 11973,
    "cjk": 9411,
    "chunks": 7,
-   "title_zh": "精华版：如何优化女性激素健康促进活力与长寿 Dr. Sara Gottfried"
+   "title_zh": "精华版：如何优化女性激素健康促进活力与长寿 Dr. Sara Gottfried",
+   "doc_id": "dRsIdiSaDWbu",
+   "doc_url": "https://docs.qq.com/doc/DZFJzSWRpU2FEV2J1",
+   "done_at": "2026-09-28T08:36:12Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T08:36:01Z"
+ "updated_at": "2026-09-28T08:36:12Z"
 }
