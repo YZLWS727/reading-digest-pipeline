@@ -131,7 +131,7 @@
   },
   "589d674ed450b270": {
    "date": "2026-08-27",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-28T08:08:38Z",
    "slug": "/podcasts/huberman-lab/essentials-diet-nutrition-for-mental-health-dr-chris-palmer",
@@ -144,5 +144,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T08:11:22Z"
+ "updated_at": "2026-09-28T08:11:24Z"
 }
