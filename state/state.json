@@ -408,7 +408,7 @@
   },
   "7783a7878b7849ae": {
    "date": "2026-06-18",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-28T10:06:54Z",
    "slug": "/podcasts/huberman-lab/improve-flexibility-with-research-supported-stretching-protocols",
@@ -421,5 +421,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T10:14:58Z"
+ "updated_at": "2026-09-28T10:14:59Z"
 }
