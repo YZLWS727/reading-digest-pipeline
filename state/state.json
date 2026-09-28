@@ -790,7 +790,7 @@
   },
   "534d9b2184d3f927": {
    "date": "2026-02-26",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-28T12:08:33Z",
    "slug": "/podcasts/huberman-lab/using-light-sunlight-blue-light-red-light-to-optimize-health",
@@ -803,5 +803,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T12:18:20Z"
+ "updated_at": "2026-09-28T12:18:22Z"
 }
