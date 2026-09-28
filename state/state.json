@@ -600,14 +600,18 @@
   },
   "58c271f3fccc3482": {
    "date": "2026-04-23",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-28T11:10:34Z",
    "slug": "/podcasts/huberman-lab/the-neuroscience-of-speech-language-music-dr-erich-jarvis",
    "match_score": 0.8,
-   "words": 17696
+   "words": 17696,
+   "chars": 31117,
+   "cjk": 25680,
+   "chunks": 17,
+   "title_zh": "精华版：言语、语言与音乐的神经科学 | Dr. Erich Jarvis"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T11:10:35Z"
+ "updated_at": "2026-09-28T11:17:51Z"
 }
