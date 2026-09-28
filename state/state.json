@@ -258,14 +258,18 @@
   },
   "3d9cc5faf76fe30c": {
    "date": "2026-07-30",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-28T09:01:03Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink",
    "match_score": 1.0,
-   "words": 7554
+   "words": 7554,
+   "chars": 11952,
+   "cjk": 10087,
+   "chunks": 7,
+   "title_zh": "精华版：如何变得坚韧、塑造自我、领导他人 | Jocko Willink"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T09:01:03Z"
+ "updated_at": "2026-09-28T09:03:18Z"
 }
