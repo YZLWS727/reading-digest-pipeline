@@ -405,8 +405,17 @@
    "last_try": "2026-09-28T10:06:53Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
    "last_error_at": "2026-09-28T10:06:53Z"
+  },
+  "7783a7878b7849ae": {
+   "date": "2026-06-18",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T10:06:54Z",
+   "slug": "/podcasts/huberman-lab/improve-flexibility-with-research-supported-stretching-protocols",
+   "match_score": 1.0,
+   "words": 22198
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T10:06:53Z"
+ "updated_at": "2026-09-28T10:06:55Z"
 }
