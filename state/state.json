@@ -528,7 +528,7 @@
   },
   "0285c179c706316a": {
    "date": "2026-05-14",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-28T10:46:44Z",
    "slug": "/podcasts/huberman-lab/understanding-controlling-aggression",
@@ -537,9 +537,12 @@
    "chars": 29422,
    "cjk": 22169,
    "chunks": 16,
-   "title_zh": "精华版：理解与控制攻击性"
+   "title_zh": "精华版：理解与控制攻击性",
+   "doc_id": "dfXPZwabiiUz",
+   "doc_url": "https://docs.qq.com/doc/DZGZYUFp3YWJpaVV6",
+   "done_at": "2026-09-28T10:53:37Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T10:53:28Z"
+ "updated_at": "2026-09-28T10:53:37Z"
 }
