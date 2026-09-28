@@ -64,8 +64,17 @@
    "doc_id": "dvlcXDLtEBmj",
    "doc_url": "https://docs.qq.com/doc/DZHZsY1hETHRFQm1q",
    "done_at": "2026-09-28T07:36:39Z"
+  },
+  "2d482ba68eb21a8f": {
+   "date": "2026-09-10",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T07:36:41Z",
+   "slug": "/podcasts/huberman-lab/essentials-genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi",
+   "match_score": 1.0,
+   "words": 6266
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T07:36:39Z"
+ "updated_at": "2026-09-28T07:36:42Z"
 }
