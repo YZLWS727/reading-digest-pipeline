@@ -624,7 +624,7 @@
   },
   "5dd5921bf3a53b70": {
    "date": "2026-04-16",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-28T11:18:07Z",
    "slug": "/podcasts/huberman-lab/understand-improve-memory-using-science-based-tools",
@@ -637,5 +637,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T11:30:53Z"
+ "updated_at": "2026-09-28T11:30:55Z"
 }
