@@ -739,8 +739,17 @@
    "match_score": 0.8,
    "last_error": "error: title mismatch: Huberman Lab - Optimize Your Brain with Science-based Tools ",
    "last_error_at": "2026-09-28T11:52:17Z"
+  },
+  "b33710a8502636d9": {
+   "date": "2026-03-12",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T11:52:19Z",
+   "slug": "/podcasts/huberman-lab/the-science-health-benefits-of-deliberate-heat-exposure",
+   "match_score": 0.67,
+   "words": 20655
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T11:52:17Z"
+ "updated_at": "2026-09-28T11:52:19Z"
 }
