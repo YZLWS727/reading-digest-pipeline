@@ -453,8 +453,17 @@
    "last_try": "2026-09-28T10:21:17Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
    "last_error_at": "2026-09-28T10:21:17Z"
+  },
+  "008859b646811aae": {
+   "date": "2026-06-04",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-28T10:21:18Z",
+   "slug": "/podcasts/huberman-lab/dr-nolan-williams-psychedelics-neurostimulation-for-brain-rewiring",
+   "match_score": 0.8,
+   "words": 27779
   }
  },
  "runs": [],
- "updated_at": "2026-09-28T10:21:17Z"
+ "updated_at": "2026-09-28T10:21:19Z"
 }
