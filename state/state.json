@@ -1224,14 +1224,18 @@
   },
   "f5c7e5b221e2d0d6": {
    "date": "2025-11-06",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-29T13:27:50Z",
    "slug": "/podcasts/huberman-lab/essentials-erasing-fears-traumas-using-modern-neuroscience",
    "match_score": 1.0,
-   "words": 6516
+   "words": 6516,
+   "chars": 11385,
+   "cjk": 9274,
+   "chunks": 7,
+   "title_zh": "精华版：用现代神经科学消除恐惧与创伤"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T13:27:50Z"
+ "updated_at": "2026-09-29T13:29:37Z"
 }
