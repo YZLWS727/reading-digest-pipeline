@@ -766,10 +766,10 @@
   "2835e609b43773da": {
    "date": "2026-03-09",
    "status": "pending",
-   "attempts": 1,
-   "last_try": "2026-09-28T11:59:48Z",
+   "attempts": 2,
+   "last_try": "2026-09-29T11:06:26Z",
    "last_error": "no_transcript: no transcript match (best=0.40)",
-   "last_error_at": "2026-09-28T11:59:48Z"
+   "last_error_at": "2026-09-29T11:06:26Z"
   },
   "6df389737e47e416": {
    "date": "2026-03-05",
@@ -901,5 +901,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:06:25Z"
+ "updated_at": "2026-09-29T11:06:26Z"
 }
