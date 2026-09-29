@@ -1165,7 +1165,7 @@
   },
   "817ab792f3553897": {
    "date": "2025-11-20",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-29T13:04:21Z",
    "slug": "/podcasts/huberman-lab/essentials-science-of-building-strong-social-bonds-with-family-friends-romantic-partners",
@@ -1178,5 +1178,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T13:06:51Z"
+ "updated_at": "2026-09-29T13:06:53Z"
 }
