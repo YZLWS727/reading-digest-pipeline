@@ -989,7 +989,7 @@
   },
   "ec3933f2d0f1d37c": {
    "date": "2026-01-08",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-29T11:32:19Z",
    "slug": "/podcasts/huberman-lab/optimizing-workspace-for-productivity-focus-creativity",
@@ -998,9 +998,12 @@
    "chars": 34034,
    "cjk": 27588,
    "chunks": 19,
-   "title_zh": "精华版：优化工作空间提升效率专注创造力"
+   "title_zh": "精华版：优化工作空间提升效率专注创造力",
+   "doc_id": "dHFEBrmgbElI",
+   "doc_url": "https://docs.qq.com/doc/DZEhGRUJybWdiRWxJ",
+   "done_at": "2026-09-29T11:40:36Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:40:26Z"
+ "updated_at": "2026-09-29T11:40:36Z"
 }
