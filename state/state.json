@@ -925,7 +925,7 @@
   },
   "5c30d5c861d266ff": {
    "date": "2026-01-26",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-29T11:13:06Z",
    "slug": "/podcasts/huberman-lab/essentials-optimize-your-learning-creativity-with-science-based-tools",
@@ -934,9 +934,12 @@
    "chars": 11094,
    "cjk": 9017,
    "chunks": 7,
-   "title_zh": "学习记忆科学与工具 Dr. David Eagleman"
+   "title_zh": "学习记忆科学与工具 Dr. David Eagleman",
+   "doc_id": "dbJsbYctinnN",
+   "doc_url": "https://docs.qq.com/doc/DZGJKc2JZY3Rpbm5O",
+   "done_at": "2026-09-29T11:15:37Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:15:27Z"
+ "updated_at": "2026-09-29T11:15:37Z"
 }
