@@ -1336,7 +1336,7 @@
   },
   "d2359cfc176eefc8": {
    "date": "2025-10-13",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-29T14:07:48Z",
    "slug": "/podcasts/huberman-lab/protect-improve-your-hearing-brain-health-dr-konstantina-stankovic",
@@ -1349,5 +1349,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T14:16:15Z"
+ "updated_at": "2026-09-29T14:16:17Z"
 }
