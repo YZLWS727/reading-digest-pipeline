@@ -740,12 +740,12 @@
   "22ee6b0f66916a28": {
    "date": "2026-03-16",
    "status": "pending",
-   "attempts": 1,
-   "last_try": "2026-09-28T11:52:17Z",
+   "attempts": 2,
+   "last_try": "2026-09-29T11:06:24Z",
    "slug": "/podcasts/huberman-lab/optimize-your-brain-with-science-based-tools",
    "match_score": 0.8,
    "last_error": "error: title mismatch: Huberman Lab - Optimize Your Brain with Science-based Tools ",
-   "last_error_at": "2026-09-28T11:52:17Z"
+   "last_error_at": "2026-09-29T11:06:25Z"
   },
   "b33710a8502636d9": {
    "date": "2026-03-12",
@@ -901,5 +901,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:06:23Z"
+ "updated_at": "2026-09-29T11:06:25Z"
 }
