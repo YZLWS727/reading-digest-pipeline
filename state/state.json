@@ -1130,8 +1130,17 @@
    "last_try": "2026-09-29T12:47:36Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
    "last_error_at": "2026-09-29T12:47:36Z"
+  },
+  "e0b01a0f9baf6a7b": {
+   "date": "2025-11-27",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-29T12:47:38Z",
+   "slug": "/podcasts/huberman-lab/dr-david-spiegel-using-hypnosis-to-enhance-mental-physical-health-performance",
+   "match_score": 0.88,
+   "words": 19776
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T12:47:36Z"
+ "updated_at": "2026-09-29T12:47:38Z"
 }
