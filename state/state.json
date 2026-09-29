@@ -456,10 +456,10 @@
   "80af0b51286c9ba3": {
    "date": "2026-06-08",
    "status": "pending",
-   "attempts": 1,
-   "last_try": "2026-09-28T10:21:17Z",
+   "attempts": 2,
+   "last_try": "2026-09-29T11:06:06Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
-   "last_error_at": "2026-09-28T10:21:17Z"
+   "last_error_at": "2026-09-29T11:06:06Z"
   },
   "008859b646811aae": {
    "date": "2026-06-04",
@@ -901,5 +901,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:06:04Z"
+ "updated_at": "2026-09-29T11:06:06Z"
 }
