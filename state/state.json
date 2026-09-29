@@ -1045,9 +1045,11 @@
    "chars": 55437,
    "cjk": 42369,
    "chunks": 29,
-   "title_zh": "精华版：如何优化激素促进健康活力 Dr. Kyle Gillett"
+   "title_zh": "精华版：如何优化激素促进健康活力 Dr. Kyle Gillett",
+   "last_error": "timeout: budget exceeded after translate",
+   "last_error_at": "2026-09-29T12:21:45Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T12:21:43Z"
+ "updated_at": "2026-09-29T12:21:45Z"
 }
