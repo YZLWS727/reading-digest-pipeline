@@ -790,10 +790,10 @@
   "824a4c1a47dbfa00": {
    "date": "2026-03-02",
    "status": "pending",
-   "attempts": 1,
-   "last_try": "2026-09-28T12:08:31Z",
+   "attempts": 2,
+   "last_try": "2026-09-29T11:06:27Z",
    "last_error": "no_transcript: no transcript match (best=0.20)",
-   "last_error_at": "2026-09-28T12:08:31Z"
+   "last_error_at": "2026-09-29T11:06:27Z"
   },
   "534d9b2184d3f927": {
    "date": "2026-02-26",
@@ -901,5 +901,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:06:26Z"
+ "updated_at": "2026-09-29T11:06:27Z"
 }
