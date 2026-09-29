@@ -1165,14 +1165,18 @@
   },
   "817ab792f3553897": {
    "date": "2025-11-20",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-29T13:04:21Z",
    "slug": "/podcasts/huberman-lab/essentials-science-of-building-strong-social-bonds-with-family-friends-romantic-partners",
    "match_score": 1.0,
-   "words": 6287
+   "words": 6287,
+   "chars": 12054,
+   "cjk": 9040,
+   "chunks": 7,
+   "title_zh": "精华版：构建强社交纽带科学"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T13:04:21Z"
+ "updated_at": "2026-09-29T13:06:51Z"
 }
