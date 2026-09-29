@@ -1221,8 +1221,17 @@
    "doc_id": "dLbjxbvABWop",
    "doc_url": "https://docs.qq.com/doc/DZExianhidkFCV29w",
    "done_at": "2026-09-29T13:27:49Z"
+  },
+  "f5c7e5b221e2d0d6": {
+   "date": "2025-11-06",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-29T13:27:50Z",
+   "slug": "/podcasts/huberman-lab/essentials-erasing-fears-traumas-using-modern-neuroscience",
+   "match_score": 1.0,
+   "words": 6516
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T13:27:49Z"
+ "updated_at": "2026-09-29T13:27:50Z"
 }
