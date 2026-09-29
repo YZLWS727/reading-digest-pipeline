@@ -1288,7 +1288,7 @@
   },
   "a67d556fe09b1ad2": {
    "date": "2025-10-23",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-29T13:50:13Z",
    "slug": "/podcasts/huberman-lab/the-science-of-gratitude-how-to-build-a-gratitude-practice",
@@ -1297,9 +1297,12 @@
    "chars": 24475,
    "cjk": 19494,
    "chunks": 15,
-   "title_zh": "精华版：感恩科学与如何建立感恩习惯"
+   "title_zh": "精华版：感恩科学与如何建立感恩习惯",
+   "doc_id": "dHNbhVfcVvJI",
+   "doc_url": "https://docs.qq.com/doc/DZEhOYmhWZmNWdkpJ",
+   "done_at": "2026-09-29T13:55:08Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T13:54:55Z"
+ "updated_at": "2026-09-29T13:55:08Z"
 }
