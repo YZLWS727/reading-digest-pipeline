@@ -941,7 +941,7 @@
   },
   "cbd1b0fa7d752ca3": {
    "date": "2026-01-22",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-29T11:15:38Z",
    "slug": "/podcasts/huberman-lab/therapy-treating-trauma-other-life-challenges-dr-paul-conti",
@@ -954,5 +954,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:25:17Z"
+ "updated_at": "2026-09-29T11:25:18Z"
 }
