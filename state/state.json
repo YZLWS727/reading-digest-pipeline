@@ -528,10 +528,10 @@
   "1a870a5cd10bc9ae": {
    "date": "2026-05-18",
    "status": "pending",
-   "attempts": 1,
-   "last_try": "2026-09-28T10:46:42Z",
+   "attempts": 2,
+   "last_try": "2026-09-29T11:06:10Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
-   "last_error_at": "2026-09-28T10:46:42Z"
+   "last_error_at": "2026-09-29T11:06:10Z"
   },
   "0285c179c706316a": {
    "date": "2026-05-14",
@@ -901,5 +901,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:06:09Z"
+ "updated_at": "2026-09-29T11:06:10Z"
 }
