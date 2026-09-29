@@ -986,8 +986,17 @@
    "last_try": "2026-09-29T11:32:18Z",
    "last_error": "no_transcript: no transcript match (best=0.25)",
    "last_error_at": "2026-09-29T11:32:18Z"
+  },
+  "ec3933f2d0f1d37c": {
+   "date": "2026-01-08",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-29T11:32:19Z",
+   "slug": "/podcasts/huberman-lab/optimizing-workspace-for-productivity-focus-creativity",
+   "match_score": 1.0,
+   "words": 19865
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:32:18Z"
+ "updated_at": "2026-09-29T11:32:20Z"
 }
