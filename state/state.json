@@ -1208,7 +1208,7 @@
   },
   "3e5c023c812a658e": {
    "date": "2025-11-10",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-29T13:21:10Z",
    "slug": "/podcasts/huberman-lab/how-your-thoughts-are-built-how-you-can-shape-them-dr-jennifer-groh",
@@ -1217,9 +1217,12 @@
    "chars": 39788,
    "cjk": 33343,
    "chunks": 23,
-   "title_zh": "思想构建与塑造 | Dr. Jennifer Groh"
+   "title_zh": "思想构建与塑造 | Dr. Jennifer Groh",
+   "doc_id": "dLbjxbvABWop",
+   "doc_url": "https://docs.qq.com/doc/DZExianhidkFCV29w",
+   "done_at": "2026-09-29T13:27:49Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T13:27:38Z"
+ "updated_at": "2026-09-29T13:27:49Z"
 }
