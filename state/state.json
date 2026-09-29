@@ -648,10 +648,10 @@
   "b8a94ca3b39f7d06": {
    "date": "2026-04-13",
    "status": "pending",
-   "attempts": 1,
-   "last_try": "2026-09-28T11:31:08Z",
+   "attempts": 2,
+   "last_try": "2026-09-29T11:06:17Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
-   "last_error_at": "2026-09-28T11:31:08Z"
+   "last_error_at": "2026-09-29T11:06:17Z"
   },
   "b96ebf649a7e5feb": {
    "date": "2026-04-09",
@@ -901,5 +901,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:06:16Z"
+ "updated_at": "2026-09-29T11:06:17Z"
 }
