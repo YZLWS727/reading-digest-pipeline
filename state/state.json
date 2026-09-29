@@ -1186,9 +1186,11 @@
    "last_try": "2026-09-29T13:07:05Z",
    "slug": "/podcasts/huberman-lab/how-to-speak-clearly-with-confidence-matt-abrahams",
    "match_score": 1.0,
-   "words": 28100
+   "words": 28100,
+   "last_error": "error: all models failed: Qwen/Qwen2.5-7B-Instruct qa:refusal",
+   "last_error_at": "2026-09-29T13:16:45Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T13:07:05Z"
+ "updated_at": "2026-09-29T13:16:45Z"
 }
