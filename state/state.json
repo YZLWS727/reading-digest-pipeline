@@ -1365,8 +1365,17 @@
    "doc_id": "dqoipOSouKxT",
    "doc_url": "https://docs.qq.com/doc/DZHFvaXBPU291S3hU",
    "done_at": "2026-09-29T14:18:51Z"
+  },
+  "c15629eea995fb25": {
+   "date": "2025-10-06",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-29T14:18:53Z",
+   "slug": "/podcasts/huberman-lab/how-to-make-yourself-unbreakable-dj-shipley",
+   "match_score": 1.0,
+   "words": 46346
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T14:18:51Z"
+ "updated_at": "2026-09-29T14:18:53Z"
 }
