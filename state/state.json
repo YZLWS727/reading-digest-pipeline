@@ -334,10 +334,10 @@
   "1c529e318a6c3b64": {
    "date": "2026-07-13",
    "status": "pending",
-   "attempts": 1,
-   "last_try": "2026-09-28T09:33:32Z",
+   "attempts": 2,
+   "last_try": "2026-09-29T10:57:44Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
-   "last_error_at": "2026-09-28T09:33:32Z"
+   "last_error_at": "2026-09-29T10:57:44Z"
   },
   "0618d80d713f1f36": {
    "date": "2026-07-09",
@@ -894,5 +894,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T10:57:42Z"
+ "updated_at": "2026-09-29T10:57:44Z"
 }
