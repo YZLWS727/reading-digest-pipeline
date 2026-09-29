@@ -1304,7 +1304,7 @@
   },
   "0b030a4859127192": {
    "date": "2025-10-20",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-29T13:55:10Z",
    "slug": "/podcasts/huberman-lab/how-to-overcome-inner-resistance-steven-pressfield",
@@ -1313,9 +1313,12 @@
    "chars": 40504,
    "cjk": 33457,
    "chunks": 23,
-   "title_zh": "克服内在阻力 | Steven Pressfield"
+   "title_zh": "克服内在阻力 | Steven Pressfield",
+   "doc_id": "dpvtZCuTTubu",
+   "doc_url": "https://docs.qq.com/doc/DZHB2dFpDdVRUdWJ1",
+   "done_at": "2026-09-29T14:03:30Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T14:03:16Z"
+ "updated_at": "2026-09-29T14:03:30Z"
 }
