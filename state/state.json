@@ -1352,14 +1352,18 @@
   },
   "aee5590103bbdf45": {
    "date": "2025-10-09",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-29T14:16:32Z",
    "slug": "/podcasts/huberman-lab/essentials-time-perception-memory-focus",
    "match_score": 1.0,
-   "words": 5895
+   "words": 5895,
+   "chars": 11299,
+   "cjk": 8480,
+   "chunks": 6,
+   "title_zh": "精华版：时间感知、记忆与专注"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T14:16:32Z"
+ "updated_at": "2026-09-29T14:18:39Z"
 }
