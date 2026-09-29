@@ -342,8 +342,8 @@
   "0618d80d713f1f36": {
    "date": "2026-07-09",
    "status": "fetched",
-   "attempts": 1,
-   "last_try": "2026-09-28T09:33:34Z",
+   "attempts": 2,
+   "last_try": "2026-09-29T10:57:46Z",
    "slug": "/podcasts/huberman-lab/the-science-treatment-of-obsessive-compulsive-disorder-ocd",
    "match_score": 1.0,
    "words": 27912,
@@ -894,5 +894,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T10:57:44Z"
+ "updated_at": "2026-09-29T10:57:46Z"
 }
