@@ -1256,7 +1256,7 @@
   },
   "20e2ea58fa4f1c61": {
    "date": "2025-10-30",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-29T13:40:13Z",
    "slug": "/podcasts/huberman-lab/essentials-the-biology-of-slowing-reversing-aging-dr-david-sinclair",
@@ -1269,5 +1269,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T13:42:47Z"
+ "updated_at": "2026-09-29T13:42:49Z"
 }
