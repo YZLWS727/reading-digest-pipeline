@@ -878,14 +878,18 @@
   },
   "edc046e06c22a18b": {
    "date": "2026-09-28",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-29T10:37:08Z",
    "slug": "/podcasts/huberman-lab/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan",
    "match_score": 1.0,
-   "words": 21311
+   "words": 21311,
+   "chars": 39078,
+   "cjk": 31974,
+   "chunks": 20,
+   "title_zh": "人类动物植物与意识"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T10:37:09Z"
+ "updated_at": "2026-09-29T10:44:01Z"
 }
