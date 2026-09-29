@@ -1301,8 +1301,17 @@
    "doc_id": "dHNbhVfcVvJI",
    "doc_url": "https://docs.qq.com/doc/DZEhOYmhWZmNWdkpJ",
    "done_at": "2026-09-29T13:55:08Z"
+  },
+  "0b030a4859127192": {
+   "date": "2025-10-20",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-29T13:55:10Z",
+   "slug": "/podcasts/huberman-lab/how-to-overcome-inner-resistance-steven-pressfield",
+   "match_score": 1.0,
+   "words": 24243
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T13:55:08Z"
+ "updated_at": "2026-09-29T13:55:10Z"
 }
