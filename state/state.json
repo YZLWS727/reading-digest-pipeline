@@ -552,10 +552,10 @@
   "a86d585c360715fd": {
    "date": "2026-05-11",
    "status": "pending",
-   "attempts": 1,
-   "last_try": "2026-09-28T10:53:38Z",
+   "attempts": 2,
+   "last_try": "2026-09-29T11:06:11Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
-   "last_error_at": "2026-09-28T10:53:38Z"
+   "last_error_at": "2026-09-29T11:06:11Z"
   },
   "190e01da1fc6d56f": {
    "date": "2026-05-07",
@@ -901,5 +901,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:06:10Z"
+ "updated_at": "2026-09-29T11:06:11Z"
 }
