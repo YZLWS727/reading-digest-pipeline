@@ -938,8 +938,17 @@
    "doc_id": "dbJsbYctinnN",
    "doc_url": "https://docs.qq.com/doc/DZGJKc2JZY3Rpbm5O",
    "done_at": "2026-09-29T11:15:37Z"
+  },
+  "cbd1b0fa7d752ca3": {
+   "date": "2026-01-22",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-29T11:15:38Z",
+   "slug": "/podcasts/huberman-lab/therapy-treating-trauma-other-life-challenges-dr-paul-conti",
+   "match_score": 0.86,
+   "words": 25847
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:15:37Z"
+ "updated_at": "2026-09-29T11:15:39Z"
 }
