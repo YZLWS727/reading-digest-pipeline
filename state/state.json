@@ -1192,7 +1192,7 @@
   },
   "852e68303d532d08": {
    "date": "2025-11-13",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-29T13:16:49Z",
    "slug": "/podcasts/huberman-lab/essentials-breathing-for-mental-physical-health-performance-dr-jack-feldman",
@@ -1205,5 +1205,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T13:20:56Z"
+ "updated_at": "2026-09-29T13:20:58Z"
 }
