@@ -941,7 +941,7 @@
   },
   "cbd1b0fa7d752ca3": {
    "date": "2026-01-22",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-29T11:15:38Z",
    "slug": "/podcasts/huberman-lab/therapy-treating-trauma-other-life-challenges-dr-paul-conti",
@@ -950,9 +950,12 @@
    "chars": 44653,
    "cjk": 37593,
    "chunks": 25,
-   "title_zh": "精华版：治疗创伤与生活难题 | Dr. Paul Conti"
+   "title_zh": "精华版：治疗创伤与生活难题 | Dr. Paul Conti",
+   "doc_id": "dgYcSIrewGck",
+   "doc_url": "https://docs.qq.com/doc/DZGdZY1NJcmV3R2Nr",
+   "done_at": "2026-09-29T11:25:28Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:25:18Z"
+ "updated_at": "2026-09-29T11:25:28Z"
 }
