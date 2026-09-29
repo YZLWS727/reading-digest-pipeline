@@ -1192,14 +1192,18 @@
   },
   "852e68303d532d08": {
    "date": "2025-11-13",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-29T13:16:49Z",
    "slug": "/podcasts/huberman-lab/essentials-breathing-for-mental-physical-health-performance-dr-jack-feldman",
    "match_score": 1.0,
-   "words": 7591
+   "words": 7591,
+   "chars": 13006,
+   "cjk": 10844,
+   "chunks": 8,
+   "title_zh": "精华版：呼吸与身心健康表现 | Dr. Jack Feldman"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T13:16:49Z"
+ "updated_at": "2026-09-29T13:20:56Z"
 }
