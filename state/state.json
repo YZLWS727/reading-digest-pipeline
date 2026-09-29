@@ -1083,7 +1083,7 @@
   },
   "462518ec08ca8379": {
    "date": "2025-12-11",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-29T12:34:55Z",
    "slug": "/podcasts/huberman-lab/how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg",
@@ -1092,9 +1092,12 @@
    "chars": 38449,
    "cjk": 31866,
    "chunks": 22,
-   "title_zh": "精华版：如何构建、维持与修复肠道健康 | Dr. Justin Sonnenburg"
+   "title_zh": "精华版：如何构建、维持与修复肠道健康 | Dr. Justin Sonnenburg",
+   "doc_id": "dxinrBvktFbF",
+   "doc_url": "https://docs.qq.com/doc/DZHhpbnJCdmt0RmJG",
+   "done_at": "2026-09-29T12:41:40Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T12:41:26Z"
+ "updated_at": "2026-09-29T12:41:40Z"
 }
