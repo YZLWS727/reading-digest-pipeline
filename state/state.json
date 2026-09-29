@@ -1133,14 +1133,18 @@
   },
   "e0b01a0f9baf6a7b": {
    "date": "2025-11-27",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-29T12:47:38Z",
    "slug": "/podcasts/huberman-lab/dr-david-spiegel-using-hypnosis-to-enhance-mental-physical-health-performance",
    "match_score": 0.88,
-   "words": 19776
+   "words": 19776,
+   "chars": 34527,
+   "cjk": 28205,
+   "chunks": 19,
+   "title_zh": "精华版：使用催眠提升身心健康与表现 | Dr. David Spiegel"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T12:47:38Z"
+ "updated_at": "2026-09-29T12:53:24Z"
 }
