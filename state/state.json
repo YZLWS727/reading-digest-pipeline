@@ -965,7 +965,7 @@
   },
   "6cb72434f26ad6b0": {
    "date": "2026-01-15",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-29T11:25:31Z",
    "slug": "/podcasts/huberman-lab/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki",
@@ -978,5 +978,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:32:05Z"
+ "updated_at": "2026-09-29T11:32:07Z"
 }
