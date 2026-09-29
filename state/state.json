@@ -690,12 +690,12 @@
   "9ecaf233530da3bf": {
    "date": "2026-03-30",
    "status": "pending",
-   "attempts": 1,
-   "last_try": "2026-09-28T11:37:16Z",
+   "attempts": 2,
+   "last_try": "2026-09-29T11:06:22Z",
    "slug": "/podcasts/huberman-lab/how-hormones-shape-sexual-development",
    "match_score": 0.75,
    "last_error": "error: title mismatch: Huberman Lab - How Hormones Shape Sexual Development Transcr",
-   "last_error_at": "2026-09-28T11:37:17Z"
+   "last_error_at": "2026-09-29T11:06:22Z"
   },
   "959e42085b56d7a1": {
    "date": "2026-03-26",
@@ -901,5 +901,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:06:20Z"
+ "updated_at": "2026-09-29T11:06:22Z"
 }
