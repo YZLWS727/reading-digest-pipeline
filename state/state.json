@@ -1352,7 +1352,7 @@
   },
   "aee5590103bbdf45": {
    "date": "2025-10-09",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-29T14:16:32Z",
    "slug": "/podcasts/huberman-lab/essentials-time-perception-memory-focus",
@@ -1365,5 +1365,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T14:18:39Z"
+ "updated_at": "2026-09-29T14:18:41Z"
 }
