@@ -1096,8 +1096,18 @@
    "doc_id": "dxinrBvktFbF",
    "doc_url": "https://docs.qq.com/doc/DZHhpbnJCdmt0RmJG",
    "done_at": "2026-09-29T12:41:40Z"
+  },
+  "11eb1d83efc9a4c1": {
+   "date": "2025-12-08",
+   "status": "pending",
+   "attempts": 1,
+   "last_try": "2026-09-29T12:41:41Z",
+   "slug": "/podcasts/huberman-lab/protocols-to-access-creative-energy-and-process-rick-rubin",
+   "match_score": 0.67,
+   "last_error": "error: title mismatch: Huberman Lab - Protocols to Access Creative Energy and Proce",
+   "last_error_at": "2026-09-29T12:41:41Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T12:41:40Z"
+ "updated_at": "2026-09-29T12:41:41Z"
 }
