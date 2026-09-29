@@ -341,7 +341,7 @@
   },
   "0618d80d713f1f36": {
    "date": "2026-07-09",
-   "status": "rendered",
+   "status": "done",
    "attempts": 2,
    "last_try": "2026-09-29T10:57:46Z",
    "slug": "/podcasts/huberman-lab/the-science-treatment-of-obsessive-compulsive-disorder-ocd",
@@ -352,7 +352,10 @@
    "chars": 52730,
    "cjk": 39273,
    "chunks": 28,
-   "title_zh": "精华版：强迫症科学治疗"
+   "title_zh": "精华版：强迫症科学治疗",
+   "doc_id": "dwuJDpdwilKI",
+   "doc_url": "https://docs.qq.com/doc/DZHd1SkRwZHdpbEtJ",
+   "done_at": "2026-09-29T11:05:58Z"
   },
   "6d1ca093710d43df": {
    "date": "2026-07-06",
@@ -898,5 +901,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:05:48Z"
+ "updated_at": "2026-09-29T11:05:58Z"
 }
