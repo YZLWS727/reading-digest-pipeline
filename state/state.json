@@ -925,7 +925,7 @@
   },
   "5c30d5c861d266ff": {
    "date": "2026-01-26",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-29T11:13:06Z",
    "slug": "/podcasts/huberman-lab/essentials-optimize-your-learning-creativity-with-science-based-tools",
@@ -938,5 +938,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:15:25Z"
+ "updated_at": "2026-09-29T11:15:27Z"
 }
