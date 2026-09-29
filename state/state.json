@@ -1106,8 +1106,17 @@
    "match_score": 0.67,
    "last_error": "error: title mismatch: Huberman Lab - Protocols to Access Creative Energy and Proce",
    "last_error_at": "2026-09-29T12:41:41Z"
+  },
+  "bf743385b5b987bb": {
+   "date": "2025-12-04",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-29T12:41:43Z",
+   "slug": "/podcasts/huberman-lab/the-science-of-making-breaking-habits",
+   "match_score": 1.0,
+   "words": 20937
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T12:41:41Z"
+ "updated_at": "2026-09-29T12:41:43Z"
 }
