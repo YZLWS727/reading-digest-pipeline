@@ -253,8 +253,8 @@
    "cjk": 42346,
    "chunks": 29,
    "title_zh": "免疫系统运作与提升 | Dr. Max Krummel",
-   "last_error": "error: tool error: {\"code\": -32603, \"message\": \"tool execution failed (tool: manage.import_progress): 11607:docID not match pattern, docID: , trace_id:5172dfc0cad44fb69529a92a88f53926\"}",
-   "last_error_at": "2026-09-28T09:01:01Z"
+   "last_error": "error: HTTPSConnectionPool(host='api.siliconflow.cn', port=443): Read timed out. (read timeout=180)",
+   "last_error_at": "2026-09-29T10:49:22Z"
   },
   "3d9cc5faf76fe30c": {
    "date": "2026-07-30",
@@ -894,5 +894,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T10:44:14Z"
+ "updated_at": "2026-09-29T10:49:22Z"
 }
