@@ -922,8 +922,17 @@
    "doc_id": "duYQzIcnQHFG",
    "doc_url": "https://docs.qq.com/doc/DZHVZUXpJY25RSEZH",
    "done_at": "2026-09-29T11:13:04Z"
+  },
+  "5c30d5c861d266ff": {
+   "date": "2026-01-26",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-29T11:13:06Z",
+   "slug": "/podcasts/huberman-lab/essentials-optimize-your-learning-creativity-with-science-based-tools",
+   "match_score": 0.75,
+   "words": 6538
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:13:04Z"
+ "updated_at": "2026-09-29T11:13:06Z"
 }
