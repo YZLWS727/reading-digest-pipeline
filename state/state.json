@@ -1269,8 +1269,17 @@
    "doc_id": "dMuFFyoDlwWm",
    "doc_url": "https://docs.qq.com/doc/DZE11RkZ5b0Rsd1dt",
    "done_at": "2026-09-29T13:43:02Z"
+  },
+  "488388f26e613a2f": {
+   "date": "2025-10-27",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-29T13:43:03Z",
+   "slug": "/podcasts/huberman-lab/improve-your-lymphatic-system-for-overall-health-appearance",
+   "match_score": 1.0,
+   "words": 19424
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T13:43:02Z"
+ "updated_at": "2026-09-29T13:43:04Z"
 }
