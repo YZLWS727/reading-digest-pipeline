@@ -243,9 +243,9 @@
   },
   "4ef1af3c7abbe04b": {
    "date": "2026-08-03",
-   "status": "rendered",
-   "attempts": 1,
-   "last_try": "2026-09-28T08:46:37Z",
+   "status": "fetched",
+   "attempts": 2,
+   "last_try": "2026-09-29T10:44:14Z",
    "slug": "/podcasts/huberman-lab/how-your-immune-system-works-how-to-improve-it-dr-max-krummel",
    "match_score": 1.0,
    "words": 30569,
@@ -894,5 +894,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T10:44:12Z"
+ "updated_at": "2026-09-29T10:44:14Z"
 }
