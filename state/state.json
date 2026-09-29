@@ -838,10 +838,10 @@
   "4ad19e737fe03687": {
    "date": "2026-02-16",
    "status": "pending",
-   "attempts": 1,
-   "last_try": "2026-09-28T12:28:13Z",
+   "attempts": 2,
+   "last_try": "2026-09-29T11:06:30Z",
    "last_error": "no_transcript: no transcript match (best=0.20)",
-   "last_error_at": "2026-09-28T12:28:13Z"
+   "last_error_at": "2026-09-29T11:06:30Z"
   },
   "f4d45567c2455ef3": {
    "date": "2026-02-12",
@@ -901,5 +901,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:06:29Z"
+ "updated_at": "2026-09-29T11:06:30Z"
 }
