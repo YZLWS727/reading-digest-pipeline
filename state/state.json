@@ -1022,9 +1022,11 @@
    "chars": 54392,
    "cjk": 42897,
    "chunks": 30,
-   "title_zh": "精华版：健康长寿的微量营养素 | Dr. Rhonda Patrick"
+   "title_zh": "精华版：健康长寿的微量营养素 | Dr. Rhonda Patrick",
+   "last_error": "timeout: budget exceeded after translate",
+   "last_error_at": "2026-09-29T12:02:34Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T12:02:32Z"
+ "updated_at": "2026-09-29T12:02:34Z"
 }
