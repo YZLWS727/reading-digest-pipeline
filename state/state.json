@@ -1122,8 +1122,16 @@
    "doc_id": "doIfMplLCOPF",
    "doc_url": "https://docs.qq.com/doc/DZG9JZk1wbExDT1BG",
    "done_at": "2026-09-29T12:47:35Z"
+  },
+  "6573aa1792b27f6d": {
+   "date": "2025-12-01",
+   "status": "pending",
+   "attempts": 1,
+   "last_try": "2026-09-29T12:47:36Z",
+   "last_error": "no_transcript: no transcript match (best=0.33)",
+   "last_error_at": "2026-09-29T12:47:36Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T12:47:35Z"
+ "updated_at": "2026-09-29T12:47:36Z"
 }
