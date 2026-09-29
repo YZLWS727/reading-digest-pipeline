@@ -989,7 +989,7 @@
   },
   "ec3933f2d0f1d37c": {
    "date": "2026-01-08",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-29T11:32:19Z",
    "slug": "/podcasts/huberman-lab/optimizing-workspace-for-productivity-focus-creativity",
@@ -1002,5 +1002,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T11:40:24Z"
+ "updated_at": "2026-09-29T11:40:26Z"
 }
