@@ -1317,8 +1317,17 @@
    "doc_id": "dpvtZCuTTubu",
    "doc_url": "https://docs.qq.com/doc/DZHB2dFpDdVRUdWJ1",
    "done_at": "2026-09-29T14:03:30Z"
+  },
+  "fccfc4a616cfbcf8": {
+   "date": "2025-10-16",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-29T14:03:32Z",
+   "slug": "/podcasts/huberman-lab/essentials-how-your-brain-functions-interprets-the-world-dr-david-berson",
+   "match_score": 1.0,
+   "words": 7180
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T14:03:30Z"
+ "updated_at": "2026-09-29T14:03:32Z"
 }
