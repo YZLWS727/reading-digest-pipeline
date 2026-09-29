@@ -1240,7 +1240,7 @@
   },
   "e6b790197afa0a3f": {
    "date": "2025-11-03",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-29T13:29:53Z",
    "slug": "/podcasts/huberman-lab/using-existing-drugs-in-new-ways-to-treat-cure-diseases-of-brain-body-dr-david-fajgenbaum",
@@ -1253,5 +1253,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-29T13:39:56Z"
+ "updated_at": "2026-09-29T13:39:58Z"
 }
