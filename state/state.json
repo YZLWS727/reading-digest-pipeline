@@ -1696,7 +1696,7 @@
   },
   "15349f3d9a4c681e": {
    "date": "2025-07-31",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-30T14:10:53Z",
    "slug": "/podcasts/huberman-lab/essentials-adhd-how-anyone-can-improve-their-focus",
@@ -1709,5 +1709,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T14:13:57Z"
+ "updated_at": "2026-09-30T14:13:59Z"
 }
