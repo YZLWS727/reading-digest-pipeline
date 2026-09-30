@@ -1578,14 +1578,18 @@
   },
   "1e7c74a8a738c9b9": {
    "date": "2025-08-28",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-30T13:10:21Z",
    "slug": "/podcasts/huberman-lab/essentials-effects-of-fasting-time-restricted-eating-on-fat-loss-health",
    "match_score": 1.0,
-   "words": 7499
+   "words": 7499,
+   "chars": 12832,
+   "cjk": 10731,
+   "chunks": 8,
+   "title_zh": "精华版：禁食与限时饮食对减脂健康的影响 Dr. Andy Galpin"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T13:10:21Z"
+ "updated_at": "2026-09-30T13:12:44Z"
 }
