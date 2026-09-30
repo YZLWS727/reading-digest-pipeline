@@ -1190,14 +1190,18 @@
   },
   "86c588253f44eb60": {
    "date": "2025-11-17",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 2,
    "last_try": "2026-09-30T11:18:55Z",
    "slug": "/podcasts/huberman-lab/how-to-speak-clearly-with-confidence-matt-abrahams",
    "match_score": 1.0,
    "words": 28100,
    "last_error": "error: all models failed: Qwen/Qwen2.5-7B-Instruct qa:refusal",
-   "last_error_at": "2026-09-29T13:16:45Z"
+   "last_error_at": "2026-09-29T13:16:45Z",
+   "chars": 47542,
+   "cjk": 40579,
+   "chunks": 27,
+   "title_zh": "清晰自信地表达 | Matt Abrahams"
   },
   "852e68303d532d08": {
    "date": "2025-11-13",
@@ -1388,5 +1392,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T11:18:56Z"
+ "updated_at": "2026-09-30T11:34:37Z"
 }
