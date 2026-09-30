@@ -1650,8 +1650,17 @@
    "doc_id": "dcDuRmQLEved",
    "doc_url": "https://docs.qq.com/doc/DZGNEdVJtUUxFdmVk",
    "done_at": "2026-09-30T13:35:29Z"
+  },
+  "4c55760e6e8e6863": {
+   "date": "2025-08-11",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-30T13:35:31Z",
+   "slug": "/podcasts/huberman-lab/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard",
+   "match_score": 1.0,
+   "words": 39098
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T13:35:29Z"
+ "updated_at": "2026-09-30T13:35:31Z"
 }
