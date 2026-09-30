@@ -1664,7 +1664,7 @@
   },
   "4cb1f4969c0c54a2": {
    "date": "2025-08-07",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-30T13:55:43Z",
    "slug": "/podcasts/huberman-lab/essentials-increase-strength-endurance-with-cooling-protocols-dr-craig-heller",
@@ -1673,9 +1673,12 @@
    "chars": 9859,
    "cjk": 8198,
    "chunks": 6,
-   "title_zh": "精华版：提升力量耐力冷却方案 Dr. Craig Heller"
+   "title_zh": "精华版：提升力量耐力冷却方案 Dr. Craig Heller",
+   "doc_id": "dKdNyHiFGPJj",
+   "doc_url": "https://docs.qq.com/doc/DZEtkTnlIaUZHUEpq",
+   "done_at": "2026-09-30T13:58:09Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T13:57:58Z"
+ "updated_at": "2026-09-30T13:58:09Z"
 }
