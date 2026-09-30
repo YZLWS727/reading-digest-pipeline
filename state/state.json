@@ -1434,14 +1434,18 @@
   },
   "798e3d1597e1c44a": {
    "date": "2025-09-28",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-30T12:12:28Z",
    "slug": "/podcasts/huberman-lab/david-senra-daniel-ek-spotify",
    "match_score": 1.0,
-   "words": 24857
+   "words": 24857,
+   "chars": 39934,
+   "cjk": 33539,
+   "chunks": 24,
+   "title_zh": "大卫·森拉：丹尼尔·埃克 Spotify"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T12:12:29Z"
+ "updated_at": "2026-09-30T12:19:40Z"
 }
