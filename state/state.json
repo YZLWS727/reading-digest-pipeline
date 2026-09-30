@@ -1744,14 +1744,18 @@
   },
   "b7d94ed2c8b3d653": {
    "date": "2025-07-21",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-30T14:29:07Z",
    "slug": "/podcasts/huberman-lab/health-effects-risks-of-kratom-opioids-other-natural-occurring-medicines-dr-chris-mccurdy",
    "match_score": 1.0,
-   "words": 25657
+   "words": 25657,
+   "chars": 45889,
+   "cjk": 36953,
+   "chunks": 25,
+   "title_zh": "吗啡碱、阿片类药物及其他天然药物的健康影响与风险 | Dr. Chris McCurdy"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T14:29:07Z"
+ "updated_at": "2026-09-30T14:38:52Z"
 }
