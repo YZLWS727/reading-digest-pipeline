@@ -1605,7 +1605,7 @@
   },
   "9c872ad89632650f": {
    "date": "2025-08-21",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-30T13:22:06Z",
    "slug": "/podcasts/huberman-lab/essentials-timing-light-for-better-sleep-energy-mood-dr-samer-hattar",
@@ -1614,9 +1614,12 @@
    "chars": 11544,
    "cjk": 9411,
    "chunks": 7,
-   "title_zh": "精华版：光照时机助睡眠精力心情 | Dr. Samer Hattar"
+   "title_zh": "精华版：光照时机助睡眠精力心情 | Dr. Samer Hattar",
+   "doc_id": "dUsZEivsNsaO",
+   "doc_url": "https://docs.qq.com/doc/DZFVzWkVpdnNOc2FP",
+   "done_at": "2026-09-30T13:24:40Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T13:24:30Z"
+ "updated_at": "2026-09-30T13:24:40Z"
 }
