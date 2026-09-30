@@ -1562,7 +1562,7 @@
   },
   "6b6c8bcfade4ba95": {
    "date": "2025-09-01",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-30T13:02:51Z",
    "slug": "/podcasts/huberman-lab/goals-toolkit-how-to-set-achieve-your-goals",
@@ -1571,9 +1571,12 @@
    "chars": 30878,
    "cjk": 25295,
    "chunks": 18,
-   "title_zh": "如何设定并达成巨大目标 | Alex Honnold"
+   "title_zh": "如何设定并达成巨大目标 | Alex Honnold",
+   "doc_id": "dtZuBjLHRohg",
+   "doc_url": "https://docs.qq.com/doc/DZHRadUJqTEhSb2hn",
+   "done_at": "2026-09-30T13:10:19Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T13:10:08Z"
+ "updated_at": "2026-09-30T13:10:19Z"
 }
