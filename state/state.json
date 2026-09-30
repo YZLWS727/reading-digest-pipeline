@@ -1466,7 +1466,7 @@
   },
   "fb855e14f6c725d5": {
    "date": "2025-09-22",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-30T12:22:08Z",
    "slug": "/podcasts/huberman-lab/build-your-ideal-physique-dr-bret-contreras",
@@ -1475,9 +1475,12 @@
    "chars": 60571,
    "cjk": 49180,
    "chunks": 33,
-   "title_zh": "塑造理想身材 | Dr. Bret Contreras"
+   "title_zh": "塑造理想身材 | Dr. Bret Contreras",
+   "doc_id": "dNJiMUpEHtBF",
+   "doc_url": "https://docs.qq.com/doc/DZE5KaU1VcEVIdEJG",
+   "done_at": "2026-09-30T12:33:35Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T12:33:24Z"
+ "updated_at": "2026-09-30T12:33:35Z"
 }
