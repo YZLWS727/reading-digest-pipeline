@@ -1621,14 +1621,18 @@
   },
   "49cf7aec5570a84b": {
    "date": "2025-08-18",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-30T13:24:41Z",
    "slug": "/podcasts/huberman-lab/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca",
    "match_score": 1.0,
-   "words": 26434
+   "words": 26434,
+   "chars": 46679,
+   "cjk": 38187,
+   "chunks": 26,
+   "title_zh": "利用干细胞治疗自闭症、癫痫与精神分裂症 Dr. Sergiu Pașca"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T13:24:42Z"
+ "updated_at": "2026-09-30T13:32:34Z"
 }
