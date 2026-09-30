@@ -1514,14 +1514,18 @@
   },
   "9d883523f1c6dc78": {
    "date": "2025-09-11",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-30T12:46:12Z",
    "slug": "/podcasts/huberman-lab/essentials-food-supplements-for-brain-health-cognitive-performance",
    "match_score": 1.0,
-   "words": 6265
+   "words": 6265,
+   "chars": 10887,
+   "cjk": 9049,
+   "chunks": 7,
+   "title_zh": "精华版：食物与补充剂对大脑健康和认知表现"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T12:46:12Z"
+ "updated_at": "2026-09-30T12:48:49Z"
 }
