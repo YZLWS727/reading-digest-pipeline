@@ -1559,8 +1559,17 @@
    "doc_id": "dqxygJbsoihD",
    "doc_url": "https://docs.qq.com/doc/DZHF4eWdKYnNvaWhE",
    "done_at": "2026-09-30T13:02:49Z"
+  },
+  "6b6c8bcfade4ba95": {
+   "date": "2025-09-01",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-30T13:02:51Z",
+   "slug": "/podcasts/huberman-lab/goals-toolkit-how-to-set-achieve-your-goals",
+   "match_score": 0.75,
+   "words": 18652
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T13:02:49Z"
+ "updated_at": "2026-09-30T13:02:52Z"
 }
