@@ -243,7 +243,7 @@
   },
   "4ef1af3c7abbe04b": {
    "date": "2026-08-03",
-   "status": "rendered",
+   "status": "done",
    "attempts": 3,
    "last_try": "2026-09-30T10:26:27Z",
    "slug": "/podcasts/huberman-lab/how-your-immune-system-works-how-to-improve-it-dr-max-krummel",
@@ -254,7 +254,10 @@
    "chunks": 29,
    "title_zh": "免疫系统工作原理及提升方法 | Dr. Max Krummel",
    "last_error": "error: HTTPSConnectionPool(host='api.siliconflow.cn', port=443): Read timed out. (read timeout=180)",
-   "last_error_at": "2026-09-29T10:49:22Z"
+   "last_error_at": "2026-09-29T10:49:22Z",
+   "doc_id": "dMgqZbKrKfOI",
+   "doc_url": "https://docs.qq.com/doc/DZE1ncVpiS3JLZk9J",
+   "done_at": "2026-09-30T10:39:34Z"
   },
   "3d9cc5faf76fe30c": {
    "date": "2026-07-30",
@@ -1379,5 +1382,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T10:39:23Z"
+ "updated_at": "2026-09-30T10:39:34Z"
 }
