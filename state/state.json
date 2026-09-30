@@ -1618,8 +1618,17 @@
    "doc_id": "dUsZEivsNsaO",
    "doc_url": "https://docs.qq.com/doc/DZFVzWkVpdnNOc2FP",
    "done_at": "2026-09-30T13:24:40Z"
+  },
+  "49cf7aec5570a84b": {
+   "date": "2025-08-18",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-30T13:24:41Z",
+   "slug": "/podcasts/huberman-lab/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca",
+   "match_score": 1.0,
+   "words": 26434
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T13:24:40Z"
+ "updated_at": "2026-09-30T13:24:42Z"
 }
