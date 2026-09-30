@@ -1431,8 +1431,17 @@
    "doc_id": "dCYxjfVBfqsG",
    "doc_url": "https://docs.qq.com/doc/DZENZeGpmVkJmcXNH",
    "done_at": "2026-09-30T12:12:26Z"
+  },
+  "798e3d1597e1c44a": {
+   "date": "2025-09-28",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-30T12:12:28Z",
+   "slug": "/podcasts/huberman-lab/david-senra-daniel-ek-spotify",
+   "match_score": 1.0,
+   "words": 24857
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T12:12:26Z"
+ "updated_at": "2026-09-30T12:12:29Z"
 }
