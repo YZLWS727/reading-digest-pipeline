@@ -1498,7 +1498,7 @@
   },
   "3425bcf28449dc76": {
    "date": "2025-09-15",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-30T12:36:06Z",
    "slug": "/podcasts/huberman-lab/how-to-expand-your-consciousness-dr-christof-koch",
@@ -1507,9 +1507,12 @@
    "chars": 43072,
    "cjk": 34632,
    "chunks": 23,
-   "title_zh": "扩展意识 | Dr. Christof Koch"
+   "title_zh": "扩展意识 | Dr. Christof Koch",
+   "doc_id": "dEiASrzHsuos",
+   "doc_url": "https://docs.qq.com/doc/DZEVpQVNyekhzdW9z",
+   "done_at": "2026-09-30T12:46:10Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T12:45:57Z"
+ "updated_at": "2026-09-30T12:46:10Z"
 }
