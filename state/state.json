@@ -1514,7 +1514,7 @@
   },
   "9d883523f1c6dc78": {
    "date": "2025-09-11",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-30T12:46:12Z",
    "slug": "/podcasts/huberman-lab/essentials-food-supplements-for-brain-health-cognitive-performance",
@@ -1527,5 +1527,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T12:48:49Z"
+ "updated_at": "2026-09-30T12:48:50Z"
 }
