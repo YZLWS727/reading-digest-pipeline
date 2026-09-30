@@ -1042,7 +1042,7 @@
   },
   "12c1d7c312356573": {
    "date": "2025-12-25",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 2,
    "last_try": "2026-09-30T11:02:14Z",
    "slug": "/podcasts/huberman-lab/how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett",
@@ -1385,5 +1385,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T11:18:32Z"
+ "updated_at": "2026-09-30T11:18:34Z"
 }
