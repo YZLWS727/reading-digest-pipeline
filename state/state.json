@@ -1658,9 +1658,11 @@
    "last_try": "2026-09-30T13:35:31Z",
    "slug": "/podcasts/huberman-lab/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard",
    "match_score": 1.0,
-   "words": 39098
+   "words": 39098,
+   "last_error": "error: all models failed: Qwen/Qwen2.5-7B-Instruct qa:refusal",
+   "last_error_at": "2026-09-30T13:55:42Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T13:35:31Z"
+ "updated_at": "2026-09-30T13:55:42Z"
 }
