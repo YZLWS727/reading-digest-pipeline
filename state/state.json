@@ -1498,7 +1498,7 @@
   },
   "3425bcf28449dc76": {
    "date": "2025-09-15",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-30T12:36:06Z",
    "slug": "/podcasts/huberman-lab/how-to-expand-your-consciousness-dr-christof-koch",
@@ -1511,5 +1511,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T12:45:55Z"
+ "updated_at": "2026-09-30T12:45:57Z"
 }
