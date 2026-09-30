@@ -719,10 +719,10 @@
   "bea6b57178ce1e64": {
    "date": "2026-03-23",
    "status": "pending",
-   "attempts": 2,
-   "last_try": "2026-09-29T11:06:23Z",
+   "attempts": 3,
+   "last_try": "2026-09-30T10:45:47Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
-   "last_error_at": "2026-09-29T11:06:23Z"
+   "last_error_at": "2026-09-30T10:45:47Z"
   },
   "90ccafc725ba4fe0": {
    "date": "2026-03-19",
@@ -1382,5 +1382,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T10:45:46Z"
+ "updated_at": "2026-09-30T10:45:47Z"
 }
