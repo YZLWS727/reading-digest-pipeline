@@ -627,10 +627,10 @@
   "e1d63f2c8e0ca6af": {
    "date": "2026-04-20",
    "status": "pending",
-   "attempts": 2,
-   "last_try": "2026-09-29T11:06:16Z",
+   "attempts": 3,
+   "last_try": "2026-09-30T10:45:37Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
-   "last_error_at": "2026-09-29T11:06:16Z"
+   "last_error_at": "2026-09-30T10:45:37Z"
   },
   "5dd5921bf3a53b70": {
    "date": "2026-04-16",
@@ -1382,5 +1382,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T10:45:35Z"
+ "updated_at": "2026-09-30T10:45:37Z"
 }
