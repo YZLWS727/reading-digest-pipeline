@@ -1495,8 +1495,17 @@
    "doc_id": "dNqjjoslFOFS",
    "doc_url": "https://docs.qq.com/doc/DZE5xampvc2xGT0ZT",
    "done_at": "2026-09-30T12:36:04Z"
+  },
+  "3425bcf28449dc76": {
+   "date": "2025-09-15",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-30T12:36:06Z",
+   "slug": "/podcasts/huberman-lab/how-to-expand-your-consciousness-dr-christof-koch",
+   "match_score": 1.0,
+   "words": 23582
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T12:36:04Z"
+ "updated_at": "2026-09-30T12:36:07Z"
 }
