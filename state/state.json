@@ -1482,7 +1482,7 @@
   },
   "60fa31ac7655f886": {
    "date": "2025-09-18",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-30T12:33:37Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-exercise-for-strength-gains-hormone-optimization-dr-duncan-french",
@@ -1491,9 +1491,12 @@
    "chars": 12080,
    "cjk": 9954,
    "chunks": 7,
-   "title_zh": "精华版：如何锻炼增肌与激素优化 | Dr. Duncan French"
+   "title_zh": "精华版：如何锻炼增肌与激素优化 | Dr. Duncan French",
+   "doc_id": "dNqjjoslFOFS",
+   "doc_url": "https://docs.qq.com/doc/DZE5xampvc2xGT0ZT",
+   "done_at": "2026-09-30T12:36:04Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T12:35:52Z"
+ "updated_at": "2026-09-30T12:36:04Z"
 }
