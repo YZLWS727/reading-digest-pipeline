@@ -1016,9 +1016,9 @@
   },
   "5ab9cbb893eea5c1": {
    "date": "2026-01-01",
-   "status": "translated",
-   "attempts": 1,
-   "last_try": "2026-09-29T11:40:39Z",
+   "status": "fetched",
+   "attempts": 2,
+   "last_try": "2026-09-30T10:46:07Z",
    "slug": "/podcasts/huberman-lab/dr-rhonda-patrick-micronutrients-for-health-longevity",
    "match_score": 0.75,
    "words": 31278,
@@ -1382,5 +1382,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T10:46:05Z"
+ "updated_at": "2026-09-30T10:46:08Z"
 }
