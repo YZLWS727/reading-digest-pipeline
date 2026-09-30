@@ -1546,7 +1546,7 @@
   },
   "756a2c6346646bb7": {
    "date": "2025-09-04",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-30T13:00:39Z",
    "slug": "/podcasts/huberman-lab/essentials-science-of-mindsets-for-health-performance-dr-alia-crum",
@@ -1559,5 +1559,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T13:02:35Z"
+ "updated_at": "2026-09-30T13:02:37Z"
 }
