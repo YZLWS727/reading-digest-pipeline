@@ -1511,8 +1511,17 @@
    "doc_id": "dEiASrzHsuos",
    "doc_url": "https://docs.qq.com/doc/DZEVpQVNyekhzdW9z",
    "done_at": "2026-09-30T12:46:10Z"
+  },
+  "9d883523f1c6dc78": {
+   "date": "2025-09-11",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-30T12:46:12Z",
+   "slug": "/podcasts/huberman-lab/essentials-food-supplements-for-brain-health-cognitive-performance",
+   "match_score": 1.0,
+   "words": 6265
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T12:46:10Z"
+ "updated_at": "2026-09-30T12:46:12Z"
 }
