@@ -1482,7 +1482,7 @@
   },
   "60fa31ac7655f886": {
    "date": "2025-09-18",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-30T12:33:37Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-exercise-for-strength-gains-hormone-optimization-dr-duncan-french",
@@ -1495,5 +1495,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T12:35:50Z"
+ "updated_at": "2026-09-30T12:35:52Z"
 }
