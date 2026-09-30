@@ -1680,7 +1680,7 @@
   },
   "173be8a14fed233f": {
    "date": "2025-08-04",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-30T13:58:11Z",
    "slug": "/podcasts/huberman-lab/how-to-control-your-cortisol-overcome-burnout",
@@ -1689,9 +1689,12 @@
    "chars": 48715,
    "cjk": 39027,
    "chunks": 27,
-   "title_zh": "控制皮质醇与克服职业倦怠"
+   "title_zh": "控制皮质醇与克服职业倦怠",
+   "doc_id": "dHiOLisboOSY",
+   "doc_url": "https://docs.qq.com/doc/DZEhpT0xpc2JvT1NZ",
+   "done_at": "2026-09-30T14:10:51Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T14:10:26Z"
+ "updated_at": "2026-09-30T14:10:51Z"
 }
