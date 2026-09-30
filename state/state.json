@@ -1661,8 +1661,17 @@
    "words": 39098,
    "last_error": "error: all models failed: Qwen/Qwen2.5-7B-Instruct qa:refusal",
    "last_error_at": "2026-09-30T13:55:42Z"
+  },
+  "4cb1f4969c0c54a2": {
+   "date": "2025-08-07",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-30T13:55:43Z",
+   "slug": "/podcasts/huberman-lab/essentials-increase-strength-endurance-with-cooling-protocols-dr-craig-heller",
+   "match_score": 1.0,
+   "words": 6050
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T13:55:42Z"
+ "updated_at": "2026-09-30T13:55:44Z"
 }
