@@ -1712,7 +1712,7 @@
   },
   "3fc892ca6a51abb1": {
    "date": "2025-07-28",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-30T14:14:15Z",
    "slug": "/podcasts/huberman-lab/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah",
@@ -1721,9 +1721,12 @@
    "chars": 45721,
    "cjk": 37336,
    "chunks": 25,
-   "title_zh": "男女性脑差异与基因激素成因 | Dr. Nirao Shah"
+   "title_zh": "男女性脑差异与基因激素成因 | Dr. Nirao Shah",
+   "doc_id": "dHdEtZeqninA",
+   "doc_url": "https://docs.qq.com/doc/DZEhkRXRaZXFuaW5B",
+   "done_at": "2026-09-30T14:25:36Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T14:25:24Z"
+ "updated_at": "2026-09-30T14:25:36Z"
 }
