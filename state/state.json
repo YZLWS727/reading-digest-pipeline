@@ -1418,7 +1418,7 @@
   },
   "d00f3c1a54702358": {
    "date": "2025-09-29",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-09-30T11:59:26Z",
    "slug": "/podcasts/huberman-lab/enhance-your-learning-speed-health-using-neuroscience-based-protocols-dr-poppy-crum",
@@ -1427,9 +1427,12 @@
    "chars": 47754,
    "cjk": 40011,
    "chunks": 27,
-   "title_zh": "提升学习速度与健康：神经科学 | Dr. Poppy Crum"
+   "title_zh": "提升学习速度与健康：神经科学 | Dr. Poppy Crum",
+   "doc_id": "dCYxjfVBfqsG",
+   "doc_url": "https://docs.qq.com/doc/DZENZeGpmVkJmcXNH",
+   "done_at": "2026-09-30T12:12:26Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T12:12:13Z"
+ "updated_at": "2026-09-30T12:12:26Z"
 }
