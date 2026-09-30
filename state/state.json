@@ -1016,16 +1016,16 @@
   },
   "5ab9cbb893eea5c1": {
    "date": "2026-01-01",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 2,
    "last_try": "2026-09-30T10:46:07Z",
    "slug": "/podcasts/huberman-lab/dr-rhonda-patrick-micronutrients-for-health-longevity",
    "match_score": 0.75,
    "words": 31278,
-   "chars": 54392,
-   "cjk": 42897,
+   "chars": 54990,
+   "cjk": 43243,
    "chunks": 30,
-   "title_zh": "精华版：健康长寿的微量营养素 | Dr. Rhonda Patrick",
+   "title_zh": "健康长寿的微量营养素精华版 Dr. Rhonda Patrick",
    "last_error": "timeout: budget exceeded after translate",
    "last_error_at": "2026-09-29T12:02:34Z"
   },
@@ -1382,5 +1382,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T10:46:08Z"
+ "updated_at": "2026-09-30T11:01:57Z"
 }
