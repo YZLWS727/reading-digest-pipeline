@@ -1680,7 +1680,7 @@
   },
   "173be8a14fed233f": {
    "date": "2025-08-04",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-30T13:58:11Z",
    "slug": "/podcasts/huberman-lab/how-to-control-your-cortisol-overcome-burnout",
@@ -1693,5 +1693,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T14:10:24Z"
+ "updated_at": "2026-09-30T14:10:26Z"
 }
