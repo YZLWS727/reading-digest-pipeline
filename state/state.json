@@ -1135,10 +1135,10 @@
   "6573aa1792b27f6d": {
    "date": "2025-12-01",
    "status": "pending",
-   "attempts": 1,
-   "last_try": "2026-09-29T12:47:36Z",
+   "attempts": 2,
+   "last_try": "2026-09-30T11:18:53Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
-   "last_error_at": "2026-09-29T12:47:36Z"
+   "last_error_at": "2026-09-30T11:18:53Z"
   },
   "e0b01a0f9baf6a7b": {
    "date": "2025-11-27",
@@ -1388,5 +1388,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T11:18:52Z"
+ "updated_at": "2026-09-30T11:18:53Z"
 }
