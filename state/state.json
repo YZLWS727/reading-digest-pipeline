@@ -1621,7 +1621,7 @@
   },
   "49cf7aec5570a84b": {
    "date": "2025-08-18",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-30T13:24:41Z",
    "slug": "/podcasts/huberman-lab/using-stem-cells-to-cure-autism-epilepsy-schizophrenia-dr-sergiu-pasca",
@@ -1634,5 +1634,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T13:32:34Z"
+ "updated_at": "2026-09-30T13:32:36Z"
 }
