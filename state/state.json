@@ -1466,7 +1466,7 @@
   },
   "fb855e14f6c725d5": {
    "date": "2025-09-22",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-30T12:22:08Z",
    "slug": "/podcasts/huberman-lab/build-your-ideal-physique-dr-bret-contreras",
@@ -1479,5 +1479,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T12:33:22Z"
+ "updated_at": "2026-09-30T12:33:24Z"
 }
