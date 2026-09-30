@@ -1562,7 +1562,7 @@
   },
   "6b6c8bcfade4ba95": {
    "date": "2025-09-01",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-09-30T13:02:51Z",
    "slug": "/podcasts/huberman-lab/goals-toolkit-how-to-set-achieve-your-goals",
@@ -1575,5 +1575,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T13:10:06Z"
+ "updated_at": "2026-09-30T13:10:08Z"
 }
