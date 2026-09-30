@@ -985,10 +985,10 @@
   "e0ed9ea01165935e": {
    "date": "2026-01-12",
    "status": "pending",
-   "attempts": 1,
-   "last_try": "2026-09-29T11:32:18Z",
+   "attempts": 2,
+   "last_try": "2026-09-30T10:46:04Z",
    "last_error": "no_transcript: no transcript match (best=0.25)",
-   "last_error_at": "2026-09-29T11:32:18Z"
+   "last_error_at": "2026-09-30T10:46:04Z"
   },
   "ec3933f2d0f1d37c": {
    "date": "2026-01-08",
@@ -1382,5 +1382,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T10:46:02Z"
+ "updated_at": "2026-09-30T10:46:04Z"
 }
