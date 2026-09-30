@@ -1384,7 +1384,7 @@
   },
   "c15629eea995fb25": {
    "date": "2025-10-06",
-   "status": "rendered",
+   "status": "done",
    "attempts": 2,
    "last_try": "2026-09-30T11:34:52Z",
    "slug": "/podcasts/huberman-lab/how-to-make-yourself-unbreakable-dj-shipley",
@@ -1395,9 +1395,12 @@
    "chars": 76995,
    "cjk": 63884,
    "chunks": 44,
-   "title_zh": "如何让自己无懈可击 | DJ Shipley"
+   "title_zh": "如何让自己无懈可击 | DJ Shipley",
+   "doc_id": "dQbAeEkztLoN",
+   "doc_url": "https://docs.qq.com/doc/DZFFiQWVFa3p0TG9O",
+   "done_at": "2026-09-30T11:56:49Z"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T11:56:37Z"
+ "updated_at": "2026-09-30T11:56:49Z"
 }
