@@ -1693,8 +1693,17 @@
    "doc_id": "dHiOLisboOSY",
    "doc_url": "https://docs.qq.com/doc/DZEhpT0xpc2JvT1NZ",
    "done_at": "2026-09-30T14:10:51Z"
+  },
+  "15349f3d9a4c681e": {
+   "date": "2025-07-31",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-30T14:10:53Z",
+   "slug": "/podcasts/huberman-lab/essentials-adhd-how-anyone-can-improve-their-focus",
+   "match_score": 1.0,
+   "words": 7025
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T14:10:51Z"
+ "updated_at": "2026-09-30T14:10:53Z"
 }
