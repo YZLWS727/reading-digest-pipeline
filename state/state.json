@@ -1530,14 +1530,18 @@
   },
   "da85533c73d95b14": {
    "date": "2025-09-08",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-30T12:49:03Z",
    "slug": "/podcasts/huberman-lab/transform-your-metabolic-health-longevity-by-knowing-your-unique-biology-dr-michael-snyder",
    "match_score": 1.0,
-   "words": 29736
+   "words": 29736,
+   "chars": 54753,
+   "cjk": 44409,
+   "chunks": 29,
+   "title_zh": "了解独特生物学 改善代谢健康与寿命 Dr. Michael Snyder"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T12:49:04Z"
+ "updated_at": "2026-09-30T13:00:23Z"
 }
