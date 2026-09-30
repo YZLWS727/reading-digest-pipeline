@@ -1696,14 +1696,18 @@
   },
   "15349f3d9a4c681e": {
    "date": "2025-07-31",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-09-30T14:10:53Z",
    "slug": "/podcasts/huberman-lab/essentials-adhd-how-anyone-can-improve-their-focus",
    "match_score": 1.0,
-   "words": 7025
+   "words": 7025,
+   "chars": 13167,
+   "cjk": 10018,
+   "chunks": 7,
+   "title_zh": "精华版：ADHD与专注力提升"
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T14:10:53Z"
+ "updated_at": "2026-09-30T14:13:57Z"
 }
