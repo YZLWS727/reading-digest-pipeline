@@ -1677,8 +1677,17 @@
    "doc_id": "dKdNyHiFGPJj",
    "doc_url": "https://docs.qq.com/doc/DZEtkTnlIaUZHUEpq",
    "done_at": "2026-09-30T13:58:09Z"
+  },
+  "173be8a14fed233f": {
+   "date": "2025-08-04",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-09-30T13:58:11Z",
+   "slug": "/podcasts/huberman-lab/how-to-control-your-cortisol-overcome-burnout",
+   "match_score": 1.0,
+   "words": 27487
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T13:58:09Z"
+ "updated_at": "2026-09-30T13:58:12Z"
 }
