@@ -1190,7 +1190,7 @@
   },
   "86c588253f44eb60": {
    "date": "2025-11-17",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 2,
    "last_try": "2026-09-30T11:18:55Z",
    "slug": "/podcasts/huberman-lab/how-to-speak-clearly-with-confidence-matt-abrahams",
@@ -1392,5 +1392,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-09-30T11:34:37Z"
+ "updated_at": "2026-09-30T11:34:39Z"
 }
