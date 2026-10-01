@@ -1960,8 +1960,17 @@
    "doc_id": "dlUoZmudkqKk",
    "doc_url": "https://docs.qq.com/doc/DZGxVb1ptdWRrcUtr",
    "done_at": "2026-10-01T12:52:13Z"
+  },
+  "454a8258b836f540": {
+   "date": "2025-06-05",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T12:52:15Z",
+   "slug": "/podcasts/huberman-lab/essentials-improving-health-with-stronger-brain-body-connection",
+   "match_score": 1.0,
+   "words": 7395
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:52:13Z"
+ "updated_at": "2026-10-01T12:52:15Z"
 }
