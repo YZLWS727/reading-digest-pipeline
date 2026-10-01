@@ -1835,14 +1835,18 @@
   },
   "492720e7c074aa96": {
    "date": "2025-07-03",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-01T12:06:01Z",
    "slug": "/podcasts/huberman-lab/essentials-understanding-conquering-depression",
    "match_score": 1.0,
-   "words": 6802
+   "words": 6802,
+   "chars": 13009,
+   "cjk": 9940,
+   "chunks": 7,
+   "title_zh": "精华版：理解与战胜抑郁"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:06:02Z"
+ "updated_at": "2026-10-01T12:08:13Z"
 }
