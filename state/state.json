@@ -2046,8 +2046,17 @@
    "words": 27063,
    "last_error": "error: all models failed: Qwen/Qwen2.5-7B-Instruct qa:refusal",
    "last_error_at": "2026-10-01T13:23:31Z"
+  },
+  "b6d2b5e9ce38b7df": {
+   "date": "2025-05-15",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T13:24:54Z",
+   "slug": "/podcasts/huberman-lab/essentials-understanding-healing-the-mind-dr-karl-deisseroth",
+   "match_score": 1.0,
+   "words": 7464
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T13:23:31Z"
+ "updated_at": "2026-10-01T13:24:55Z"
 }
