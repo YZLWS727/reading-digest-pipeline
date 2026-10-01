@@ -1995,7 +1995,7 @@
   },
   "39384fa69166c6cf": {
    "date": "2025-05-29",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-01T12:59:59Z",
    "slug": "/podcasts/huberman-lab/essentials-machines-creativity-love-dr-lex-fridman",
@@ -2008,5 +2008,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T13:01:42Z"
+ "updated_at": "2026-10-01T13:01:44Z"
 }
