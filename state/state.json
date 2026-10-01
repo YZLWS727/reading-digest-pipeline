@@ -1601,7 +1601,7 @@
    "match_score": 1.0,
    "words": 26116,
    "last_error": "error: all models failed: Qwen/Qwen2.5-7B-Instruct qa:refusal",
-   "last_error_at": "2026-09-30T13:22:04Z"
+   "last_error_at": "2026-10-01T11:20:00Z"
   },
   "9c872ad89632650f": {
    "date": "2025-08-21",
@@ -1776,5 +1776,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T11:08:32Z"
+ "updated_at": "2026-10-01T11:20:00Z"
 }
