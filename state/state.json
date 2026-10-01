@@ -2161,7 +2161,7 @@
   },
   "21689d02584f7415": {
    "date": "2025-04-24",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-01T14:06:47Z",
    "slug": "/podcasts/huberman-lab/essentials-protocols-to-improve-vision-eyesight",
@@ -2170,9 +2170,12 @@
    "chars": 11298,
    "cjk": 9148,
    "chunks": 7,
-   "title_zh": "精华版：改善视力的方法"
+   "title_zh": "精华版：改善视力的方法",
+   "doc_id": "dbjeflNvpCrf",
+   "doc_url": "https://docs.qq.com/doc/DZGJqZWZsTnZwQ3Jm",
+   "done_at": "2026-10-01T14:09:00Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T14:08:49Z"
+ "updated_at": "2026-10-01T14:09:00Z"
 }
