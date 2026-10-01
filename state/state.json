@@ -2193,7 +2193,7 @@
   },
   "3c02291506e69b04": {
    "date": "2025-04-17",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-01T14:20:06Z",
    "slug": "/podcasts/huberman-lab/essentials-build-muscle-size-increase-strength-improve-recovery",
@@ -2206,5 +2206,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T14:22:01Z"
+ "updated_at": "2026-10-01T14:22:03Z"
 }
