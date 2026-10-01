@@ -2019,8 +2019,17 @@
    "words": 21158,
    "last_error": "error: all models failed: Qwen/Qwen2.5-7B-Instruct qa:refusal",
    "last_error_at": "2026-10-01T13:10:39Z"
+  },
+  "1bef964f6a1b1c42": {
+   "date": "2025-05-22",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T13:10:41Z",
+   "slug": "/podcasts/huberman-lab/essentials-maximize-productivity-physical-mental-health-with-daily-tools",
+   "match_score": 1.0,
+   "words": 6731
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T13:10:39Z"
+ "updated_at": "2026-10-01T13:10:41Z"
 }
