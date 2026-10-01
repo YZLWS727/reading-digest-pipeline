@@ -1944,8 +1944,17 @@
    "doc_id": "dpYUcCrNUdSB",
    "doc_url": "https://docs.qq.com/doc/DZHBZVWNDck5VZFNC",
    "done_at": "2026-10-01T12:32:35Z"
+  },
+  "3abf3cc01ca23d08": {
+   "date": "2025-06-09",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T12:32:36Z",
+   "slug": "/podcasts/huberman-lab/improving-science-restoring-trust-in-public-health-dr-jay-bhattacharya",
+   "match_score": 1.0,
+   "words": 46143
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:32:35Z"
+ "updated_at": "2026-10-01T12:32:37Z"
 }
