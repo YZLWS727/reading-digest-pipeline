@@ -1899,14 +1899,18 @@
   },
   "dc5bf2c71a2d5f44": {
    "date": "2025-06-19",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-01T12:20:13Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-control-your-sense-of-pain-pleasure",
    "match_score": 1.0,
-   "words": 6215
+   "words": 6215,
+   "chars": 10414,
+   "cjk": 8407,
+   "chunks": 7,
+   "title_zh": "精华版：如何掌控痛觉与快感"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:20:14Z"
+ "updated_at": "2026-10-01T12:21:53Z"
 }
