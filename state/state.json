@@ -1792,7 +1792,7 @@
   },
   "67fdd5a40196c251": {
    "date": "2025-07-14",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-01T11:43:22Z",
    "slug": "/podcasts/huberman-lab/how-nature-other-physical-environments-impact-your-focus-cognition-health-dr-marc-berman",
@@ -1805,5 +1805,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T11:53:01Z"
+ "updated_at": "2026-10-01T11:53:02Z"
 }
