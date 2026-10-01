@@ -1979,14 +1979,18 @@
   },
   "9f6ebd6000bf60de": {
    "date": "2025-06-02",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-01T12:54:25Z",
    "slug": "/podcasts/huberman-lab/healing-from-grief-loss-dr-mary-frances-oconnor",
    "match_score": 1.0,
-   "words": 24236
+   "words": 24236,
+   "chars": 40193,
+   "cjk": 34094,
+   "chunks": 23,
+   "title_zh": "疗愈悲伤与失落 | Dr. Mary-Frances O'Connor"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:54:25Z"
+ "updated_at": "2026-10-01T12:59:43Z"
 }
