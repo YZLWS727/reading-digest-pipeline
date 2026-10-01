@@ -1896,8 +1896,17 @@
    "doc_id": "dKLVulHQckdL",
    "doc_url": "https://docs.qq.com/doc/DZEtMVnVsSFFja2RM",
    "done_at": "2026-10-01T12:20:12Z"
+  },
+  "dc5bf2c71a2d5f44": {
+   "date": "2025-06-19",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T12:20:13Z",
+   "slug": "/podcasts/huberman-lab/essentials-how-to-control-your-sense-of-pain-pleasure",
+   "match_score": 1.0,
+   "words": 6215
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:20:12Z"
+ "updated_at": "2026-10-01T12:20:14Z"
 }
