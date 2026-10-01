@@ -1851,7 +1851,7 @@
   },
   "8f40d01ca8421f89": {
    "date": "2025-06-30",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-01T12:08:28Z",
    "slug": "/podcasts/huberman-lab/the-chemistry-of-food-taste-dr-harold-mcgee",
@@ -1860,9 +1860,12 @@
    "chars": 32190,
    "cjk": 27278,
    "chunks": 19,
-   "title_zh": "食物与味觉化学 | Dr. Harold McGee"
+   "title_zh": "食物与味觉化学 | Dr. Harold McGee",
+   "doc_id": "dRfoqQRNdcfW",
+   "doc_url": "https://docs.qq.com/doc/DZFJmb3FRUk5kY2ZX",
+   "done_at": "2026-10-01T12:13:46Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:13:36Z"
+ "updated_at": "2026-10-01T12:13:46Z"
 }
