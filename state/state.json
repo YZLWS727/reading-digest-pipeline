@@ -1776,7 +1776,7 @@
   },
   "98db6c2f20544957": {
    "date": "2025-07-17",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-01T11:39:42Z",
    "slug": "/podcasts/huberman-lab/essentials-healthy-eating-eating-disorders-anorexia-bulimia-binging",
@@ -1785,9 +1785,12 @@
    "chars": 13728,
    "cjk": 10705,
    "chunks": 8,
-   "title_zh": "精华版：健康饮食与饮食失调 - 神经性厌食症、神经性贪食症、暴食"
+   "title_zh": "精华版：健康饮食与饮食失调 - 神经性厌食症、神经性贪食症、暴食",
+   "doc_id": "dlBmtnsuQKzi",
+   "doc_url": "https://docs.qq.com/doc/DZGxCbXRuc3VRS3pp",
+   "done_at": "2026-10-01T11:43:21Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T11:43:09Z"
+ "updated_at": "2026-10-01T11:43:21Z"
 }
