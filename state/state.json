@@ -2113,7 +2113,7 @@
   },
   "d414e655808884ae": {
    "date": "2025-05-01",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-01T13:55:43Z",
    "slug": "/podcasts/huberman-lab/essentials-how-smell-taste-pheromones-shape-behavior",
@@ -2122,9 +2122,12 @@
    "chars": 11763,
    "cjk": 9419,
    "chunks": 7,
-   "title_zh": "精华版：气味味觉信息素如何塑造行为"
+   "title_zh": "精华版：气味味觉信息素如何塑造行为",
+   "doc_id": "dllMvOmSnKeT",
+   "doc_url": "https://docs.qq.com/doc/DZGxsTXZPbVNuS2VU",
+   "done_at": "2026-10-01T13:58:12Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T13:58:01Z"
+ "updated_at": "2026-10-01T13:58:12Z"
 }
