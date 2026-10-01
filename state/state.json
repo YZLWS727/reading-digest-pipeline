@@ -2097,14 +2097,18 @@
   },
   "2f619015faf21626": {
    "date": "2025-05-05",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-01T13:41:06Z",
    "slug": "/podcasts/huberman-lab/contracts-of-love-money-that-make-or-break-relationships-james-sexton",
    "match_score": 1.0,
-   "words": 43200
+   "words": 43200,
+   "chars": 71278,
+   "cjk": 60597,
+   "chunks": 40,
+   "title_zh": "爱情与金钱的契约：成败关键 | James Sexton"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T13:41:06Z"
+ "updated_at": "2026-10-01T13:55:26Z"
 }
