@@ -841,10 +841,10 @@
   "4ad19e737fe03687": {
    "date": "2026-02-16",
    "status": "pending",
-   "attempts": 3,
-   "last_try": "2026-09-30T10:45:57Z",
+   "attempts": 4,
+   "last_try": "2026-10-01T11:08:17Z",
    "last_error": "no_transcript: no transcript match (best=0.20)",
-   "last_error_at": "2026-09-30T10:45:57Z"
+   "last_error_at": "2026-10-01T11:08:17Z"
   },
   "f4d45567c2455ef3": {
    "date": "2026-02-12",
@@ -1776,5 +1776,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T11:08:16Z"
+ "updated_at": "2026-10-01T11:08:17Z"
 }
