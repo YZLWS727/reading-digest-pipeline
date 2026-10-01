@@ -1963,7 +1963,7 @@
   },
   "454a8258b836f540": {
    "date": "2025-06-05",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-01T12:52:15Z",
    "slug": "/podcasts/huberman-lab/essentials-improving-health-with-stronger-brain-body-connection",
@@ -1972,9 +1972,12 @@
    "chars": 12533,
    "cjk": 10265,
    "chunks": 8,
-   "title_zh": "精华版：提升健康与强化脑体连接"
+   "title_zh": "精华版：提升健康与强化脑体连接",
+   "doc_id": "dvkHSWLJXlNr",
+   "doc_url": "https://docs.qq.com/doc/DZHZrSFNXTEpYbE5y",
+   "done_at": "2026-10-01T12:54:23Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:54:12Z"
+ "updated_at": "2026-10-01T12:54:23Z"
 }
