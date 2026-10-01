@@ -1995,14 +1995,18 @@
   },
   "39384fa69166c6cf": {
    "date": "2025-05-29",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-01T12:59:59Z",
    "slug": "/podcasts/huberman-lab/essentials-machines-creativity-love-dr-lex-fridman",
    "match_score": 1.0,
-   "words": 8198
+   "words": 8198,
+   "chars": 14222,
+   "cjk": 11252,
+   "chunks": 8,
+   "title_zh": "精华版：机器、创造与爱 | Dr. Lex Fridman"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T13:00:00Z"
+ "updated_at": "2026-10-01T13:01:42Z"
 }
