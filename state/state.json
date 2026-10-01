@@ -1792,14 +1792,18 @@
   },
   "67fdd5a40196c251": {
    "date": "2025-07-14",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-01T11:43:22Z",
    "slug": "/podcasts/huberman-lab/how-nature-other-physical-environments-impact-your-focus-cognition-health-dr-marc-berman",
    "match_score": 1.0,
-   "words": 23082
+   "words": 23082,
+   "chars": 39011,
+   "cjk": 32686,
+   "chunks": 22,
+   "title_zh": "自然与物理环境如何影响专注力、认知与健康 | Dr. Marc Berman"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T11:43:22Z"
+ "updated_at": "2026-10-01T11:53:01Z"
 }
