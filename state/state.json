@@ -2145,7 +2145,7 @@
   },
   "e3b6ba259de3e49f": {
    "date": "2025-04-25",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-01T14:05:13Z",
    "slug": "/podcasts/huberman-lab/ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more",
@@ -2154,9 +2154,12 @@
    "chars": 5901,
    "cjk": 4778,
    "chunks": 4,
-   "title_zh": "AMA第19期：胶原蛋白VS乳清蛋白，肌酸，嗅盐，兴奋剂等"
+   "title_zh": "AMA第19期：胶原蛋白VS乳清蛋白，肌酸，嗅盐，兴奋剂等",
+   "doc_id": "dOhXvoPLbszI",
+   "doc_url": "https://docs.qq.com/doc/DZE9oWHZvUExic3pJ",
+   "done_at": "2026-10-01T14:06:45Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T14:06:35Z"
+ "updated_at": "2026-10-01T14:06:45Z"
 }
