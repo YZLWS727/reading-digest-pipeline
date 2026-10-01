@@ -1851,7 +1851,7 @@
   },
   "8f40d01ca8421f89": {
    "date": "2025-06-30",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-01T12:08:28Z",
    "slug": "/podcasts/huberman-lab/the-chemistry-of-food-taste-dr-harold-mcgee",
@@ -1864,5 +1864,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:13:35Z"
+ "updated_at": "2026-10-01T12:13:36Z"
 }
