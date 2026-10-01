@@ -363,10 +363,10 @@
   "6d1ca093710d43df": {
    "date": "2026-07-06",
    "status": "pending",
-   "attempts": 3,
-   "last_try": "2026-09-30T10:45:18Z",
+   "attempts": 4,
+   "last_try": "2026-10-01T11:07:46Z",
    "last_error": "no_transcript: no transcript match (best=0.17)",
-   "last_error_at": "2026-09-30T10:45:18Z"
+   "last_error_at": "2026-10-01T11:07:46Z"
   },
   "6cfb9d85ac7d11c3": {
    "date": "2026-07-02",
@@ -1776,5 +1776,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T11:07:45Z"
+ "updated_at": "2026-10-01T11:07:46Z"
 }
