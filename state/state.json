@@ -2049,14 +2049,18 @@
   },
   "b6d2b5e9ce38b7df": {
    "date": "2025-05-15",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-01T13:24:54Z",
    "slug": "/podcasts/huberman-lab/essentials-understanding-healing-the-mind-dr-karl-deisseroth",
    "match_score": 1.0,
-   "words": 7464
+   "words": 7464,
+   "chars": 13078,
+   "cjk": 10757,
+   "chunks": 8,
+   "title_zh": "精华版：理解与疗愈心智 | Dr. Karl Deisseroth"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T13:24:55Z"
+ "updated_at": "2026-10-01T13:27:13Z"
 }
