@@ -1912,8 +1912,17 @@
    "doc_id": "dlPGniMQTOLD",
    "doc_url": "https://docs.qq.com/doc/DZGxQR25pTVFUT0xE",
    "done_at": "2026-10-01T12:22:04Z"
+  },
+  "b756667aac53da6c": {
+   "date": "2025-06-16",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T12:22:05Z",
+   "slug": "/podcasts/huberman-lab/how-to-grow-from-doing-hard-things-michael-easter",
+   "match_score": 1.0,
+   "words": 36168
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:22:04Z"
+ "updated_at": "2026-10-01T12:22:06Z"
 }
