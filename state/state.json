@@ -2062,8 +2062,17 @@
    "doc_id": "daVXDXFNgKKn",
    "doc_url": "https://docs.qq.com/doc/DZGFWWERYRk5nS0tu",
    "done_at": "2026-10-01T13:27:26Z"
+  },
+  "91fdd12b86af71cd": {
+   "date": "2025-05-12",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T13:27:27Z",
+   "slug": "/podcasts/huberman-lab/how-different-diets-impact-your-health-dr-christopher-gardner",
+   "match_score": 1.0,
+   "words": 31645
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T13:27:26Z"
+ "updated_at": "2026-10-01T13:27:28Z"
 }
