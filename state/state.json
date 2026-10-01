@@ -2129,7 +2129,7 @@
   },
   "2a8ac6132b66ab8b": {
    "date": "2025-04-28",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-01T13:58:13Z",
    "slug": "/podcasts/huberman-lab/what-pets-actually-want-need-dr-karolina-westlund",
@@ -2142,5 +2142,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T14:04:57Z"
+ "updated_at": "2026-10-01T14:04:59Z"
 }
