@@ -1760,7 +1760,7 @@
   },
   "5811bba6e14459ee": {
    "date": "2026-10-01",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-01T10:53:51Z",
    "slug": "/podcasts/huberman-lab/focus-toolkit-tools-to-improve-your-focus-concentration",
@@ -1773,5 +1773,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T11:01:11Z"
+ "updated_at": "2026-10-01T11:01:12Z"
 }
