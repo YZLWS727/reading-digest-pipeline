@@ -1976,8 +1976,17 @@
    "doc_id": "dvkHSWLJXlNr",
    "doc_url": "https://docs.qq.com/doc/DZHZrSFNXTEpYbE5y",
    "done_at": "2026-10-01T12:54:23Z"
+  },
+  "9f6ebd6000bf60de": {
+   "date": "2025-06-02",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T12:54:25Z",
+   "slug": "/podcasts/huberman-lab/healing-from-grief-loss-dr-mary-frances-oconnor",
+   "match_score": 1.0,
+   "words": 24236
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:54:23Z"
+ "updated_at": "2026-10-01T12:54:25Z"
 }
