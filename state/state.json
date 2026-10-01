@@ -2035,8 +2035,17 @@
    "doc_id": "dawkMjsMPFzF",
    "doc_url": "https://docs.qq.com/doc/DZGF3a01qc01QRnpG",
    "done_at": "2026-10-01T13:12:33Z"
+  },
+  "2dbe86bdfea44d23": {
+   "date": "2025-05-19",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T13:12:35Z",
+   "slug": "/podcasts/huberman-lab/the-science-art-of-comedy-creativity-tom-segura",
+   "match_score": 1.0,
+   "words": 27063
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T13:12:33Z"
+ "updated_at": "2026-10-01T13:12:35Z"
 }
