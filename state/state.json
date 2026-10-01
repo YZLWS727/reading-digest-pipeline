@@ -2022,7 +2022,7 @@
   },
   "1bef964f6a1b1c42": {
    "date": "2025-05-22",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-01T13:10:41Z",
    "slug": "/podcasts/huberman-lab/essentials-maximize-productivity-physical-mental-health-with-daily-tools",
@@ -2035,5 +2035,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T13:12:20Z"
+ "updated_at": "2026-10-01T13:12:22Z"
 }
