@@ -2129,14 +2129,18 @@
   },
   "2a8ac6132b66ab8b": {
    "date": "2025-04-28",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-01T13:58:13Z",
    "slug": "/podcasts/huberman-lab/what-pets-actually-want-need-dr-karolina-westlund",
    "match_score": 1.0,
-   "words": 20665
+   "words": 20665,
+   "chars": 33354,
+   "cjk": 28203,
+   "chunks": 20,
+   "title_zh": "宠物真实需求 | Dr. Karolina Westlund"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T13:58:14Z"
+ "updated_at": "2026-10-01T14:04:57Z"
 }
