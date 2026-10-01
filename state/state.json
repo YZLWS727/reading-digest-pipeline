@@ -1808,14 +1808,18 @@
   },
   "d37807990ffbe00e": {
    "date": "2025-07-10",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-01T11:53:13Z",
    "slug": "/podcasts/huberman-lab/essentials-science-of-stress-testosterone-aggression-motivation-dr-robert-sapolsky",
    "match_score": 1.0,
-   "words": 5849
+   "words": 5849,
+   "chars": 10249,
+   "cjk": 8416,
+   "chunks": 6,
+   "title_zh": "科学精华版：压力、睾酮、攻击与动机 | Dr. Robert Sapolsky"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T11:53:14Z"
+ "updated_at": "2026-10-01T11:55:13Z"
 }
