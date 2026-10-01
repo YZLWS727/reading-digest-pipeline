@@ -1805,8 +1805,17 @@
    "doc_id": "dEzTLPtlDuVI",
    "doc_url": "https://docs.qq.com/doc/DZEV6VExQdGxEdVZJ",
    "done_at": "2026-10-01T11:53:12Z"
+  },
+  "d37807990ffbe00e": {
+   "date": "2025-07-10",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T11:53:13Z",
+   "slug": "/podcasts/huberman-lab/essentials-science-of-stress-testosterone-aggression-motivation-dr-robert-sapolsky",
+   "match_score": 1.0,
+   "words": 5849
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T11:53:12Z"
+ "updated_at": "2026-10-01T11:53:14Z"
 }
