@@ -2142,8 +2142,17 @@
    "doc_id": "dbsJEQROZzOM",
    "doc_url": "https://docs.qq.com/doc/DZGJzSkVRUk9aek9N",
    "done_at": "2026-10-01T14:05:12Z"
+  },
+  "e3b6ba259de3e49f": {
+   "date": "2025-04-25",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T14:05:13Z",
+   "slug": "/podcasts/huberman-lab/ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more",
+   "match_score": 1.0,
+   "words": 3449
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T14:05:12Z"
+ "updated_at": "2026-10-01T14:05:14Z"
 }
