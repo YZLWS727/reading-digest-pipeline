@@ -1928,8 +1928,17 @@
    "doc_id": "dlDdCghdMECV",
    "doc_url": "https://docs.qq.com/doc/DZGxEZENnaGRNRUNW",
    "done_at": "2026-10-01T12:30:39Z"
+  },
+  "18ee4e1f2d9c6d91": {
+   "date": "2025-06-12",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T12:30:40Z",
+   "slug": "/podcasts/huberman-lab/essentials-the-science-practice-of-perfecting-your-sleep",
+   "match_score": 1.0,
+   "words": 7357
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:30:39Z"
+ "updated_at": "2026-10-01T12:30:40Z"
 }
