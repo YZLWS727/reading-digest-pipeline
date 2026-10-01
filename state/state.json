@@ -2214,9 +2214,11 @@
    "last_try": "2026-10-01T14:22:16Z",
    "slug": "/podcasts/huberman-lab/how-to-improve-your-vitality-heal-from-disease-dr-mark-hyman",
    "match_score": 1.0,
-   "words": 33006
+   "words": 33006,
+   "last_error": "error: all models failed: Qwen/Qwen2.5-7B-Instruct qa:refusal",
+   "last_error_at": "2026-10-01T14:35:19Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T14:22:16Z"
+ "updated_at": "2026-10-01T14:35:19Z"
 }
