@@ -1947,14 +1947,18 @@
   },
   "3abf3cc01ca23d08": {
    "date": "2025-06-09",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-01T12:32:36Z",
    "slug": "/podcasts/huberman-lab/improving-science-restoring-trust-in-public-health-dr-jay-bhattacharya",
    "match_score": 1.0,
-   "words": 46143
+   "words": 46143,
+   "chars": 81468,
+   "cjk": 66983,
+   "chunks": 45,
+   "title_zh": "提升科学 公共健康重塑信任 | Dr. Jay Bhattacharya"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:32:37Z"
+ "updated_at": "2026-10-01T12:52:00Z"
 }
