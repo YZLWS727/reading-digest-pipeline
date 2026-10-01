@@ -1789,8 +1789,17 @@
    "doc_id": "dlBmtnsuQKzi",
    "doc_url": "https://docs.qq.com/doc/DZGxCbXRuc3VRS3pp",
    "done_at": "2026-10-01T11:43:21Z"
+  },
+  "67fdd5a40196c251": {
+   "date": "2025-07-14",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T11:43:22Z",
+   "slug": "/podcasts/huberman-lab/how-nature-other-physical-environments-impact-your-focus-cognition-health-dr-marc-berman",
+   "match_score": 1.0,
+   "words": 23082
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T11:43:21Z"
+ "updated_at": "2026-10-01T11:43:22Z"
 }
