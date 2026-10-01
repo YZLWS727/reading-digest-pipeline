@@ -2078,8 +2078,17 @@
    "doc_id": "dFmyRacooTsn",
    "doc_url": "https://docs.qq.com/doc/DZEZteVJhY29vVHNu",
    "done_at": "2026-10-01T13:38:45Z"
+  },
+  "ef8689a44bbf2960": {
+   "date": "2025-05-08",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T13:38:47Z",
+   "slug": "/podcasts/huberman-lab/essentials-how-hearing-balance-enhance-focus-learning",
+   "match_score": 1.0,
+   "words": 6809
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T13:38:45Z"
+ "updated_at": "2026-10-01T13:38:47Z"
 }
