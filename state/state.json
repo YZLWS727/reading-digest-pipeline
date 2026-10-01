@@ -1867,14 +1867,18 @@
   },
   "d2205968d1b5340b": {
    "date": "2025-06-26",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-01T12:13:47Z",
    "slug": "/podcasts/huberman-lab/essentials-understanding-treating-addiction-dr-anna-lembke",
    "match_score": 1.0,
-   "words": 6203
+   "words": 6203,
+   "chars": 10907,
+   "cjk": 9044,
+   "chunks": 6,
+   "title_zh": "精华版：理解与治疗成瘾 | Dr. Anna Lembke"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:13:48Z"
+ "updated_at": "2026-10-01T12:15:10Z"
 }
