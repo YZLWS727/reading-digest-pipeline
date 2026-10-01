@@ -1915,14 +1915,18 @@
   },
   "b756667aac53da6c": {
    "date": "2025-06-16",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-01T12:22:05Z",
    "slug": "/podcasts/huberman-lab/how-to-grow-from-doing-hard-things-michael-easter",
    "match_score": 1.0,
-   "words": 36168
+   "words": 36168,
+   "chars": 59142,
+   "cjk": 49121,
+   "chunks": 34,
+   "title_zh": "如何挑战极限 | Michael Easter"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:22:06Z"
+ "updated_at": "2026-10-01T12:30:26Z"
 }
