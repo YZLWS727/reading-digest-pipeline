@@ -2158,8 +2158,17 @@
    "doc_id": "dOhXvoPLbszI",
    "doc_url": "https://docs.qq.com/doc/DZE9oWHZvUExic3pJ",
    "done_at": "2026-10-01T14:06:45Z"
+  },
+  "21689d02584f7415": {
+   "date": "2025-04-24",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T14:06:47Z",
+   "slug": "/podcasts/huberman-lab/essentials-protocols-to-improve-vision-eyesight",
+   "match_score": 1.0,
+   "words": 6547
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T14:06:45Z"
+ "updated_at": "2026-10-01T14:06:47Z"
 }
