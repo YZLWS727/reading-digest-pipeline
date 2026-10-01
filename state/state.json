@@ -1883,7 +1883,7 @@
   },
   "73349be2aa2316e4": {
    "date": "2025-06-23",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-01T12:15:23Z",
    "slug": "/podcasts/huberman-lab/control-your-vagus-nerve-to-improve-mood-alertness-neuroplasticity",
@@ -1896,5 +1896,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:19:58Z"
+ "updated_at": "2026-10-01T12:19:59Z"
 }
