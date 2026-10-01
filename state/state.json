@@ -1963,7 +1963,7 @@
   },
   "454a8258b836f540": {
    "date": "2025-06-05",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-01T12:52:15Z",
    "slug": "/podcasts/huberman-lab/essentials-improving-health-with-stronger-brain-body-connection",
@@ -1976,5 +1976,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:54:11Z"
+ "updated_at": "2026-10-01T12:54:12Z"
 }
