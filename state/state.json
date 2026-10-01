@@ -1992,8 +1992,17 @@
    "doc_id": "dMVLRaDNSsSs",
    "doc_url": "https://docs.qq.com/doc/DZE1WTFJhRE5Tc1Nz",
    "done_at": "2026-10-01T12:59:58Z"
+  },
+  "39384fa69166c6cf": {
+   "date": "2025-05-29",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T12:59:59Z",
+   "slug": "/podcasts/huberman-lab/essentials-machines-creativity-love-dr-lex-fridman",
+   "match_score": 1.0,
+   "words": 8198
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:59:58Z"
+ "updated_at": "2026-10-01T13:00:00Z"
 }
