@@ -435,10 +435,10 @@
   "701e86d892ea22ad": {
    "date": "2026-06-15",
    "status": "pending",
-   "attempts": 3,
-   "last_try": "2026-09-30T10:45:24Z",
+   "attempts": 4,
+   "last_try": "2026-10-01T11:07:51Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
-   "last_error_at": "2026-09-30T10:45:24Z"
+   "last_error_at": "2026-10-01T11:07:51Z"
   },
   "e12e0470aa2335d2": {
    "date": "2026-06-11",
@@ -1776,5 +1776,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T11:07:49Z"
+ "updated_at": "2026-10-01T11:07:51Z"
 }
