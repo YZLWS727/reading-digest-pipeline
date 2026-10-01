@@ -2065,14 +2065,18 @@
   },
   "91fdd12b86af71cd": {
    "date": "2025-05-12",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-01T13:27:27Z",
    "slug": "/podcasts/huberman-lab/how-different-diets-impact-your-health-dr-christopher-gardner",
    "match_score": 1.0,
-   "words": 31645
+   "words": 31645,
+   "chars": 55584,
+   "cjk": 45144,
+   "chunks": 30,
+   "title_zh": "不同饮食如何影响健康 | Dr. Christopher Gardner"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T13:27:28Z"
+ "updated_at": "2026-10-01T13:38:30Z"
 }
