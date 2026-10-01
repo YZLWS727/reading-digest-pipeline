@@ -1931,14 +1931,18 @@
   },
   "18ee4e1f2d9c6d91": {
    "date": "2025-06-12",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-01T12:30:40Z",
    "slug": "/podcasts/huberman-lab/essentials-the-science-practice-of-perfecting-your-sleep",
    "match_score": 1.0,
-   "words": 7357
+   "words": 7357,
+   "chars": 11895,
+   "cjk": 10037,
+   "chunks": 7,
+   "title_zh": "精华版：睡眠科学与实践"
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:30:40Z"
+ "updated_at": "2026-10-01T12:32:23Z"
 }
