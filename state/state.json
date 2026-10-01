@@ -1848,8 +1848,17 @@
    "doc_id": "dPTLQjKjjwOo",
    "doc_url": "https://docs.qq.com/doc/DZFBUTFFqS2pqd09v",
    "done_at": "2026-10-01T12:08:27Z"
+  },
+  "8f40d01ca8421f89": {
+   "date": "2025-06-30",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-01T12:08:28Z",
+   "slug": "/podcasts/huberman-lab/the-chemistry-of-food-taste-dr-harold-mcgee",
+   "match_score": 1.0,
+   "words": 19684
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T12:08:27Z"
+ "updated_at": "2026-10-01T12:08:29Z"
 }
