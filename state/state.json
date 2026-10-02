@@ -2389,8 +2389,17 @@
    "doc_id": "degnmzzpRMxp",
    "doc_url": "https://docs.qq.com/doc/DZGVnbm16enBSTXhw",
    "done_at": "2026-10-02T13:17:51Z"
+  },
+  "1c12a425852c93fb": {
+   "date": "2025-03-13",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-02T13:17:52Z",
+   "slug": "/podcasts/huberman-lab/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline",
+   "match_score": 1.0,
+   "words": 6388
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T13:17:51Z"
+ "updated_at": "2026-10-02T13:17:53Z"
 }
