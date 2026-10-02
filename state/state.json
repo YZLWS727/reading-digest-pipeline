@@ -2290,14 +2290,19 @@
   },
   "bcbaa60cb6b5a351": {
    "date": "2025-04-03",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-02T12:24:43Z",
    "slug": "/podcasts/huberman-lab/essentials-lose-fat-with-science-based-tools",
    "match_score": 1.0,
-   "words": 6344
+   "words": 6344,
+   "chars": 10871,
+   "cjk": 8736,
+   "chunks": 7,
+   "failed_chunks": 0,
+   "title_zh": "科学精华版：科学减脂工具"
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T12:24:43Z"
+ "updated_at": "2026-10-02T12:27:09Z"
 }
