@@ -2358,14 +2358,19 @@
   },
   "478316541275c85b": {
    "date": "2025-03-20",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-02T13:05:37Z",
    "slug": "/podcasts/huberman-lab/supercharge-exercise-performance-recovery-with-cooling-huberman-lab-essentials",
    "match_score": 1.0,
-   "words": 5791
+   "words": 5791,
+   "chars": 9794,
+   "cjk": 7831,
+   "chunks": 6,
+   "failed_chunks": 0,
+   "title_zh": "精华版：提升运动表现与恢复的冷却法"
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T13:05:37Z"
+ "updated_at": "2026-10-02T13:07:37Z"
 }
