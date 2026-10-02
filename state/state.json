@@ -2041,8 +2041,8 @@
    "slug": "/podcasts/huberman-lab/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo",
    "match_score": 1.0,
    "words": 21158,
-   "last_error": "error: all models failed: Qwen/Qwen2.5-7B-Instruct qa:refusal",
-   "last_error_at": "2026-10-01T13:10:39Z",
+   "last_error": "error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+   "last_error_at": "2026-10-02T11:33:34Z",
    "chars": 35728,
    "cjk": 30217,
    "chunks": 21,
@@ -2249,5 +2249,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T11:32:30Z"
+ "updated_at": "2026-10-02T11:33:34Z"
 }
