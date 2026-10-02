@@ -1841,8 +1841,8 @@
   "a0f514ed0c6ab0a4": {
    "date": "2025-07-07",
    "status": "fetched",
-   "attempts": 1,
-   "last_try": "2026-10-01T11:55:26Z",
+   "attempts": 2,
+   "last_try": "2026-10-02T10:59:34Z",
    "slug": "/podcasts/huberman-lab/how-to-lose-fat-gain-muscle-with-nutrition-alan-aragon",
    "match_score": 1.0,
    "words": 24946,
@@ -2236,5 +2236,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T10:59:33Z"
+ "updated_at": "2026-10-02T10:59:34Z"
 }
