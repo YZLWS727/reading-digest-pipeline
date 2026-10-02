@@ -2477,7 +2477,7 @@
   },
   "c4eaa538297032be": {
    "date": "2025-02-24",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-02T13:41:45Z",
    "slug": "/podcasts/huberman-lab/how-to-enhance-your-immune-system-dr-roger-seheult",
@@ -2487,9 +2487,12 @@
    "cjk": 51813,
    "chunks": 36,
    "failed_chunks": 0,
-   "title_zh": "增强免疫力 Dr. Roger Seheult"
+   "title_zh": "增强免疫力 Dr. Roger Seheult",
+   "doc_id": "dbKaqpWDZbqF",
+   "doc_url": "https://docs.qq.com/doc/DZGJLYXFwV0RaYnFG",
+   "done_at": "2026-10-02T13:58:13Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T13:58:02Z"
+ "updated_at": "2026-10-02T13:58:13Z"
 }
