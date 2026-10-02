@@ -2392,7 +2392,7 @@
   },
   "1c12a425852c93fb": {
    "date": "2025-03-13",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-02T13:17:52Z",
    "slug": "/podcasts/huberman-lab/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline",
@@ -2406,5 +2406,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T13:20:11Z"
+ "updated_at": "2026-10-02T13:20:12Z"
 }
