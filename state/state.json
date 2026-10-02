@@ -1661,7 +1661,7 @@
   },
   "4c55760e6e8e6863": {
    "date": "2025-08-11",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 3,
    "last_try": "2026-10-02T10:34:13Z",
    "slug": "/podcasts/huberman-lab/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard",
@@ -2233,5 +2233,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T10:59:21Z"
+ "updated_at": "2026-10-02T10:59:23Z"
 }
