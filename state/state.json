@@ -865,10 +865,10 @@
   "fbcf1e810ba43327": {
    "date": "2026-02-09",
    "status": "pending",
-   "attempts": 4,
-   "last_try": "2026-10-01T11:08:18Z",
+   "attempts": 5,
+   "last_try": "2026-10-02T10:15:53Z",
    "last_error": "no_transcript: no transcript match (best=0.40)",
-   "last_error_at": "2026-10-01T11:08:18Z"
+   "last_error_at": "2026-10-02T10:15:53Z"
   },
   "13722a4b9e39de44": {
    "date": "2026-02-05",
@@ -2220,5 +2220,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T10:15:52Z"
+ "updated_at": "2026-10-02T10:15:53Z"
 }
