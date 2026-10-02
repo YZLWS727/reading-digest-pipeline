@@ -2477,7 +2477,7 @@
   },
   "c4eaa538297032be": {
    "date": "2025-02-24",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-02T13:41:45Z",
    "slug": "/podcasts/huberman-lab/how-to-enhance-your-immune-system-dr-roger-seheult",
@@ -2491,5 +2491,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T13:58:01Z"
+ "updated_at": "2026-10-02T13:58:02Z"
 }
