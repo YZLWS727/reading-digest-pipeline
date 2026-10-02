@@ -2375,7 +2375,7 @@
   },
   "0231164838f59df4": {
    "date": "2025-03-17",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-02T13:07:49Z",
    "slug": "/podcasts/huberman-lab/how-to-increase-your-speed-mobility-longevity-with-plyometrics-sprinting-stuart-mcmillan",
@@ -2389,5 +2389,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T13:17:40Z"
+ "updated_at": "2026-10-02T13:17:41Z"
 }
