@@ -2511,7 +2511,7 @@
   },
   "62bc32cbd0803b5b": {
    "date": "2025-02-17",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-02T14:01:24Z",
    "slug": "/podcasts/huberman-lab/how-to-make-better-decisions-dr-michael-platt",
@@ -2521,9 +2521,12 @@
    "cjk": 55014,
    "chunks": 37,
    "failed_chunks": 0,
-   "title_zh": "如何做出更好决策 | Dr. Michael Platt"
+   "title_zh": "如何做出更好决策 | Dr. Michael Platt",
+   "doc_id": "dNuSscAJnpMB",
+   "doc_url": "https://docs.qq.com/doc/DZE51U3NjQUpucE1C",
+   "done_at": "2026-10-02T14:13:30Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T14:13:19Z"
+ "updated_at": "2026-10-02T14:13:30Z"
 }
