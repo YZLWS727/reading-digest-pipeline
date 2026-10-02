@@ -2426,7 +2426,7 @@
   },
   "d4931c7819d1b9b2": {
    "date": "2025-03-06",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-02T13:28:14Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone",
@@ -2440,5 +2440,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T13:30:09Z"
+ "updated_at": "2026-10-02T13:30:11Z"
 }
