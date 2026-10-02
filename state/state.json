@@ -1661,7 +1661,7 @@
   },
   "4c55760e6e8e6863": {
    "date": "2025-08-11",
-   "status": "rendered",
+   "status": "done",
    "attempts": 3,
    "last_try": "2026-10-02T10:34:13Z",
    "slug": "/podcasts/huberman-lab/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard",
@@ -1673,7 +1673,10 @@
    "cjk": 57688,
    "chunks": 37,
    "failed_chunks": 1,
-   "title_zh": "重塑大脑速成 Dr. Michael Kilgard"
+   "title_zh": "重塑大脑速成 Dr. Michael Kilgard",
+   "doc_id": "dmNTBXuauOMs",
+   "doc_url": "https://docs.qq.com/doc/DZG1OVEJYdWF1T01z",
+   "done_at": "2026-10-02T10:59:33Z"
   },
   "4cb1f4969c0c54a2": {
    "date": "2025-08-07",
@@ -2233,5 +2236,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T10:59:23Z"
+ "updated_at": "2026-10-02T10:59:33Z"
 }
