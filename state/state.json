@@ -1595,8 +1595,8 @@
   "a68d1069afd42b08": {
    "date": "2025-08-25",
    "status": "fetched",
-   "attempts": 3,
-   "last_try": "2026-10-02T10:16:05Z",
+   "attempts": 4,
+   "last_try": "2026-10-02T10:21:45Z",
    "slug": "/podcasts/huberman-lab/science-health-benefits-of-belief-in-god-religion-dr-david-desteno",
    "match_score": 1.0,
    "words": 26116,
@@ -2220,5 +2220,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T10:16:06Z"
+ "updated_at": "2026-10-02T10:21:45Z"
 }
