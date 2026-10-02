@@ -2321,8 +2321,17 @@
    "doc_id": "dDATVswcDjhb",
    "doc_url": "https://docs.qq.com/doc/DZERBVFZzd2NEamhi",
    "done_at": "2026-10-02T12:48:14Z"
+  },
+  "6a78ea826a467c7b": {
+   "date": "2025-03-27",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-02T12:48:15Z",
+   "slug": "/podcasts/huberman-lab/essentials-how-to-learn-skills-faster",
+   "match_score": 1.0,
+   "words": 6094
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T12:48:14Z"
+ "updated_at": "2026-10-02T12:48:15Z"
 }
