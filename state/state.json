@@ -2068,8 +2068,8 @@
   "2dbe86bdfea44d23": {
    "date": "2025-05-19",
    "status": "fetched",
-   "attempts": 1,
-   "last_try": "2026-10-01T13:12:35Z",
+   "attempts": 2,
+   "last_try": "2026-10-02T11:33:36Z",
    "slug": "/podcasts/huberman-lab/the-science-art-of-comedy-creativity-tom-segura",
    "match_score": 1.0,
    "words": 27063,
@@ -2249,5 +2249,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T11:33:34Z"
+ "updated_at": "2026-10-02T11:33:36Z"
 }
