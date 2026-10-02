@@ -310,8 +310,8 @@
   "37b25bd3360a8da6": {
    "date": "2026-07-20",
    "status": "fetched",
-   "attempts": 4,
-   "last_try": "2026-10-01T11:01:23Z",
+   "attempts": 5,
+   "last_try": "2026-10-02T10:08:58Z",
    "slug": "/podcasts/huberman-lab/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood",
    "match_score": 1.0,
    "words": 28867,
@@ -2220,5 +2220,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-01T14:35:21Z"
+ "updated_at": "2026-10-02T10:08:59Z"
 }
