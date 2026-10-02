@@ -2290,7 +2290,7 @@
   },
   "bcbaa60cb6b5a351": {
    "date": "2025-04-03",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-02T12:24:43Z",
    "slug": "/podcasts/huberman-lab/essentials-lose-fat-with-science-based-tools",
@@ -2304,5 +2304,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T12:27:09Z"
+ "updated_at": "2026-10-02T12:27:10Z"
 }
