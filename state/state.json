@@ -2409,14 +2409,19 @@
   },
   "4a1f6ac6c341aa8c": {
    "date": "2025-03-10",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-02T13:20:25Z",
    "slug": "/podcasts/huberman-lab/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse",
    "match_score": 1.0,
-   "words": 25807
+   "words": 25807,
+   "chars": 46459,
+   "cjk": 37735,
+   "chunks": 25,
+   "failed_chunks": 0,
+   "title_zh": "提升专注力：行为工具与ADHD药物 | Dr. John Kruse"
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T13:20:25Z"
+ "updated_at": "2026-10-02T13:27:58Z"
 }
