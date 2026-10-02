@@ -2324,14 +2324,19 @@
   },
   "6a78ea826a467c7b": {
    "date": "2025-03-27",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-02T12:48:15Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-learn-skills-faster",
    "match_score": 1.0,
-   "words": 6094
+   "words": 6094,
+   "chars": 10534,
+   "cjk": 8514,
+   "chunks": 6,
+   "failed_chunks": 0,
+   "title_zh": "精华版：如何更快掌握技能"
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T12:48:15Z"
+ "updated_at": "2026-10-02T12:55:29Z"
 }
