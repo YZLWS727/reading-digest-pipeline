@@ -905,10 +905,10 @@
   "db04e97a4e20d447": {
    "date": "2026-02-02",
    "status": "pending",
-   "attempts": 3,
-   "last_try": "2026-10-01T11:08:20Z",
+   "attempts": 4,
+   "last_try": "2026-10-02T10:15:55Z",
    "last_error": "no_transcript: no transcript match (best=0.40)",
-   "last_error_at": "2026-10-01T11:08:20Z"
+   "last_error_at": "2026-10-02T10:15:55Z"
   },
   "25e8c6281f231fb8": {
    "date": "2026-01-29",
@@ -2220,5 +2220,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T10:15:53Z"
+ "updated_at": "2026-10-02T10:15:55Z"
 }
