@@ -2324,7 +2324,7 @@
   },
   "6a78ea826a467c7b": {
    "date": "2025-03-27",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-02T12:48:15Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-learn-skills-faster",
@@ -2338,5 +2338,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T12:55:29Z"
+ "updated_at": "2026-10-02T12:55:30Z"
 }
