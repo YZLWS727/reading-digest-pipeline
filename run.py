@@ -11,6 +11,7 @@ import argparse
 import json
 import os
 import time
+import requests
 from datetime import datetime, time as dtime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlparse
@@ -195,6 +196,7 @@ def main() -> int:
     ap.add_argument("--dry-run", action="store_true", help="不写状态、不上传")
     ap.add_argument("--force", action="store_true", help="忽略时间窗限制（手动补跑用）")
     ap.add_argument("--no-commit", action="store_true", help="不执行 git 提交")
+    ap.add_argument("--chain", type=int, default=0, help="自链接深度（防止无限循环）")
     args = ap.parse_args()
 
     cfg = Config()
@@ -219,13 +221,43 @@ def main() -> int:
     pending = [e for e in queue if state["items"].get(e.key, {}).get("status") != "done"]
     log("state", f"queue={len(queue)}", f"done={done_total}", f"remaining={len(pending)}", f"next={pending[0].key if pending else '-'}")
 
+    # 停摆看门狗：超过 30 小时没有任何新产出就主动告警
+    done_stamps = [v.get("done_at") for v in state["items"].values() if v.get("status") == "done" and v.get("done_at")]
+    if done_stamps:
+        newest = max(done_stamps)
+        try:
+            gap_h = (datetime.now(timezone.utc) - datetime.strptime(newest, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)).total_seconds() / 3600
+        except Exception:  # noqa: BLE001
+            gap_h = 0.0
+        if gap_h > 30 and pending:
+            log("stall watchdog", f"gap_hours={gap_h:.1f}")
+            send(cfg.wecom_webhook, f"阅读专栏：已连续 {gap_h:.0f} 小时没有新产出（剩余 {len(pending)} 期），请检查 GitHub Actions 定时任务是否被延迟或禁用。")
+
     if args.only:
         pending = [e for e in pending if e.key == args.only]
     if args.limit:
         pending = pending[: args.limit]
+
+    # 反复缺稿的期不每轮重试：20 小时内只尝试一次，避免浪费作业时间
+    def _cooling(v: dict) -> bool:
+        err = str(v.get("last_error") or "")
+        if "no_transcript" not in err and v.get("status") != "blocked":
+            return False
+        ts = v.get("last_error_at") or ""
+        try:
+            last = datetime.strptime(ts, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+        except Exception:  # noqa: BLE001
+            return False
+        return (datetime.now(timezone.utc) - last) < timedelta(hours=20)
+
+    cooling = [e for e in pending if _cooling(state["items"].get(e.key, {}))]
+    if cooling:
+        pending = [e for e in pending if e not in cooling]
+        log("cooldown skip", f"count={len(cooling)}")
     if not pending:
         log("nothing to do")
-        send(cfg.wecom_webhook, f"阅读专栏：全部 {len(queue)} 期已完成，无需处理。")
+        msg = f"阅读专栏：没有可处理的期数（剩余 {len(cooling)} 期因暂时无文字稿进入冷却，稍后自动重试）。" if cooling else f"阅读专栏：全部 {len(queue)} 期已完成。"
+        send(cfg.wecom_webhook, msg)
         return 0
 
     index = build_index(cfg.transcript_base, cfg.request_timeout)
@@ -277,9 +309,32 @@ def main() -> int:
     save_state(state, cfg, commit=not args.dry_run)
     log("run end", f"done_now={done_now}", f"done_total={done_total}", f"remaining={remaining}", f"failures={len(failures)}")
 
+    # 自链接：本轮因作业时长上限停下、但时间窗未结束时，自动再触发一轮，避免依赖 GitHub 定时准点
+    chain_ok = False
+    bj_now = datetime.now(BEIJING)
+    cutoff_today = datetime.combine(bj_now.date(), parse_hhmm(cfg.daily_cutoff_beijing, dtime(22, 30)), tzinfo=BEIJING)
+    token = os.environ.get("GH_TOKEN", "")
+    repo_slug = os.environ.get("GITHUB_REPOSITORY", "")
+    if token and repo_slug and remaining > 0 and done_now > 0 and args.chain < 4 and (cutoff_today - bj_now) > timedelta(minutes=25):
+        try:
+            resp = requests.post(
+                f"https://api.github.com/repos/{repo_slug}/actions/workflows/sync.yml/dispatches",
+                headers={"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"},
+                json={"ref": "main", "inputs": {"limit": "0", "force": "false", "only": "", "chain": str(args.chain + 1)}},
+                timeout=60,
+            )
+            chain_ok = resp.status_code < 300
+            log("chain dispatch", resp.status_code, f"chain={args.chain + 1}")
+        except Exception as exc:  # noqa: BLE001
+            log("chain dispatch failed", repr(exc)[:120])
+
     summary = [f"阅读专栏：本轮完成 {done_now} 期，累计 {done_total} 期，剩余 {remaining} 期。"]
     if failures:
         summary.append("失败：" + "、".join(f"{k}({kind})" for k, kind in failures[:5]))
+    if cooling:
+        summary.append(f"暂无文字稿、稍后重试：{len(cooling)} 期。")
+    if chain_ok:
+        summary.append("已自动接力下一轮。")
     send(cfg.wecom_webhook, "\n".join(summary))
     return 0
 
