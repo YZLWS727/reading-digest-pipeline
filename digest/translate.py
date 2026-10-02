@@ -100,6 +100,22 @@ class Translator:
         return t
 
     def translate_chunk(self, text: str) -> str:
+        try:
+            return self._translate_chunk_once(text)
+        except TranslationError:
+            words = len(text.split())
+            if words < 260:
+                raise
+            sentences = split_sentences(text)
+            if len(sentences) < 3:
+                raise
+            mid = len(sentences) // 2
+            left = " ".join(sentences[:mid])
+            right = " ".join(sentences[mid:])
+            log("chunk split retry", f"words={words}")
+            return self._translate_chunk_once(left) + " " + self._translate_chunk_once(right)
+
+    def _translate_chunk_once(self, text: str) -> str:
         en_words = len(text.split())
         last_err = "unknown"
         for model in [m for m in self.cfg.models if m not in self.disabled]:
@@ -213,15 +229,25 @@ def translate_transcript(cfg: Config, transcript: str, title: str) -> dict:
     chunks = chunk_sentences(split_sentences(transcript), cfg.chunk_words)
     log("translate start", f"chunks={len(chunks)}")
     parts: list[str] = []
+    failed_chunks = 0
+    fallback_chars = 0
     for i, chunk in enumerate(chunks, 1):
-        out = translator.translate_chunk(chunk)
+        try:
+            out = translator.translate_chunk(chunk)
+        except FatalApiError:
+            raise
+        except TranslationError as exc:
+            failed_chunks += 1
+            fallback_chars += len(chunk)
+            log("chunk fallback", f"{i}/{len(chunks)}", str(exc)[:80])
+            out = "【本段机器翻译未通过质检，暂保留英文原文】" + chunk
         parts.append(out)
         if i % 5 == 0 or i == len(chunks):
             log("translate progress", f"{i}/{len(chunks)}")
     body = "\n".join(parts)
     body, repaired = translator.repair_english(body)
     title_zh = translator.translate_title(title)
-    log("translate done", f"chunks={len(chunks)}", f"chars={len(body)}", f"repaired={repaired}", f"api_requests={translator.usage['requests']}")
+    log("translate done", f"chunks={len(chunks)}", f"chars={len(body)}", f"repaired={repaired}", f"failed_chunks={failed_chunks}", f"api_requests={translator.usage['requests']}")
     return {
         "body": body,
         "title_zh": title_zh,
@@ -229,5 +255,7 @@ def translate_transcript(cfg: Config, transcript: str, title: str) -> dict:
         "chars": len(body),
         "cjk": cjk_count(body),
         "repaired": repaired,
+        "failed_chunks": failed_chunks,
+        "fallback_chars": fallback_chars,
         "usage": translator.usage,
     }
