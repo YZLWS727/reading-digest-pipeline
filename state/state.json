@@ -563,10 +563,10 @@
   "190e01da1fc6d56f": {
    "date": "2026-05-07",
    "status": "pending",
-   "attempts": 4,
-   "last_try": "2026-10-01T11:07:59Z",
+   "attempts": 5,
+   "last_try": "2026-10-02T10:15:37Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
-   "last_error_at": "2026-10-01T11:07:59Z"
+   "last_error_at": "2026-10-02T10:15:37Z"
   },
   "8e72d738deb006d7": {
    "date": "2026-05-04",
@@ -2220,5 +2220,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T10:15:35Z"
+ "updated_at": "2026-10-02T10:15:37Z"
 }
