@@ -148,6 +148,7 @@ def process_item(cfg: Config, ep: Episode, state: dict, index: dict, used: set[s
     record["chars"] = result["chars"]
     record["cjk"] = result["cjk"]
     record["chunks"] = result["chunks"]
+    record["failed_chunks"] = result.get("failed_chunks", 0)
     record["title_zh"] = result["title_zh"] or ep.core_title
     record["status"] = "translated"
     _save()
@@ -241,7 +242,8 @@ def main() -> int:
     # 反复缺稿的期不每轮重试：20 小时内只尝试一次，避免浪费作业时间
     def _cooling(v: dict) -> bool:
         err = str(v.get("last_error") or "")
-        if "no_transcript" not in err and v.get("status") != "blocked":
+        tries = int(v.get("attempts") or 0)
+        if v.get("status") != "blocked" and tries < 3 and "no_transcript" not in err:
             return False
         ts = v.get("last_error_at") or ""
         try:
