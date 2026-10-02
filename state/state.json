@@ -2307,7 +2307,7 @@
   },
   "ee71a4b14cd65b9f": {
    "date": "2025-03-31",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-02T12:27:21Z",
    "slug": "/podcasts/huberman-lab/transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer",
@@ -2321,5 +2321,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T12:48:00Z"
+ "updated_at": "2026-10-02T12:48:02Z"
 }
