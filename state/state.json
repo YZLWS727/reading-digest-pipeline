@@ -2375,14 +2375,19 @@
   },
   "0231164838f59df4": {
    "date": "2025-03-17",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-02T13:07:49Z",
    "slug": "/podcasts/huberman-lab/how-to-increase-your-speed-mobility-longevity-with-plyometrics-sprinting-stuart-mcmillan",
    "match_score": 1.0,
-   "words": 33414
+   "words": 33414,
+   "chars": 57859,
+   "cjk": 46768,
+   "chunks": 32,
+   "failed_chunks": 0,
+   "title_zh": "如何通过爆发力与冲刺提升速度、灵活性和寿命 | Stuart McMillan"
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T13:07:50Z"
+ "updated_at": "2026-10-02T13:17:40Z"
 }
