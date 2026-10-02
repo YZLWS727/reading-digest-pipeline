@@ -2474,8 +2474,17 @@
    "doc_id": "dwoCQVLscHtN",
    "doc_url": "https://docs.qq.com/doc/DZHdvQ1FWTHNjSHRO",
    "done_at": "2026-10-02T13:41:43Z"
+  },
+  "c4eaa538297032be": {
+   "date": "2025-02-24",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-02T13:41:45Z",
+   "slug": "/podcasts/huberman-lab/how-to-enhance-your-immune-system-dr-roger-seheult",
+   "match_score": 1.0,
+   "words": 38305
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T13:41:43Z"
+ "updated_at": "2026-10-02T13:41:45Z"
 }
