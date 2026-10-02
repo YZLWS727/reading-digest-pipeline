@@ -2545,7 +2545,7 @@
   },
   "f41822b97d623492": {
    "date": "2025-02-10",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-02T14:15:36Z",
    "slug": "/podcasts/huberman-lab/the-correct-way-to-build-strength-endurance-flexibility-at-any-age-pavel-tsatsouline",
@@ -2555,9 +2555,12 @@
    "cjk": 62351,
    "chunks": 42,
    "failed_chunks": 1,
-   "title_zh": "任何年龄增肌耐力柔韧正确方法 | Pavel Tsatsouline"
+   "title_zh": "任何年龄增肌耐力柔韧正确方法 | Pavel Tsatsouline",
+   "doc_id": "dJIIOofECQuK",
+   "doc_url": "https://docs.qq.com/doc/DZEpJSU9vZkVDUXVL",
+   "done_at": "2026-10-02T14:40:45Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T14:40:34Z"
+ "updated_at": "2026-10-02T14:40:45Z"
 }
