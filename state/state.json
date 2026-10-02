@@ -2067,7 +2067,7 @@
   },
   "2dbe86bdfea44d23": {
    "date": "2025-05-19",
-   "status": "rendered",
+   "status": "done",
    "attempts": 2,
    "last_try": "2026-10-02T11:33:36Z",
    "slug": "/podcasts/huberman-lab/the-science-art-of-comedy-creativity-tom-segura",
@@ -2079,7 +2079,10 @@
    "cjk": 37011,
    "chunks": 25,
    "failed_chunks": 1,
-   "title_zh": "喜剧与创意科学艺术 Tom Segura"
+   "title_zh": "喜剧与创意科学艺术 Tom Segura",
+   "doc_id": "dWWEPCCxgaWb",
+   "doc_url": "https://docs.qq.com/doc/DZFdXRVBDQ3hnYVdi",
+   "done_at": "2026-10-02T11:54:30Z"
   },
   "b6d2b5e9ce38b7df": {
    "date": "2025-05-15",
@@ -2254,5 +2257,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T11:54:20Z"
+ "updated_at": "2026-10-02T11:54:30Z"
 }
