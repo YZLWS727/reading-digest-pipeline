@@ -1661,14 +1661,19 @@
   },
   "4c55760e6e8e6863": {
    "date": "2025-08-11",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 3,
    "last_try": "2026-10-02T10:34:13Z",
    "slug": "/podcasts/huberman-lab/how-to-rewire-your-brain-learn-faster-dr-michael-kilgard",
    "match_score": 1.0,
    "words": 39098,
    "last_error": "error: all models failed: Qwen/Qwen2.5-7B-Instruct qa:refusal",
-   "last_error_at": "2026-10-01T11:39:41Z"
+   "last_error_at": "2026-10-01T11:39:41Z",
+   "chars": 74521,
+   "cjk": 57688,
+   "chunks": 37,
+   "failed_chunks": 1,
+   "title_zh": "重塑大脑速成 Dr. Michael Kilgard"
   },
   "4cb1f4969c0c54a2": {
    "date": "2025-08-07",
@@ -2228,5 +2233,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T10:34:13Z"
+ "updated_at": "2026-10-02T10:59:21Z"
 }
