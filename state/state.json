@@ -2246,7 +2246,7 @@
   },
   "d4bb570f0fd1e8bd": {
    "date": "2025-04-14",
-   "status": "rendered",
+   "status": "done",
    "attempts": 2,
    "last_try": "2026-10-02T11:54:32Z",
    "slug": "/podcasts/huberman-lab/how-to-improve-your-vitality-heal-from-disease-dr-mark-hyman",
@@ -2258,9 +2258,12 @@
    "cjk": 47902,
    "chunks": 32,
    "failed_chunks": 0,
-   "title_zh": "提升活力与疗愈疾病 Dr. Mark Hyman"
+   "title_zh": "提升活力与疗愈疾病 Dr. Mark Hyman",
+   "doc_id": "dKwdtkPfWqyt",
+   "doc_url": "https://docs.qq.com/doc/DZEt3ZHRrUGZXcXl0",
+   "done_at": "2026-10-02T12:09:12Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T12:09:01Z"
+ "updated_at": "2026-10-02T12:09:12Z"
 }
