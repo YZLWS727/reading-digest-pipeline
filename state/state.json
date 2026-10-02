@@ -555,10 +555,10 @@
   "a86d585c360715fd": {
    "date": "2026-05-11",
    "status": "pending",
-   "attempts": 4,
-   "last_try": "2026-10-01T11:07:58Z",
+   "attempts": 5,
+   "last_try": "2026-10-02T10:15:35Z",
    "last_error": "no_transcript: no transcript match (best=0.40)",
-   "last_error_at": "2026-10-01T11:07:58Z"
+   "last_error_at": "2026-10-02T10:15:35Z"
   },
   "190e01da1fc6d56f": {
    "date": "2026-05-07",
@@ -2220,5 +2220,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T10:15:34Z"
+ "updated_at": "2026-10-02T10:15:35Z"
 }
