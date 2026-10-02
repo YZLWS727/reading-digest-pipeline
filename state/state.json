@@ -2511,7 +2511,7 @@
   },
   "62bc32cbd0803b5b": {
    "date": "2025-02-17",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-02T14:01:24Z",
    "slug": "/podcasts/huberman-lab/how-to-make-better-decisions-dr-michael-platt",
@@ -2525,5 +2525,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T14:13:18Z"
+ "updated_at": "2026-10-02T14:13:19Z"
 }
