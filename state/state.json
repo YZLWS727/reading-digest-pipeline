@@ -2307,14 +2307,19 @@
   },
   "ee71a4b14cd65b9f": {
    "date": "2025-03-31",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-02T12:27:21Z",
    "slug": "/podcasts/huberman-lab/transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer",
    "match_score": 1.0,
-   "words": 27196
+   "words": 27196,
+   "chars": 51358,
+   "cjk": 41027,
+   "chunks": 27,
+   "failed_chunks": 1,
+   "title_zh": "饮食与生活方式重塑心理健康 Dr. Chris Palmer"
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T12:27:21Z"
+ "updated_at": "2026-10-02T12:48:00Z"
 }
