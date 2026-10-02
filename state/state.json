@@ -2270,8 +2270,17 @@
    "last_try": "2026-10-02T12:09:13Z",
    "last_error": "no_transcript: no transcript match (best=0.57)",
    "last_error_at": "2026-10-02T12:09:13Z"
+  },
+  "1bb5f5534cb74ea9": {
+   "date": "2025-04-07",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-02T12:09:14Z",
+   "slug": "/podcasts/huberman-lab/how-to-find-be-a-great-romantic-partner-lori-gottlieb",
+   "match_score": 1.0,
+   "words": 38372
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T12:09:13Z"
+ "updated_at": "2026-10-02T12:09:15Z"
 }
