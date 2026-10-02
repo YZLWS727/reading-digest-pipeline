@@ -2528,14 +2528,19 @@
   },
   "5a719d13e5845b63": {
    "date": "2025-02-13",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-02T14:13:32Z",
    "slug": "/podcasts/huberman-lab/essentials-how-hormones-shape-sexual-development",
    "match_score": 1.0,
-   "words": 7155
+   "words": 7155,
+   "chars": 13420,
+   "cjk": 9916,
+   "chunks": 8,
+   "failed_chunks": 0,
+   "title_zh": "精华版：激素如何塑造性发育"
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T14:13:32Z"
+ "updated_at": "2026-10-02T14:15:24Z"
 }
