@@ -1840,7 +1840,7 @@
   },
   "a0f514ed0c6ab0a4": {
    "date": "2025-07-07",
-   "status": "rendered",
+   "status": "done",
    "attempts": 2,
    "last_try": "2026-10-02T10:59:34Z",
    "slug": "/podcasts/huberman-lab/how-to-lose-fat-gain-muscle-with-nutrition-alan-aragon",
@@ -1852,7 +1852,10 @@
    "cjk": 34914,
    "chunks": 24,
    "failed_chunks": 1,
-   "title_zh": "如何减脂增肌：营养 | Alan Aragon"
+   "title_zh": "如何减脂增肌：营养 | Alan Aragon",
+   "doc_id": "dVzVjIECowMi",
+   "doc_url": "https://docs.qq.com/doc/DZFZ6VmpJRUNvd01p",
+   "done_at": "2026-10-02T11:16:57Z"
   },
   "492720e7c074aa96": {
    "date": "2025-07-03",
@@ -2241,5 +2244,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T11:16:46Z"
+ "updated_at": "2026-10-02T11:16:57Z"
 }
