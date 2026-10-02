@@ -2491,8 +2491,17 @@
    "doc_id": "dbKaqpWDZbqF",
    "doc_url": "https://docs.qq.com/doc/DZGJLYXFwV0RaYnFG",
    "done_at": "2026-10-02T13:58:13Z"
+  },
+  "2d424db3f568bac5": {
+   "date": "2025-02-20",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-02T13:58:14Z",
+   "slug": "/podcasts/huberman-lab/essentials-how-to-optimize-testosterone-estrogen",
+   "match_score": 1.0,
+   "words": 6389
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T13:58:13Z"
+ "updated_at": "2026-10-02T13:58:14Z"
 }
