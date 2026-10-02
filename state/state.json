@@ -2460,14 +2460,19 @@
   },
   "77a7ab0568c7e45e": {
    "date": "2025-02-27",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-02T13:39:28Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-control-hunger-eating-satiety",
    "match_score": 1.0,
-   "words": 7056
+   "words": 7056,
+   "chars": 12450,
+   "cjk": 9875,
+   "chunks": 7,
+   "failed_chunks": 0,
+   "title_zh": "精华版：如何控制饥饿、饮食与饱腹感"
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T13:39:28Z"
+ "updated_at": "2026-10-02T13:41:32Z"
 }
