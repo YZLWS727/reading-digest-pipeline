@@ -2246,7 +2246,7 @@
   },
   "d4bb570f0fd1e8bd": {
    "date": "2025-04-14",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 2,
    "last_try": "2026-10-02T11:54:32Z",
    "slug": "/podcasts/huberman-lab/how-to-improve-your-vitality-heal-from-disease-dr-mark-hyman",
@@ -2262,5 +2262,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T12:08:59Z"
+ "updated_at": "2026-10-02T12:09:01Z"
 }
