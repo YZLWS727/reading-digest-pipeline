@@ -2273,7 +2273,7 @@
   },
   "1bb5f5534cb74ea9": {
    "date": "2025-04-07",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-02T12:09:14Z",
    "slug": "/podcasts/huberman-lab/how-to-find-be-a-great-romantic-partner-lori-gottlieb",
@@ -2283,9 +2283,12 @@
    "cjk": 53178,
    "chunks": 36,
    "failed_chunks": 0,
-   "title_zh": "如何找到与成为理想伴侣 | Lori Gottlieb"
+   "title_zh": "如何找到与成为理想伴侣 | Lori Gottlieb",
+   "doc_id": "dXjEaaUnptxq",
+   "doc_url": "https://docs.qq.com/doc/DZFhqRWFhVW5wdHhx",
+   "done_at": "2026-10-02T12:24:41Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T12:24:30Z"
+ "updated_at": "2026-10-02T12:24:41Z"
 }
