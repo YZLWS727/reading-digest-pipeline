@@ -2409,7 +2409,7 @@
   },
   "4a1f6ac6c341aa8c": {
    "date": "2025-03-10",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-02T13:20:25Z",
    "slug": "/podcasts/huberman-lab/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse",
@@ -2423,5 +2423,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-02T13:27:58Z"
+ "updated_at": "2026-10-02T13:27:59Z"
 }
