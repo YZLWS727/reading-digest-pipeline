@@ -3360,7 +3360,7 @@
   },
   "06bed8c4020ce65f": {
    "date": "2024-01-01",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T14:14:56Z",
    "slug": "/podcasts/huberman-lab/david-goggins-how-to-build-immense-inner-strength",
@@ -3370,9 +3370,12 @@
    "cjk": 40002,
    "chunks": 26,
    "failed_chunks": 0,
-   "title_zh": "如何打造强大内心 | David Goggins"
+   "title_zh": "如何打造强大内心 | David Goggins",
+   "doc_id": "dbRwbwaVnQDQ",
+   "doc_url": "https://docs.qq.com/doc/DZGJSd2J3YVZuUURR",
+   "done_at": "2026-10-03T14:33:03Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T14:32:49Z"
+ "updated_at": "2026-10-03T14:33:03Z"
 }
