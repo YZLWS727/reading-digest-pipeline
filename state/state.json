@@ -2674,14 +2674,19 @@
   },
   "089fc1bc4763ede0": {
    "date": "2025-01-16",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T08:36:45Z",
    "slug": "/podcasts/huberman-lab/essentials-tools-for-managing-stress-anxiety",
    "match_score": 1.0,
-   "words": 6679
+   "words": 6679,
+   "chars": 11423,
+   "cjk": 9426,
+   "chunks": 7,
+   "failed_chunks": 0,
+   "title_zh": "精华版：管理压力与焦虑工具"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T08:36:45Z"
+ "updated_at": "2026-10-03T08:38:52Z"
 }
