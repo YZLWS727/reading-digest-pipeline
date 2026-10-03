@@ -2705,8 +2705,17 @@
    "doc_id": "dJEzLcHesPSc",
    "doc_url": "https://docs.qq.com/doc/DZEpFekxjSGVzUFNj",
    "done_at": "2026-10-03T09:06:12Z"
+  },
+  "dc228489443dac5d": {
+   "date": "2025-01-09",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T09:06:13Z",
+   "slug": "/podcasts/huberman-lab/essentials-control-pain-heal-faster-with-your-brain",
+   "match_score": 1.0,
+   "words": 7008
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:06:12Z"
+ "updated_at": "2026-10-03T09:06:13Z"
 }
