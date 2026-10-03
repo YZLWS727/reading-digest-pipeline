@@ -3207,7 +3207,7 @@
   },
   "9280a7e6111f87e3": {
    "date": "2021-12-13",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T13:13:41Z",
    "slug": "/podcasts/huberman-lab/understanding-your-brains-logic-function-dr-david-berson",
@@ -3221,5 +3221,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T13:22:03Z"
+ "updated_at": "2026-10-03T13:22:04Z"
 }
