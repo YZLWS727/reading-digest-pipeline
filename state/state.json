@@ -2844,14 +2844,19 @@
   },
   "f94bee44e9a53c13": {
    "date": "2024-03-18",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T10:16:44Z",
    "slug": "/podcasts/huberman-lab/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-ej-chichilnisky",
    "match_score": 1.0,
-   "words": 20386
+   "words": 20386,
+   "chars": 34611,
+   "cjk": 28798,
+   "chunks": 20,
+   "failed_chunks": 0,
+   "title_zh": "大脑工作原理与职业规划 | Dr. E.J. Chichilnisky"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T10:16:45Z"
+ "updated_at": "2026-10-03T10:22:57Z"
 }
