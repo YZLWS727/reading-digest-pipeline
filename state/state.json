@@ -3241,14 +3241,19 @@
   },
   "3263c340bc130041": {
    "date": "2021-09-13",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T13:26:13Z",
    "slug": "/podcasts/huberman-lab/adhd-how-anyone-can-improve-their-focus",
    "match_score": 1.0,
-   "words": 23363
+   "words": 23363,
+   "chars": 42075,
+   "cjk": 33242,
+   "chunks": 23,
+   "failed_chunks": 0,
+   "title_zh": "ADHD 注意力提升"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T13:26:13Z"
+ "updated_at": "2026-10-03T13:32:23Z"
 }
