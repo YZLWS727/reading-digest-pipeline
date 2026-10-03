@@ -2963,14 +2963,19 @@
   },
   "fd8f3b99c44b8c0b": {
    "date": "2023-07-10",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T11:18:05Z",
    "slug": "/podcasts/huberman-lab/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka",
    "match_score": 0.67,
-   "words": 24462
+   "words": 24462,
+   "chars": 44098,
+   "cjk": 35407,
+   "chunks": 24,
+   "failed_chunks": 0,
+   "title_zh": "大脑奖赏回路如何影响你的选择 | Dr. Robert Malenka"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:18:06Z"
+ "updated_at": "2026-10-03T11:30:42Z"
 }
