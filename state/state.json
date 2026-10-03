@@ -2573,7 +2573,7 @@
   },
   "2349d9997d2530c6": {
    "date": "2025-02-06",
-   "status": "rendered",
+   "status": "done",
    "attempts": 2,
    "last_try": "2026-10-03T12:35:51Z",
    "slug": "/podcasts/huberman-lab/essentials-the-science-of-emotions-relationships",
@@ -2585,7 +2585,10 @@
    "failed_chunks": 0,
    "title_zh": "精华版：情绪与关系的科学",
    "last_error": "error: HTTPSConnectionPool(host='docs-import-export-1251316161.cos.ap-guangzhou.myqcloud.com', port=443): Read timed out. (read timeout=300)",
-   "last_error_at": "2026-10-03T07:46:37Z"
+   "last_error_at": "2026-10-03T07:46:37Z",
+   "doc_id": "dThZtiGFhxFR",
+   "doc_url": "https://docs.qq.com/doc/DZFRoWnRpR0ZoeEZS",
+   "done_at": "2026-10-03T12:38:43Z"
   },
   "7615ca44d5e4815a": {
    "date": "2025-02-03",
@@ -3093,5 +3096,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T12:38:33Z"
+ "updated_at": "2026-10-03T12:38:43Z"
 }
