@@ -467,10 +467,10 @@
   "80af0b51286c9ba3": {
    "date": "2026-06-08",
    "status": "pending",
-   "attempts": 5,
-   "last_try": "2026-10-02T10:15:31Z",
+   "attempts": 6,
+   "last_try": "2026-10-03T07:23:10Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
-   "last_error_at": "2026-10-02T10:15:31Z"
+   "last_error_at": "2026-10-03T07:23:10Z"
   },
   "008859b646811aae": {
    "date": "2026-06-04",
@@ -2570,5 +2570,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T07:23:08Z"
+ "updated_at": "2026-10-03T07:23:10Z"
 }
