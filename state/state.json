@@ -2606,7 +2606,7 @@
   },
   "f0ca88066332eaf5": {
    "date": "2025-01-30",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T07:57:48Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-increase-motivation-drive",
@@ -2616,9 +2616,12 @@
    "cjk": 10361,
    "chunks": 8,
    "failed_chunks": 0,
-   "title_zh": "精华版：如何提升动力与驱动力"
+   "title_zh": "精华版：如何提升动力与驱动力",
+   "doc_id": "dAsOtLiaYTta",
+   "doc_url": "https://docs.qq.com/doc/DZEFzT3RMaWFZVHRh",
+   "done_at": "2026-10-03T08:00:02Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T07:59:50Z"
+ "updated_at": "2026-10-03T08:00:02Z"
 }
