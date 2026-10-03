@@ -3059,14 +3059,19 @@
   },
   "a7f32f6f9c8d56a8": {
    "date": "2022-12-19",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T12:16:19Z",
    "slug": "/podcasts/huberman-lab/the-science-of-creativity-how-to-enhance-creative-innovation",
    "match_score": 1.0,
-   "words": 24625
+   "words": 24625,
+   "chars": 45541,
+   "cjk": 35776,
+   "chunks": 25,
+   "failed_chunks": 0,
+   "title_zh": "创造力科学"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T12:16:20Z"
+ "updated_at": "2026-10-03T12:25:31Z"
 }
