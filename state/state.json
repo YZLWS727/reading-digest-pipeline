@@ -2997,14 +2997,19 @@
   },
   "765761c38cfa71fd": {
    "date": "2023-05-29",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T11:39:21Z",
    "slug": "/podcasts/huberman-lab/adderall-stimulants-modafinil-for-adhd-short-long-term-effects",
    "match_score": 1.0,
-   "words": 21420
+   "words": 21420,
+   "chars": 40908,
+   "cjk": 30654,
+   "chunks": 22,
+   "failed_chunks": 0,
+   "title_zh": "阿迪尔、兴奋剂与莫达非尼对多动症：短期与长期影响"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:39:22Z"
+ "updated_at": "2026-10-03T11:49:00Z"
 }
