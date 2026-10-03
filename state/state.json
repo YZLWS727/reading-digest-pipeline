@@ -2708,14 +2708,19 @@
   },
   "dc228489443dac5d": {
    "date": "2025-01-09",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T09:06:13Z",
    "slug": "/podcasts/huberman-lab/essentials-control-pain-heal-faster-with-your-brain",
    "match_score": 1.0,
-   "words": 7008
+   "words": 7008,
+   "chars": 12582,
+   "cjk": 9808,
+   "chunks": 7,
+   "failed_chunks": 0,
+   "title_zh": "精华版：用大脑控制疼痛与加速愈合"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:06:13Z"
+ "updated_at": "2026-10-03T09:10:35Z"
 }
