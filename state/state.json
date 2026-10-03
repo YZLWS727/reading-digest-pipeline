@@ -2980,7 +2980,7 @@
   },
   "815787ff7c09cbc7": {
    "date": "2023-06-05",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T11:30:55Z",
    "slug": "/podcasts/huberman-lab/dr-immordino-yang-how-emotions-social-factors-impact-learning",
@@ -2990,9 +2990,12 @@
    "cjk": 39123,
    "chunks": 27,
    "failed_chunks": 0,
-   "title_zh": "情绪与社会因素如何影响学习 | Dr. Immordino-Yang"
+   "title_zh": "情绪与社会因素如何影响学习 | Dr. Immordino-Yang",
+   "doc_id": "detrJBgdPbHQ",
+   "doc_url": "https://docs.qq.com/doc/DZGV0ckpCZ2RQYkhR",
+   "done_at": "2026-10-03T11:39:20Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:39:09Z"
+ "updated_at": "2026-10-03T11:39:20Z"
 }
