@@ -2960,8 +2960,17 @@
    "doc_id": "dczwHZcHQLxi",
    "doc_url": "https://docs.qq.com/doc/DZGN6d0haY0hRTHhp",
    "done_at": "2026-10-03T11:18:04Z"
+  },
+  "fd8f3b99c44b8c0b": {
+   "date": "2023-07-10",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T11:18:05Z",
+   "slug": "/podcasts/huberman-lab/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka",
+   "match_score": 0.67,
+   "words": 24462
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:18:04Z"
+ "updated_at": "2026-10-03T11:18:06Z"
 }
