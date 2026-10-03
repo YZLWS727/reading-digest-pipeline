@@ -2739,8 +2739,17 @@
    "doc_id": "dkYTGrIZHtgb",
    "doc_url": "https://docs.qq.com/doc/DZGtZVEdySVpIdGdi",
    "done_at": "2026-10-03T09:17:32Z"
+  },
+  "22782b0f5bc44b3c": {
+   "date": "2025-01-02",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T09:17:33Z",
+   "slug": "/podcasts/huberman-lab/optimize-your-learning-creativity-with-science-based-tools",
+   "match_score": 1.0,
+   "words": 16071
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:17:32Z"
+ "updated_at": "2026-10-03T09:17:33Z"
 }
