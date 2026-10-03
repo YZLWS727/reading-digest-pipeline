@@ -3309,7 +3309,7 @@
   },
   "2c7f87129ed0040a": {
    "date": "2021-02-08",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T13:54:59Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-focus-to-change-your-brain",
@@ -3323,5 +3323,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T13:57:21Z"
+ "updated_at": "2026-10-03T13:57:22Z"
 }
