@@ -2657,7 +2657,7 @@
   },
   "7e4fb7f1b3edf76c": {
    "date": "2025-01-20",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T08:18:09Z",
    "slug": "/podcasts/huberman-lab/charting-the-architecture-of-the-universe-human-life-dr-brian-keating",
@@ -2667,9 +2667,12 @@
    "cjk": 52299,
    "chunks": 35,
    "failed_chunks": 0,
-   "title_zh": "绘制宇宙与人生建筑学 Dr. Brian Keating"
+   "title_zh": "绘制宇宙与人生建筑学 Dr. Brian Keating",
+   "doc_id": "dXgxpmssuErE",
+   "doc_url": "https://docs.qq.com/doc/DZFhneHBtc3N1RXJF",
+   "done_at": "2026-10-03T08:36:44Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T08:36:31Z"
+ "updated_at": "2026-10-03T08:36:44Z"
 }
