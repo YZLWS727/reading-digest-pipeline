@@ -2827,7 +2827,7 @@
   },
   "0d942df54aef770a": {
    "date": "2024-03-25",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T09:59:03Z",
    "slug": "/podcasts/huberman-lab/what-magic-mind-reading-reveal-about-the-brain-asi-wind",
@@ -2837,9 +2837,12 @@
    "cjk": 39304,
    "chunks": 26,
    "failed_chunks": 0,
-   "title_zh": "魔法与读心揭示的大脑 | Asi Wind"
+   "title_zh": "魔法与读心揭示的大脑 | Asi Wind",
+   "doc_id": "dcWTNKneqNGC",
+   "doc_url": "https://docs.qq.com/doc/DZGNXVE5LbmVxTkdD",
+   "done_at": "2026-10-03T10:16:43Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T10:16:34Z"
+ "updated_at": "2026-10-03T10:16:43Z"
 }
