@@ -2043,7 +2043,7 @@
   },
   "da71c1238a51ae90": {
    "date": "2025-05-26",
-   "status": "rendered",
+   "status": "done",
    "attempts": 3,
    "last_try": "2026-10-03T07:23:45Z",
    "slug": "/podcasts/huberman-lab/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo",
@@ -2055,7 +2055,10 @@
    "cjk": 30395,
    "chunks": 21,
    "failed_chunks": 1,
-   "title_zh": "改变基因提升健康表现的行为 | Dr. Melissa Ilardo"
+   "title_zh": "改变基因提升健康表现的行为 | Dr. Melissa Ilardo",
+   "doc_id": "dGQDMUQQgwpd",
+   "doc_url": "https://docs.qq.com/doc/DZEdRRE1VUVFnd3Bk",
+   "done_at": "2026-10-03T07:38:55Z"
   },
   "1bef964f6a1b1c42": {
    "date": "2025-05-22",
@@ -2570,5 +2573,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T07:38:46Z"
+ "updated_at": "2026-10-03T07:38:55Z"
 }
