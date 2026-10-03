@@ -2570,8 +2570,17 @@
    "doc_id": "dJIIOofECQuK",
    "doc_url": "https://docs.qq.com/doc/DZEpJSU9vZkVDUXVL",
    "done_at": "2026-10-02T14:40:45Z"
+  },
+  "2349d9997d2530c6": {
+   "date": "2025-02-06",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T07:38:57Z",
+   "slug": "/podcasts/huberman-lab/essentials-the-science-of-emotions-relationships",
+   "match_score": 1.0,
+   "words": 7516
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T07:38:55Z"
+ "updated_at": "2026-10-03T07:38:57Z"
 }
