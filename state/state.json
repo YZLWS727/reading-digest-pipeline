@@ -3340,8 +3340,17 @@
    "doc_id": "dUYMzWhZlRgb",
    "doc_url": "https://docs.qq.com/doc/DZFVZTXpXaFpsUmdi",
    "done_at": "2026-10-03T13:59:56Z"
+  },
+  "69e89389f4c319a4": {
+   "date": "2024-04-08",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T13:59:57Z",
+   "slug": "/podcasts/huberman-lab/overcoming-physical-emotional-challenges-coleman-ruiz",
+   "match_score": 1.0,
+   "words": 32863
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T13:59:56Z"
+ "updated_at": "2026-10-03T13:59:57Z"
 }
