@@ -3011,8 +3011,17 @@
    "doc_id": "dURyFsnbfqUP",
    "doc_url": "https://docs.qq.com/doc/DZFVSeUZzbmJmcVVQ",
    "done_at": "2026-10-03T11:49:11Z"
+  },
+  "341f433e367413f3": {
+   "date": "2023-04-24",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T11:49:12Z",
+   "slug": "/podcasts/huberman-lab/science-based-mental-training-visualization-for-improved-learning",
+   "match_score": 1.0,
+   "words": 22616
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:49:11Z"
+ "updated_at": "2026-10-03T11:49:13Z"
 }
