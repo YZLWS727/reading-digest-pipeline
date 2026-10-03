@@ -2742,7 +2742,7 @@
   },
   "22782b0f5bc44b3c": {
    "date": "2025-01-02",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T09:17:33Z",
    "slug": "/podcasts/huberman-lab/optimize-your-learning-creativity-with-science-based-tools",
@@ -2756,5 +2756,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:21:59Z"
+ "updated_at": "2026-10-03T09:22:00Z"
 }
