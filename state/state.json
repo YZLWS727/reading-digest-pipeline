@@ -2878,7 +2878,7 @@
   },
   "3f061fc1c806b74a": {
    "date": "2024-02-19",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T10:35:18Z",
    "slug": "/podcasts/huberman-lab/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito",
@@ -2888,9 +2888,12 @@
    "cjk": 36944,
    "chunks": 25,
    "failed_chunks": 0,
-   "title_zh": "优化认知与脑健康 Dr. Mark D'Esposito"
+   "title_zh": "优化认知与脑健康 Dr. Mark D'Esposito",
+   "doc_id": "dprcgHLblBvB",
+   "doc_url": "https://docs.qq.com/doc/DZHByY2dITGJsQnZC",
+   "done_at": "2026-10-03T10:47:49Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T10:47:40Z"
+ "updated_at": "2026-10-03T10:47:49Z"
 }
