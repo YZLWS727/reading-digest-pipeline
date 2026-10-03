@@ -3292,14 +3292,19 @@
   },
   "02548e6b93bee371": {
    "date": "2021-02-15",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T13:52:43Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-learn-faster-by-using-failures-movement-balance",
    "match_score": 1.0,
-   "words": 6756
+   "words": 6756,
+   "chars": 11816,
+   "cjk": 9436,
+   "chunks": 7,
+   "failed_chunks": 0,
+   "title_zh": "如何快速学习：利用失败、运动与平衡 Dr. Andy Galpin"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T13:52:43Z"
+ "updated_at": "2026-10-03T13:54:45Z"
 }
