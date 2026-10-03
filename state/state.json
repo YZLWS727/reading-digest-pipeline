@@ -2277,10 +2277,10 @@
   "27fdf2e665e5de35": {
    "date": "2025-04-10",
    "status": "pending",
-   "attempts": 1,
-   "last_try": "2026-10-02T12:09:13Z",
+   "attempts": 2,
+   "last_try": "2026-10-03T12:35:49Z",
    "last_error": "no_transcript: no transcript match (best=0.57)",
-   "last_error_at": "2026-10-02T12:09:13Z"
+   "last_error_at": "2026-10-03T12:35:49Z"
   },
   "1bb5f5534cb74ea9": {
    "date": "2025-04-07",
@@ -3093,5 +3093,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T12:35:07Z"
+ "updated_at": "2026-10-03T12:35:49Z"
 }
