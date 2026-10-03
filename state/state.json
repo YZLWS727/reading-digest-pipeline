@@ -2997,7 +2997,7 @@
   },
   "765761c38cfa71fd": {
    "date": "2023-05-29",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T11:39:21Z",
    "slug": "/podcasts/huberman-lab/adderall-stimulants-modafinil-for-adhd-short-long-term-effects",
@@ -3011,5 +3011,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:49:00Z"
+ "updated_at": "2026-10-03T11:49:01Z"
 }
