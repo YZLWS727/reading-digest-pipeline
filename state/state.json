@@ -2977,8 +2977,17 @@
    "doc_id": "dgtctYCxfvkV",
    "doc_url": "https://docs.qq.com/doc/DZGd0Y3RZQ3hmdmtW",
    "done_at": "2026-10-03T11:30:54Z"
+  },
+  "815787ff7c09cbc7": {
+   "date": "2023-06-05",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T11:30:55Z",
+   "slug": "/podcasts/huberman-lab/dr-immordino-yang-how-emotions-social-factors-impact-learning",
+   "match_score": 1.0,
+   "words": 27575
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:30:54Z"
+ "updated_at": "2026-10-03T11:30:55Z"
 }
