@@ -2573,14 +2573,19 @@
   },
   "2349d9997d2530c6": {
    "date": "2025-02-06",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T07:38:57Z",
    "slug": "/podcasts/huberman-lab/essentials-the-science-of-emotions-relationships",
    "match_score": 1.0,
-   "words": 7516
+   "words": 7516,
+   "chars": 13053,
+   "cjk": 10389,
+   "chunks": 8,
+   "failed_chunks": 0,
+   "title_zh": "精华版：情绪与关系的科学"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T07:38:57Z"
+ "updated_at": "2026-10-03T07:41:32Z"
 }
