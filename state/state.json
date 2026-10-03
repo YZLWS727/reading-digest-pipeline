@@ -3076,7 +3076,7 @@
   },
   "90d53fb5d9abd691": {
    "date": "2022-10-24",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T12:25:44Z",
    "slug": "/podcasts/huberman-lab/dr-eddie-chang-the-science-of-learning-speaking-languages",
@@ -3090,5 +3090,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T12:34:54Z"
+ "updated_at": "2026-10-03T12:34:55Z"
 }
