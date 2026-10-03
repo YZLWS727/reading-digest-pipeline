@@ -3073,8 +3073,17 @@
    "doc_id": "drwhfAAsnxgO",
    "doc_url": "https://docs.qq.com/doc/DZHJ3aGZBQXNueGdP",
    "done_at": "2026-10-03T12:25:42Z"
+  },
+  "90d53fb5d9abd691": {
+   "date": "2022-10-24",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T12:25:44Z",
+   "slug": "/podcasts/huberman-lab/dr-eddie-chang-the-science-of-learning-speaking-languages",
+   "match_score": 1.0,
+   "words": 24795
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T12:25:42Z"
+ "updated_at": "2026-10-03T12:25:45Z"
 }
