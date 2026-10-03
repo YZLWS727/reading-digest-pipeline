@@ -2573,9 +2573,9 @@
   },
   "2349d9997d2530c6": {
    "date": "2025-02-06",
-   "status": "rendered",
-   "attempts": 1,
-   "last_try": "2026-10-03T07:38:57Z",
+   "status": "fetched",
+   "attempts": 2,
+   "last_try": "2026-10-03T12:35:51Z",
    "slug": "/podcasts/huberman-lab/essentials-the-science-of-emotions-relationships",
    "match_score": 1.0,
    "words": 7516,
@@ -3093,5 +3093,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T12:35:49Z"
+ "updated_at": "2026-10-03T12:35:51Z"
 }
