@@ -2589,7 +2589,7 @@
   },
   "7615ca44d5e4815a": {
    "date": "2025-02-03",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T07:46:38Z",
    "slug": "/podcasts/huberman-lab/using-your-mind-to-control-your-physical-health-longevity-dr-ellen-langer",
@@ -2603,5 +2603,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T07:57:33Z"
+ "updated_at": "2026-10-03T07:57:34Z"
 }
