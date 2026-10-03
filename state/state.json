@@ -2776,7 +2776,7 @@
   },
   "ecab8b641ec6c4a9": {
    "date": "2024-09-30",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T09:34:05Z",
    "slug": "/podcasts/huberman-lab/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath",
@@ -2786,9 +2786,12 @@
    "cjk": 42244,
    "chunks": 28,
    "failed_chunks": 0,
-   "title_zh": "科学提升记忆专注 | Dr. Charan Ranganath"
+   "title_zh": "科学提升记忆专注 | Dr. Charan Ranganath",
+   "doc_id": "dgoEcGHhcZbj",
+   "doc_url": "https://docs.qq.com/doc/DZGdvRWNHSGhjWmJq",
+   "done_at": "2026-10-03T09:44:58Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:44:48Z"
+ "updated_at": "2026-10-03T09:44:58Z"
 }
