@@ -3241,7 +3241,7 @@
   },
   "3263c340bc130041": {
    "date": "2021-09-13",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T13:26:13Z",
    "slug": "/podcasts/huberman-lab/adhd-how-anyone-can-improve-their-focus",
@@ -3255,5 +3255,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T13:32:23Z"
+ "updated_at": "2026-10-03T13:32:24Z"
 }
