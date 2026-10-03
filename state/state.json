@@ -2759,7 +2759,7 @@
   },
   "d2554e3977c5737d": {
    "date": "2024-11-18",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T09:22:12Z",
    "slug": "/podcasts/huberman-lab/dr-terry-sejnowski-how-to-improve-at-learning-using-neuroscience-ai",
@@ -2769,9 +2769,12 @@
    "cjk": 37068,
    "chunks": 25,
    "failed_chunks": 0,
-   "title_zh": "神经科学与AI助你提升学习"
+   "title_zh": "神经科学与AI助你提升学习",
+   "doc_id": "djhojDHRsQhb",
+   "doc_url": "https://docs.qq.com/doc/DZGpob2pESFJzUWhi",
+   "done_at": "2026-10-03T09:34:04Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:33:53Z"
+ "updated_at": "2026-10-03T09:34:04Z"
 }
