@@ -2691,7 +2691,7 @@
   },
   "d62e072b75adff32": {
    "date": "2025-01-13",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T08:39:05Z",
    "slug": "/podcasts/huberman-lab/dr-becky-kennedy-overcoming-guilt-building-tenacity-in-kids-adults",
@@ -2701,9 +2701,12 @@
    "cjk": 60832,
    "chunks": 40,
    "failed_chunks": 1,
-   "title_zh": "克服内疚 培养韧性 | Dr. Becky Kennedy"
+   "title_zh": "克服内疚 培养韧性 | Dr. Becky Kennedy",
+   "doc_id": "dJEzLcHesPSc",
+   "doc_url": "https://docs.qq.com/doc/DZEpFekxjSGVzUFNj",
+   "done_at": "2026-10-03T09:06:12Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:05:57Z"
+ "updated_at": "2026-10-03T09:06:12Z"
 }
