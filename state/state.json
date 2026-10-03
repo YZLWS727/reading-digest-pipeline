@@ -2980,7 +2980,7 @@
   },
   "815787ff7c09cbc7": {
    "date": "2023-06-05",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T11:30:55Z",
    "slug": "/podcasts/huberman-lab/dr-immordino-yang-how-emotions-social-factors-impact-learning",
@@ -2994,5 +2994,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:39:07Z"
+ "updated_at": "2026-10-03T11:39:09Z"
 }
