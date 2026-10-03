@@ -3135,8 +3135,17 @@
    "doc_id": "dhoGFLNtrfMy",
    "doc_url": "https://docs.qq.com/doc/DZGhvR0ZMTnRyZk15",
    "done_at": "2026-10-03T12:56:38Z"
+  },
+  "262c69b91077ff3c": {
+   "date": "2022-08-29",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T12:56:40Z",
+   "slug": "/podcasts/huberman-lab/dr-erich-jarvis-the-neuroscience-of-speech-language-music",
+   "match_score": 1.0,
+   "words": 18286
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T12:56:38Z"
+ "updated_at": "2026-10-03T12:56:40Z"
 }
