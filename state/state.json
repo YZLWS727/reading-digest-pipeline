@@ -2793,7 +2793,7 @@
   },
   "e933b2c9b553a611": {
    "date": "2024-08-26",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T09:44:59Z",
    "slug": "/podcasts/huberman-lab/optimal-protocols-for-studying-learning",
@@ -2803,9 +2803,12 @@
    "cjk": 26599,
    "chunks": 19,
    "failed_chunks": 0,
-   "title_zh": "学习研究最佳方案"
+   "title_zh": "学习研究最佳方案",
+   "doc_id": "dkFwBfQulWNA",
+   "doc_url": "https://docs.qq.com/doc/DZGtGd0JmUXVsV05B",
+   "done_at": "2026-10-03T09:50:45Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:50:34Z"
+ "updated_at": "2026-10-03T09:50:45Z"
 }
