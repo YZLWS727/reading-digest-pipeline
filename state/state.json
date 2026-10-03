@@ -3224,7 +3224,7 @@
   },
   "4497ec43d000bd82": {
    "date": "2021-11-15",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T13:22:16Z",
    "slug": "/podcasts/huberman-lab/time-perception-entrainment-by-dopamine-serotonin-hormones",
@@ -3234,9 +3234,12 @@
    "cjk": 18473,
    "chunks": 13,
    "failed_chunks": 0,
-   "title_zh": "多巴胺血清素激素的时间感知与 entrainment"
+   "title_zh": "多巴胺血清素激素的时间感知与 entrainment",
+   "doc_id": "dWNNLKtmDgRv",
+   "doc_url": "https://docs.qq.com/doc/DZFdOTkxLdG1EZ1J2",
+   "done_at": "2026-10-03T13:26:12Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T13:26:02Z"
+ "updated_at": "2026-10-03T13:26:12Z"
 }
