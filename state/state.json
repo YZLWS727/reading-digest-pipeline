@@ -3034,7 +3034,7 @@
   },
   "dae3c7f9189c0305": {
    "date": "2023-02-27",
-   "status": "rendered",
+   "status": "done",
    "attempts": 2,
    "last_try": "2026-10-03T12:38:44Z",
    "slug": "/podcasts/huberman-lab/dr-oded-rechavi-genes-the-inheritance-of-memories-across-generations",
@@ -3046,7 +3046,10 @@
    "cjk": 35734,
    "chunks": 26,
    "failed_chunks": 0,
-   "title_zh": "基因与跨代记忆遗传 | Dr. Oded Rechavi"
+   "title_zh": "基因与跨代记忆遗传 | Dr. Oded Rechavi",
+   "doc_id": "dBGUTTjwlCfJ",
+   "doc_url": "https://docs.qq.com/doc/DZEJHVVRUandsQ2ZK",
+   "done_at": "2026-10-03T12:49:58Z"
   },
   "3ea3bea1ae2c3ba4": {
    "date": "2023-01-16",
@@ -3101,5 +3104,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T12:49:42Z"
+ "updated_at": "2026-10-03T12:49:58Z"
 }
