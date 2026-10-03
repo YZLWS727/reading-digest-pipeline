@@ -3326,7 +3326,7 @@
   },
   "6075ab38f9d0910c": {
    "date": "2021-01-04",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T13:57:38Z",
    "slug": "/podcasts/huberman-lab/essentials-how-your-brain-works-changes",
@@ -3340,5 +3340,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T13:59:45Z"
+ "updated_at": "2026-10-03T13:59:46Z"
 }
