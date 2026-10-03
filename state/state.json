@@ -2929,7 +2929,7 @@
   },
   "cdcf405fa2cb77bd": {
    "date": "2023-09-18",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T11:02:33Z",
    "slug": "/podcasts/huberman-lab/how-to-use-music-to-boost-motivation-mood-improve-learning",
@@ -2943,5 +2943,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:10:51Z"
+ "updated_at": "2026-10-03T11:10:52Z"
 }
