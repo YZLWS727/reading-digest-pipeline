@@ -2929,14 +2929,19 @@
   },
   "cdcf405fa2cb77bd": {
    "date": "2023-09-18",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T11:02:33Z",
    "slug": "/podcasts/huberman-lab/how-to-use-music-to-boost-motivation-mood-improve-learning",
    "match_score": 1.0,
-   "words": 19854
+   "words": 19854,
+   "chars": 34025,
+   "cjk": 27271,
+   "chunks": 20,
+   "failed_chunks": 0,
+   "title_zh": "如何用音乐提升动力情绪改善学习"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:02:34Z"
+ "updated_at": "2026-10-03T11:10:51Z"
 }
