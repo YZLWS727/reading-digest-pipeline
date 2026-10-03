@@ -3121,7 +3121,7 @@
   },
   "7ee9f6f238496a73": {
    "date": "2022-09-05",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T12:54:37Z",
    "slug": "/podcasts/huberman-lab/essentials-tools-to-improve-your-focus-concentration",
@@ -3131,9 +3131,12 @@
    "cjk": 11012,
    "chunks": 8,
    "failed_chunks": 0,
-   "title_zh": "专注工具箱：提升专注力"
+   "title_zh": "专注工具箱：提升专注力",
+   "doc_id": "dhoGFLNtrfMy",
+   "doc_url": "https://docs.qq.com/doc/DZGhvR0ZMTnRyZk15",
+   "done_at": "2026-10-03T12:56:38Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T12:56:27Z"
+ "updated_at": "2026-10-03T12:56:38Z"
 }
