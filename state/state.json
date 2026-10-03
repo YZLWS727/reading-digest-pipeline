@@ -2790,8 +2790,17 @@
    "doc_id": "dgoEcGHhcZbj",
    "doc_url": "https://docs.qq.com/doc/DZGdvRWNHSGhjWmJq",
    "done_at": "2026-10-03T09:44:58Z"
+  },
+  "e933b2c9b553a611": {
+   "date": "2024-08-26",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T09:44:59Z",
+   "slug": "/podcasts/huberman-lab/optimal-protocols-for-studying-learning",
+   "match_score": 1.0,
+   "words": 18996
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:44:58Z"
+ "updated_at": "2026-10-03T09:45:00Z"
 }
