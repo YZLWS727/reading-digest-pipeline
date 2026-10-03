@@ -3272,8 +3272,17 @@
    "doc_id": "dAOPMQIpFmCd",
    "doc_url": "https://docs.qq.com/doc/DZEFPUE1RSXBGbUNk",
    "done_at": "2026-10-03T13:41:13Z"
+  },
+  "7c72aaf138ddcdbf": {
+   "date": "2021-02-22",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T13:41:14Z",
+   "slug": "/podcasts/huberman-lab/jeff-cavaliere-optimize-your-exercise-program-with-science-based-tools",
+   "match_score": 0.67,
+   "words": 32612
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T13:41:13Z"
+ "updated_at": "2026-10-03T13:41:15Z"
 }
