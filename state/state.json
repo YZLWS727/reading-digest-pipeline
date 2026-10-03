@@ -3042,7 +3042,7 @@
   },
   "3ea3bea1ae2c3ba4": {
    "date": "2023-01-16",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T12:05:43Z",
    "slug": "/podcasts/huberman-lab/rick-rubin-how-to-access-your-creativity",
@@ -3056,5 +3056,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T12:16:07Z"
+ "updated_at": "2026-10-03T12:16:08Z"
 }
