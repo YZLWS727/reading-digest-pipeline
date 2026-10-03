@@ -2742,7 +2742,7 @@
   },
   "22782b0f5bc44b3c": {
    "date": "2025-01-02",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T09:17:33Z",
    "slug": "/podcasts/huberman-lab/optimize-your-learning-creativity-with-science-based-tools",
@@ -2752,9 +2752,12 @@
    "cjk": 22714,
    "chunks": 16,
    "failed_chunks": 0,
-   "title_zh": "精华版：科学工具优化学习创造力"
+   "title_zh": "精华版：科学工具优化学习创造力",
+   "doc_id": "dLmcjhrxDhTn",
+   "doc_url": "https://docs.qq.com/doc/DZExtY2pocnhEaFRu",
+   "done_at": "2026-10-03T09:22:11Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:22:00Z"
+ "updated_at": "2026-10-03T09:22:11Z"
 }
