@@ -3014,7 +3014,7 @@
   },
   "341f433e367413f3": {
    "date": "2023-04-24",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T11:49:12Z",
    "slug": "/podcasts/huberman-lab/science-based-mental-training-visualization-for-improved-learning",
@@ -3028,5 +3028,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:55:56Z"
+ "updated_at": "2026-10-03T11:55:57Z"
 }
