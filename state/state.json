@@ -2793,7 +2793,7 @@
   },
   "e933b2c9b553a611": {
    "date": "2024-08-26",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T09:44:59Z",
    "slug": "/podcasts/huberman-lab/optimal-protocols-for-studying-learning",
@@ -2807,5 +2807,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:50:33Z"
+ "updated_at": "2026-10-03T09:50:34Z"
 }
