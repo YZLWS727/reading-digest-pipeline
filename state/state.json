@@ -2926,8 +2926,17 @@
    "doc_id": "dzsxxRdGdbLo",
    "doc_url": "https://docs.qq.com/doc/DZHpzeHhSZEdkYkxv",
    "done_at": "2026-10-03T11:02:32Z"
+  },
+  "cdcf405fa2cb77bd": {
+   "date": "2023-09-18",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T11:02:33Z",
+   "slug": "/podcasts/huberman-lab/how-to-use-music-to-boost-motivation-mood-improve-learning",
+   "match_score": 1.0,
+   "words": 19854
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:02:32Z"
+ "updated_at": "2026-10-03T11:02:34Z"
 }
