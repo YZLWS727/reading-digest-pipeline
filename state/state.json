@@ -2946,14 +2946,19 @@
   },
   "88689c85c10292b9": {
    "date": "2023-07-17",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T11:11:03Z",
    "slug": "/podcasts/huberman-lab/how-to-enhance-performance-learning-by-applying-a-growth-mindset",
    "match_score": 1.0,
-   "words": 19409
+   "words": 19409,
+   "chars": 33354,
+   "cjk": 27566,
+   "chunks": 19,
+   "failed_chunks": 0,
+   "title_zh": "应用成长型思维提升表现与学习"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:11:04Z"
+ "updated_at": "2026-10-03T11:17:52Z"
 }
