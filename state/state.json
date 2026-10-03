@@ -2708,7 +2708,7 @@
   },
   "dc228489443dac5d": {
    "date": "2025-01-09",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T09:06:13Z",
    "slug": "/podcasts/huberman-lab/essentials-control-pain-heal-faster-with-your-brain",
@@ -2722,5 +2722,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:10:35Z"
+ "updated_at": "2026-10-03T09:10:36Z"
 }
