@@ -3258,14 +3258,19 @@
   },
   "2628f31cea67a116": {
    "date": "2021-05-17",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T13:32:37Z",
    "slug": "/podcasts/huberman-lab/how-to-learn-skills-faster",
    "match_score": 1.0,
-   "words": 19184
+   "words": 19184,
+   "chars": 33350,
+   "cjk": 26223,
+   "chunks": 19,
+   "failed_chunks": 0,
+   "title_zh": "快速掌握技能"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T13:32:37Z"
+ "updated_at": "2026-10-03T13:41:01Z"
 }
