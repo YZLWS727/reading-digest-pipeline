@@ -2776,7 +2776,7 @@
   },
   "ecab8b641ec6c4a9": {
    "date": "2024-09-30",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T09:34:05Z",
    "slug": "/podcasts/huberman-lab/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath",
@@ -2790,5 +2790,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:44:47Z"
+ "updated_at": "2026-10-03T09:44:48Z"
 }
