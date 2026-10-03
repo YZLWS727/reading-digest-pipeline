@@ -3101,8 +3101,17 @@
    "doc_id": "dcGgRfIAnppT",
    "doc_url": "https://docs.qq.com/doc/DZGNHZ1JmSUFucHBU",
    "done_at": "2026-10-03T12:35:06Z"
+  },
+  "f776a10c74e38e4c": {
+   "date": "2022-09-12",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T12:50:00Z",
+   "slug": "/podcasts/huberman-lab/dr-david-anderson-the-biology-of-aggression-mating-arousal",
+   "match_score": 1.0,
+   "words": 17673
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T12:49:58Z"
+ "updated_at": "2026-10-03T12:50:00Z"
 }
