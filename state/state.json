@@ -3059,7 +3059,7 @@
   },
   "a7f32f6f9c8d56a8": {
    "date": "2022-12-19",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T12:16:19Z",
    "slug": "/podcasts/huberman-lab/the-science-of-creativity-how-to-enhance-creative-innovation",
@@ -3073,5 +3073,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T12:25:31Z"
+ "updated_at": "2026-10-03T12:25:33Z"
 }
