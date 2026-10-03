@@ -2827,7 +2827,7 @@
   },
   "0d942df54aef770a": {
    "date": "2024-03-25",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T09:59:03Z",
    "slug": "/podcasts/huberman-lab/what-magic-mind-reading-reveal-about-the-brain-asi-wind",
@@ -2841,5 +2841,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T10:16:32Z"
+ "updated_at": "2026-10-03T10:16:34Z"
 }
