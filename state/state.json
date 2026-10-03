@@ -2589,14 +2589,19 @@
   },
   "7615ca44d5e4815a": {
    "date": "2025-02-03",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T07:46:38Z",
    "slug": "/podcasts/huberman-lab/using-your-mind-to-control-your-physical-health-longevity-dr-ellen-langer",
    "match_score": 1.0,
-   "words": 34055
+   "words": 34055,
+   "chars": 56988,
+   "cjk": 47835,
+   "chunks": 32,
+   "failed_chunks": 0,
+   "title_zh": "用思维控制健康与寿命 | Dr. Ellen Langer"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T07:46:38Z"
+ "updated_at": "2026-10-03T07:57:33Z"
 }
