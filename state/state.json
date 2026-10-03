@@ -2909,8 +2909,17 @@
    "doc_id": "dzhaCPwXbrxH",
    "doc_url": "https://docs.qq.com/doc/DZHpoYUNQd1hicnhI",
    "done_at": "2026-10-03T10:54:20Z"
+  },
+  "fe774fcac2b99a1c": {
+   "date": "2023-12-25",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T10:54:21Z",
+   "slug": "/podcasts/huberman-lab/rick-rubin-protocols-to-access-creative-energy-and-process",
+   "match_score": 1.0,
+   "words": 24786
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T10:54:20Z"
+ "updated_at": "2026-10-03T10:54:21Z"
 }
