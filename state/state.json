@@ -2674,7 +2674,7 @@
   },
   "089fc1bc4763ede0": {
    "date": "2025-01-16",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T08:36:45Z",
    "slug": "/podcasts/huberman-lab/essentials-tools-for-managing-stress-anxiety",
@@ -2688,5 +2688,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T08:38:52Z"
+ "updated_at": "2026-10-03T08:38:53Z"
 }
