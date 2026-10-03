@@ -2688,8 +2688,17 @@
    "doc_id": "dEAsLJCTllmz",
    "doc_url": "https://docs.qq.com/doc/DZEVBc0xKQ1RsbG16",
    "done_at": "2026-10-03T08:39:03Z"
+  },
+  "d62e072b75adff32": {
+   "date": "2025-01-13",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T08:39:05Z",
+   "slug": "/podcasts/huberman-lab/dr-becky-kennedy-overcoming-guilt-building-tenacity-in-kids-adults",
+   "match_score": 1.0,
+   "words": 42744
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T08:39:03Z"
+ "updated_at": "2026-10-03T08:39:05Z"
 }
