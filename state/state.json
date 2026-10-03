@@ -2994,8 +2994,17 @@
    "doc_id": "detrJBgdPbHQ",
    "doc_url": "https://docs.qq.com/doc/DZGV0ckpCZ2RQYkhR",
    "done_at": "2026-10-03T11:39:20Z"
+  },
+  "765761c38cfa71fd": {
+   "date": "2023-05-29",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T11:39:21Z",
+   "slug": "/podcasts/huberman-lab/adderall-stimulants-modafinil-for-adhd-short-long-term-effects",
+   "match_score": 1.0,
+   "words": 21420
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:39:20Z"
+ "updated_at": "2026-10-03T11:39:22Z"
 }
