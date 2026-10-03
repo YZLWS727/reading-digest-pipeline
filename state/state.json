@@ -2912,7 +2912,7 @@
   },
   "fe774fcac2b99a1c": {
    "date": "2023-12-25",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T10:54:21Z",
    "slug": "/podcasts/huberman-lab/rick-rubin-protocols-to-access-creative-energy-and-process",
@@ -2926,5 +2926,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:02:20Z"
+ "updated_at": "2026-10-03T11:02:21Z"
 }
