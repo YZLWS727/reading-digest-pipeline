@@ -2623,14 +2623,19 @@
   },
   "5bb986f50fb0a887": {
    "date": "2025-01-27",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T08:00:04Z",
    "slug": "/podcasts/huberman-lab/josh-waitzkin-the-art-of-learning-living-life",
    "match_score": 1.0,
-   "words": 37798
+   "words": 37798,
+   "chars": 64161,
+   "cjk": 52845,
+   "chunks": 36,
+   "failed_chunks": 0,
+   "title_zh": "学习与生活的艺术 | Josh Waitzkin"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T08:00:04Z"
+ "updated_at": "2026-10-03T08:15:16Z"
 }
