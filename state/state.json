@@ -2912,14 +2912,19 @@
   },
   "fe774fcac2b99a1c": {
    "date": "2023-12-25",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T10:54:21Z",
    "slug": "/podcasts/huberman-lab/rick-rubin-protocols-to-access-creative-energy-and-process",
    "match_score": 1.0,
-   "words": 24786
+   "words": 24786,
+   "chars": 41321,
+   "cjk": 34139,
+   "chunks": 23,
+   "failed_chunks": 0,
+   "title_zh": "获取创意能量与方法 | Rick Rubin"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T10:54:21Z"
+ "updated_at": "2026-10-03T11:02:20Z"
 }
