@@ -3155,14 +3155,19 @@
   },
   "8c5caeb982ce3acf": {
    "date": "2022-07-11",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T13:01:24Z",
    "slug": "/podcasts/huberman-lab/optimize-control-your-brain-chemistry-to-improve-health-performance",
    "match_score": 1.0,
-   "words": 22929
+   "words": 22929,
+   "chars": 42168,
+   "cjk": 32711,
+   "chunks": 23,
+   "failed_chunks": 0,
+   "title_zh": "优化控制脑化学，提升健康表现"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T13:01:24Z"
+ "updated_at": "2026-10-03T13:08:31Z"
 }
