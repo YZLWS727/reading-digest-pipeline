@@ -2583,9 +2583,11 @@
    "cjk": 10389,
    "chunks": 8,
    "failed_chunks": 0,
-   "title_zh": "精华版：情绪与关系的科学"
+   "title_zh": "精华版：情绪与关系的科学",
+   "last_error": "error: HTTPSConnectionPool(host='docs-import-export-1251316161.cos.ap-guangzhou.myqcloud.com', port=443): Read timed out. (read timeout=300)",
+   "last_error_at": "2026-10-03T07:46:37Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T07:41:34Z"
+ "updated_at": "2026-10-03T07:46:37Z"
 }
