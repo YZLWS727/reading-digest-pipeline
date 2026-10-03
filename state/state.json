@@ -309,7 +309,7 @@
   },
   "37b25bd3360a8da6": {
    "date": "2026-07-20",
-   "status": "rendered",
+   "status": "done",
    "attempts": 6,
    "last_try": "2026-10-03T07:04:21Z",
    "slug": "/podcasts/huberman-lab/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood",
@@ -321,7 +321,10 @@
    "cjk": 41241,
    "chunks": 28,
    "failed_chunks": 0,
-   "title_zh": "加速学习 提升认知能力 Dr. Tommy Wood"
+   "title_zh": "加速学习 提升认知能力 Dr. Tommy Wood",
+   "doc_id": "doqyxVESRqBm",
+   "doc_url": "https://docs.qq.com/doc/DZG9xeXhWRVNScUJt",
+   "done_at": "2026-10-03T07:23:01Z"
   },
   "d5ff4dd744f1ee28": {
    "date": "2026-07-16",
@@ -2567,5 +2570,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T07:22:50Z"
+ "updated_at": "2026-10-03T07:23:01Z"
 }
