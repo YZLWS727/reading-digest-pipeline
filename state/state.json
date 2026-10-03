@@ -2671,8 +2671,17 @@
    "doc_id": "dXgxpmssuErE",
    "doc_url": "https://docs.qq.com/doc/DZFhneHBtc3N1RXJF",
    "done_at": "2026-10-03T08:36:44Z"
+  },
+  "089fc1bc4763ede0": {
+   "date": "2025-01-16",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T08:36:45Z",
+   "slug": "/podcasts/huberman-lab/essentials-tools-for-managing-stress-anxiety",
+   "match_score": 1.0,
+   "words": 6679
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T08:36:44Z"
+ "updated_at": "2026-10-03T08:36:45Z"
 }
