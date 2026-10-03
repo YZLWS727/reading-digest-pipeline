@@ -2810,7 +2810,7 @@
   },
   "30e8b4a4ed8010e0": {
    "date": "2024-04-15",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T09:50:46Z",
    "slug": "/podcasts/huberman-lab/dr-david-yeager-how-to-master-growth-mindset-to-improve-performance",
@@ -2820,9 +2820,12 @@
    "cjk": 37102,
    "chunks": 25,
    "failed_chunks": 0,
-   "title_zh": "掌握成长型思维提升表现 | Dr. David Yeager"
+   "title_zh": "掌握成长型思维提升表现 | Dr. David Yeager",
+   "doc_id": "dJcZdLqzxYtR",
+   "doc_url": "https://docs.qq.com/doc/DZEpjWmRMcXp4WXRS",
+   "done_at": "2026-10-03T09:59:01Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:58:52Z"
+ "updated_at": "2026-10-03T09:59:01Z"
 }
