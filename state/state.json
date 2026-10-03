@@ -3357,8 +3357,17 @@
    "doc_id": "dSmKpuaTaMlV",
    "doc_url": "https://docs.qq.com/doc/DZFNtS3B1YVRhTWxW",
    "done_at": "2026-10-03T14:14:55Z"
+  },
+  "06bed8c4020ce65f": {
+   "date": "2024-01-01",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T14:14:56Z",
+   "slug": "/podcasts/huberman-lab/david-goggins-how-to-build-immense-inner-strength",
+   "match_score": 1.0,
+   "words": 28129
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T14:14:55Z"
+ "updated_at": "2026-10-03T14:14:56Z"
 }
