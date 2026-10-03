@@ -2640,7 +2640,7 @@
   },
   "1e8ce646ccafc693": {
    "date": "2025-01-23",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T08:15:31Z",
    "slug": "/podcasts/huberman-lab/essentials-how-foods-nutrients-control-our-moods",
@@ -2654,5 +2654,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T08:17:56Z"
+ "updated_at": "2026-10-03T08:17:58Z"
 }
