@@ -3028,8 +3028,17 @@
    "doc_id": "dQLMDbxAZHaA",
    "doc_url": "https://docs.qq.com/doc/DZFFMTURieEFaSGFB",
    "done_at": "2026-10-03T11:56:09Z"
+  },
+  "dae3c7f9189c0305": {
+   "date": "2023-02-27",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T11:56:10Z",
+   "slug": "/podcasts/huberman-lab/dr-oded-rechavi-genes-the-inheritance-of-memories-across-generations",
+   "match_score": 1.0,
+   "words": 26762
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:56:09Z"
+ "updated_at": "2026-10-03T11:56:10Z"
 }
