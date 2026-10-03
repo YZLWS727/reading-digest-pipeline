@@ -3014,7 +3014,7 @@
   },
   "341f433e367413f3": {
    "date": "2023-04-24",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T11:49:12Z",
    "slug": "/podcasts/huberman-lab/science-based-mental-training-visualization-for-improved-learning",
@@ -3024,9 +3024,12 @@
    "cjk": 31709,
    "chunks": 22,
    "failed_chunks": 0,
-   "title_zh": "科学心理训练与可视化学习"
+   "title_zh": "科学心理训练与可视化学习",
+   "doc_id": "dQLMDbxAZHaA",
+   "doc_url": "https://docs.qq.com/doc/DZFFMTURieEFaSGFB",
+   "done_at": "2026-10-03T11:56:09Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T11:55:57Z"
+ "updated_at": "2026-10-03T11:56:09Z"
 }
