@@ -2640,7 +2640,7 @@
   },
   "1e8ce646ccafc693": {
    "date": "2025-01-23",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T08:15:31Z",
    "slug": "/podcasts/huberman-lab/essentials-how-foods-nutrients-control-our-moods",
@@ -2650,9 +2650,12 @@
    "cjk": 9140,
    "chunks": 7,
    "failed_chunks": 0,
-   "title_zh": "精华版：食物营养如何影响情绪"
+   "title_zh": "精华版：食物营养如何影响情绪",
+   "doc_id": "dMIkpfxaljvJ",
+   "doc_url": "https://docs.qq.com/doc/DZE1Ja3BmeGFsanZK",
+   "done_at": "2026-10-03T08:18:08Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T08:17:58Z"
+ "updated_at": "2026-10-03T08:18:08Z"
 }
