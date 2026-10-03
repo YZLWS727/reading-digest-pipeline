@@ -2861,7 +2861,7 @@
   },
   "c559277d5d4e0281": {
    "date": "2024-03-11",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-03T10:23:10Z",
    "slug": "/podcasts/huberman-lab/dr-cal-newport-how-to-enhance-focus-and-improve-productivity",
@@ -2871,9 +2871,12 @@
    "cjk": 52070,
    "chunks": 35,
    "failed_chunks": 0,
-   "title_zh": "提升专注力与效率 | Dr. Cal Newport"
+   "title_zh": "提升专注力与效率 | Dr. Cal Newport",
+   "doc_id": "dqDyVodRrTJi",
+   "doc_url": "https://docs.qq.com/doc/DZHFEeVZvZFJyVEpp",
+   "done_at": "2026-10-03T10:35:17Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T10:35:07Z"
+ "updated_at": "2026-10-03T10:35:17Z"
 }
