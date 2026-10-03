@@ -2759,7 +2759,7 @@
   },
   "d2554e3977c5737d": {
    "date": "2024-11-18",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T09:22:12Z",
    "slug": "/podcasts/huberman-lab/dr-terry-sejnowski-how-to-improve-at-learning-using-neuroscience-ai",
@@ -2773,5 +2773,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:33:52Z"
+ "updated_at": "2026-10-03T09:33:53Z"
 }
