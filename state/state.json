@@ -2807,8 +2807,17 @@
    "doc_id": "dkFwBfQulWNA",
    "doc_url": "https://docs.qq.com/doc/DZGtGd0JmUXVsV05B",
    "done_at": "2026-10-03T09:50:45Z"
+  },
+  "30e8b4a4ed8010e0": {
+   "date": "2024-04-15",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-03T09:50:46Z",
+   "slug": "/podcasts/huberman-lab/dr-david-yeager-how-to-master-growth-mindset-to-improve-performance",
+   "match_score": 1.0,
+   "words": 25856
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T09:50:45Z"
+ "updated_at": "2026-10-03T09:50:46Z"
 }
