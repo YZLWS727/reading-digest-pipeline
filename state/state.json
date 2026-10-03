@@ -2844,7 +2844,7 @@
   },
   "f94bee44e9a53c13": {
    "date": "2024-03-18",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T10:16:44Z",
    "slug": "/podcasts/huberman-lab/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-ej-chichilnisky",
@@ -2858,5 +2858,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T10:22:57Z"
+ "updated_at": "2026-10-03T10:22:59Z"
 }
