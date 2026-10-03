@@ -3343,7 +3343,7 @@
   },
   "69e89389f4c319a4": {
    "date": "2024-04-08",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-03T13:59:57Z",
    "slug": "/podcasts/huberman-lab/overcoming-physical-emotional-challenges-coleman-ruiz",
@@ -3357,5 +3357,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T14:14:37Z"
+ "updated_at": "2026-10-03T14:14:38Z"
 }
