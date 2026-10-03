@@ -3326,14 +3326,19 @@
   },
   "6075ab38f9d0910c": {
    "date": "2021-01-04",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-03T13:57:38Z",
    "slug": "/podcasts/huberman-lab/essentials-how-your-brain-works-changes",
    "match_score": 1.0,
-   "words": 6661
+   "words": 6661,
+   "chars": 11992,
+   "cjk": 9626,
+   "chunks": 7,
+   "failed_chunks": 0,
+   "title_zh": "大脑运作与变化"
   }
  },
  "runs": [],
- "updated_at": "2026-10-03T13:57:38Z"
+ "updated_at": "2026-10-03T13:59:45Z"
 }
