@@ -3394,7 +3394,7 @@
   },
   "2d043dda8e686bfc": {
    "date": "2023-10-09",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-04T07:37:25Z",
    "slug": "/podcasts/huberman-lab/how-to-increase-your-willpower-tenacity",
@@ -3404,9 +3404,12 @@
    "cjk": 33286,
    "chunks": 24,
    "failed_chunks": 0,
-   "title_zh": "如何提升意志力与韧性"
+   "title_zh": "如何提升意志力与韧性",
+   "doc_id": "dhPvaTvhxKrZ",
+   "doc_url": "https://docs.qq.com/doc/DZGhQdmFUdmh4S3Ja",
+   "done_at": "2026-10-04T07:44:59Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T07:44:49Z"
+ "updated_at": "2026-10-04T07:44:59Z"
 }
