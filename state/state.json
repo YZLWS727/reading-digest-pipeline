@@ -3842,8 +3842,17 @@
    "doc_id": "darkmfdhlMvC",
    "doc_url": "https://docs.qq.com/doc/DZGFya21mZGhsTXZD",
    "done_at": "2026-10-04T11:43:33Z"
+  },
+  "bda8c5a2bfd8fad4": {
+   "date": "2024-12-30",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-04T11:43:34Z",
+   "slug": "/podcasts/huberman-lab/dr-jordan-peterson-how-to-best-guide-your-life-decisions-path",
+   "match_score": 1.0,
+   "words": 39503
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T11:43:33Z"
+ "updated_at": "2026-10-04T11:43:35Z"
 }
