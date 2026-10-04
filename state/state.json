@@ -3896,7 +3896,7 @@
   },
   "fad089c5274e15af": {
    "date": "2024-10-14",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T12:37:40Z",
    "slug": "/podcasts/huberman-lab/ari-wallach-create-your-ideal-future-using-science-based-protocols",
@@ -3910,5 +3910,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T12:48:14Z"
+ "updated_at": "2026-10-04T12:48:15Z"
 }
