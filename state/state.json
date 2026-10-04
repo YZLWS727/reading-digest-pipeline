@@ -3546,14 +3546,19 @@
   },
   "e1a7d0b3f74b67f6": {
    "date": "2021-08-30",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-04T09:10:06Z",
    "slug": "/podcasts/huberman-lab/dr-robert-sapolsky-science-of-stress-testosterone-free-will",
    "match_score": 1.0,
-   "words": 13648
+   "words": 13648,
+   "chars": 24869,
+   "cjk": 18939,
+   "chunks": 14,
+   "failed_chunks": 0,
+   "title_zh": "压力、睾酮与自由意志 Dr. Robert Sapolsky"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T09:10:06Z"
+ "updated_at": "2026-10-04T09:15:03Z"
 }
