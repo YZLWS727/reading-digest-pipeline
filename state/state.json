@@ -3760,14 +3760,19 @@
   },
   "d68d90564f287924": {
    "date": "2021-08-02",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-04T11:16:14Z",
    "slug": "/podcasts/huberman-lab/dr-matthew-walker-the-science-practice-of-perfecting-your-sleep",
    "match_score": 1.0,
-   "words": 32454
+   "words": 32454,
+   "chars": 52908,
+   "cjk": 44245,
+   "chunks": 31,
+   "failed_chunks": 0,
+   "title_zh": "睡眠科学 | Dr. Matt Walker"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T11:16:14Z"
+ "updated_at": "2026-10-04T11:31:13Z"
 }
