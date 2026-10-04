@@ -4033,9 +4033,11 @@
    "cjk": 35313,
    "chunks": 25,
    "failed_chunks": 0,
-   "title_zh": "如何正确呼吸，提升健康、情绪、学习与表现"
+   "title_zh": "如何正确呼吸，提升健康、情绪、学习与表现",
+   "last_error": "error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+   "last_error_at": "2026-10-04T14:32:40Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T14:27:43Z"
+ "updated_at": "2026-10-04T14:32:40Z"
 }
