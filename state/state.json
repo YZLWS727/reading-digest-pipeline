@@ -3952,8 +3952,17 @@
    "doc_id": "dctLrPXBRSws",
    "doc_url": "https://docs.qq.com/doc/DZGN0THJQWEJSU3dz",
    "done_at": "2026-10-04T13:23:14Z"
+  },
+  "38590fa1fe02c143": {
+   "date": "2023-07-31",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-04T13:23:16Z",
+   "slug": "/podcasts/huberman-lab/tony-hawk-harnessing-passion-drive-persistence-for-lifelong-success",
+   "match_score": 1.0,
+   "words": 25657
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T13:23:14Z"
+ "updated_at": "2026-10-04T13:23:16Z"
 }
