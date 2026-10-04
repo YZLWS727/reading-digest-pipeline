@@ -4023,14 +4023,19 @@
   },
   "c70d1af819d05511": {
    "date": "2023-02-20",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-04T14:15:26Z",
    "slug": "/podcasts/huberman-lab/how-to-breathe-correctly-for-optimal-health-mood-learning-performance",
    "match_score": 1.0,
-   "words": 25784
+   "words": 25784,
+   "chars": 42209,
+   "cjk": 35313,
+   "chunks": 25,
+   "failed_chunks": 0,
+   "title_zh": "如何正确呼吸，提升健康、情绪、学习与表现"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T14:15:27Z"
+ "updated_at": "2026-10-04T14:27:42Z"
 }
