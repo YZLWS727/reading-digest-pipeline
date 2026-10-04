@@ -3665,14 +3665,19 @@
   },
   "602f13ebd0f610eb": {
    "date": "2024-04-17",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-04T10:17:10Z",
    "slug": "/podcasts/huberman-lab/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine",
    "match_score": 1.0,
-   "words": 23453
+   "words": 23453,
+   "chars": 39465,
+   "cjk": 32350,
+   "chunks": 22,
+   "failed_chunks": 0,
+   "title_zh": "嘉宾系列 | Dr. Matt Walker：睡眠结构、小睡与咖啡因时间"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T10:17:10Z"
+ "updated_at": "2026-10-04T10:24:59Z"
 }
