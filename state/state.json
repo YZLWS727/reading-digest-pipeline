@@ -3955,7 +3955,7 @@
   },
   "38590fa1fe02c143": {
    "date": "2023-07-31",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-04T13:23:16Z",
    "slug": "/podcasts/huberman-lab/tony-hawk-harnessing-passion-drive-persistence-for-lifelong-success",
@@ -3965,9 +3965,12 @@
    "cjk": 34310,
    "chunks": 24,
    "failed_chunks": 0,
-   "title_zh": "驾驭激情与毅力，铸就终身成功 | Tony Hawk"
+   "title_zh": "驾驭激情与毅力，铸就终身成功 | Tony Hawk",
+   "doc_id": "dWyFqlgvgcDs",
+   "doc_url": "https://docs.qq.com/doc/DZFd5RnFsZ3ZnY0Rz",
+   "done_at": "2026-10-04T13:31:39Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T13:31:22Z"
+ "updated_at": "2026-10-04T13:31:39Z"
 }
