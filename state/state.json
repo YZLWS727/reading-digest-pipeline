@@ -3467,8 +3467,17 @@
    "doc_id": "dnatuLSFcSTo",
    "doc_url": "https://docs.qq.com/doc/DZG5hdHVMU0ZjU1Rv",
    "done_at": "2026-10-04T08:35:26Z"
+  },
+  "95f6cb277d6e65bc": {
+   "date": "2022-08-01",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-04T08:35:28Z",
+   "slug": "/podcasts/huberman-lab/dr-emily-balcetis-tools-for-setting-achieving-goals",
+   "match_score": 1.0,
+   "words": 18878
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T08:35:26Z"
+ "updated_at": "2026-10-04T08:35:28Z"
 }
