@@ -3419,7 +3419,7 @@
   },
   "f226a52eb8e33efe": {
    "date": "2023-07-24",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-04T07:45:02Z",
    "slug": "/podcasts/huberman-lab/how-to-shape-your-identity-goals-dr-maya-shankar",
@@ -3429,9 +3429,12 @@
    "cjk": 40247,
    "chunks": 27,
    "failed_chunks": 0,
-   "title_zh": "塑造身份与目标 Dr. Maya Shankar"
+   "title_zh": "塑造身份与目标 Dr. Maya Shankar",
+   "doc_id": "dUZElwLVkgxt",
+   "doc_url": "https://docs.qq.com/doc/DZFVaRWx3TFZrZ3h0",
+   "done_at": "2026-10-04T07:54:07Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T07:53:57Z"
+ "updated_at": "2026-10-04T07:54:07Z"
 }
