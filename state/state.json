@@ -3811,14 +3811,19 @@
   },
   "2341edae40610cf8": {
    "date": "2021-01-18",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-04T11:37:21Z",
    "slug": "/podcasts/huberman-lab/essentials-using-science-to-optimize-sleep-learning-metabolism",
    "match_score": 1.0,
-   "words": 7035
+   "words": 7035,
+   "chars": 12113,
+   "cjk": 9653,
+   "chunks": 7,
+   "failed_chunks": 0,
+   "title_zh": "科学优化睡眠学习代谢"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T11:37:22Z"
+ "updated_at": "2026-10-04T11:40:32Z"
 }
