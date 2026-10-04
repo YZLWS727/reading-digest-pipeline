@@ -3955,7 +3955,7 @@
   },
   "38590fa1fe02c143": {
    "date": "2023-07-31",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T13:23:16Z",
    "slug": "/podcasts/huberman-lab/tony-hawk-harnessing-passion-drive-persistence-for-lifelong-success",
@@ -3969,5 +3969,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T13:31:20Z"
+ "updated_at": "2026-10-04T13:31:22Z"
 }
