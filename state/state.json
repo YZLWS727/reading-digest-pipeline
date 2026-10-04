@@ -3377,14 +3377,19 @@
   },
   "c5d5a3879d9faccf": {
    "date": "2023-11-27",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-04T07:22:55Z",
    "slug": "/podcasts/huberman-lab/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant",
    "match_score": 1.0,
-   "words": 35025
+   "words": 35025,
+   "chars": 57859,
+   "cjk": 49487,
+   "chunks": 33,
+   "failed_chunks": 0,
+   "title_zh": "解锁潜能与独特能力 Dr. Adam Grant"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T07:22:56Z"
+ "updated_at": "2026-10-04T07:37:08Z"
 }
