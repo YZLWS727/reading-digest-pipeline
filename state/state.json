@@ -3879,7 +3879,7 @@
   },
   "78773e9af9e995b5": {
    "date": "2024-12-02",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T12:24:20Z",
    "slug": "/podcasts/huberman-lab/understand-apply-the-psychology-of-money-to-gain-greater-happiness-morgan-housel",
@@ -3893,5 +3893,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T12:37:26Z"
+ "updated_at": "2026-10-04T12:37:27Z"
 }
