@@ -3436,7 +3436,7 @@
   },
   "23460ff54d5ca5ab": {
    "date": "2023-03-27",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T07:54:09Z",
    "slug": "/podcasts/huberman-lab/leverage-dopamine-to-overcome-procrastination-optimize-effort",
@@ -3450,5 +3450,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T08:02:18Z"
+ "updated_at": "2026-10-04T08:02:20Z"
 }
