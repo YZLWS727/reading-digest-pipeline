@@ -3743,7 +3743,7 @@
   },
   "31929c6df2fa8994": {
    "date": "2021-10-25",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T11:07:56Z",
    "slug": "/podcasts/huberman-lab/timing-your-light-food-exercise-for-optimal-sleep-energy-mood-dr-samer-hattar",
@@ -3757,5 +3757,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T11:15:59Z"
+ "updated_at": "2026-10-04T11:16:01Z"
 }
