@@ -3487,7 +3487,7 @@
   },
   "241cf1c144da7aa8": {
    "date": "2022-01-24",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-04T08:42:41Z",
    "slug": "/podcasts/huberman-lab/science-of-mindsets-for-health-performance-dr-alia-crum",
@@ -3497,9 +3497,12 @@
    "cjk": 23431,
    "chunks": 16,
    "failed_chunks": 0,
-   "title_zh": "健康与表现心态科学 Dr. Alia Crum"
+   "title_zh": "健康与表现心态科学 Dr. Alia Crum",
+   "doc_id": "dhHLwdYCGQUw",
+   "doc_url": "https://docs.qq.com/doc/DZGhITHdkWUNHUVV3",
+   "done_at": "2026-10-04T08:49:27Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T08:49:16Z"
+ "updated_at": "2026-10-04T08:49:27Z"
 }
