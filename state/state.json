@@ -3828,14 +3828,19 @@
   },
   "ffcddda5e8ec3a5b": {
    "date": "2021-01-11",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-04T11:40:44Z",
    "slug": "/podcasts/huberman-lab/essentials-master-your-sleep-be-more-alert-when-awake",
    "match_score": 1.0,
-   "words": 7146
+   "words": 7146,
+   "chars": 12879,
+   "cjk": 9833,
+   "chunks": 7,
+   "failed_chunks": 0,
+   "title_zh": "掌控睡眠 保持清醒"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T11:40:45Z"
+ "updated_at": "2026-10-04T11:43:21Z"
 }
