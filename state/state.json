@@ -4003,8 +4003,17 @@
    "doc_id": "dEaGxpeGgvro",
    "doc_url": "https://docs.qq.com/doc/DZEVhR3hwZUdndnJv",
    "done_at": "2026-10-04T14:02:25Z"
+  },
+  "faf864286c390aec": {
+   "date": "2023-05-15",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-04T14:02:27Z",
+   "slug": "/podcasts/huberman-lab/how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg",
+   "match_score": 1.0,
+   "words": 25651
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T14:02:25Z"
+ "updated_at": "2026-10-04T14:02:27Z"
 }
