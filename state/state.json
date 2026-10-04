@@ -3777,14 +3777,19 @@
   },
   "cd848eb88907033f": {
    "date": "2021-02-01",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-04T11:31:28Z",
    "slug": "/podcasts/huberman-lab/essentials-understand-and-use-dreams-to-learn-and-forget",
    "match_score": 1.0,
-   "words": 6510
+   "words": 6510,
+   "chars": 11441,
+   "cjk": 9352,
+   "chunks": 7,
+   "failed_chunks": 0,
+   "title_zh": "理解梦境学习与遗忘"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T11:31:29Z"
+ "updated_at": "2026-10-04T11:34:25Z"
 }
