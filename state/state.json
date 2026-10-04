@@ -3484,8 +3484,17 @@
    "doc_id": "dJMGafPxwAcp",
    "doc_url": "https://docs.qq.com/doc/DZEpNR2FmUHh3QWNw",
    "done_at": "2026-10-04T08:42:40Z"
+  },
+  "241cf1c144da7aa8": {
+   "date": "2022-01-24",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-04T08:42:41Z",
+   "slug": "/podcasts/huberman-lab/science-of-mindsets-for-health-performance-dr-alia-crum",
+   "match_score": 1.0,
+   "words": 16111
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T08:42:40Z"
+ "updated_at": "2026-10-04T08:42:42Z"
 }
