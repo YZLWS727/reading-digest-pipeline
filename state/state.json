@@ -3893,8 +3893,17 @@
    "doc_id": "dXBsprJojoLA",
    "doc_url": "https://docs.qq.com/doc/DZFhCc3BySm9qb0xB",
    "done_at": "2026-10-04T12:37:39Z"
+  },
+  "fad089c5274e15af": {
+   "date": "2024-10-14",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-04T12:37:40Z",
+   "slug": "/podcasts/huberman-lab/ari-wallach-create-your-ideal-future-using-science-based-protocols",
+   "match_score": 1.0,
+   "words": 26172
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T12:37:39Z"
+ "updated_at": "2026-10-04T12:37:41Z"
 }
