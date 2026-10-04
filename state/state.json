@@ -3862,7 +3862,7 @@
   },
   "08381614535a9ce2": {
    "date": "2024-12-16",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T12:10:11Z",
    "slug": "/podcasts/huberman-lab/dr-bernardo-huberman-how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life",
@@ -3876,5 +3876,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T12:24:02Z"
+ "updated_at": "2026-10-04T12:24:04Z"
 }
