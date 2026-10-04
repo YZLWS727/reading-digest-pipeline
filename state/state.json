@@ -3969,8 +3969,17 @@
    "doc_id": "dWyFqlgvgcDs",
    "doc_url": "https://docs.qq.com/doc/DZFd5RnFsZ3ZnY0Rz",
    "done_at": "2026-10-04T13:31:39Z"
+  },
+  "0f229036eaa5df93": {
+   "date": "2023-06-19",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-04T13:31:41Z",
+   "slug": "/podcasts/huberman-lab/how-to-learn-better-create-your-best-future-tim-ferriss",
+   "match_score": 1.0,
+   "words": 36192
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T13:31:39Z"
+ "updated_at": "2026-10-04T13:31:41Z"
 }
