@@ -3986,8 +3986,17 @@
    "doc_id": "dmwMlEFCuenO",
    "doc_url": "https://docs.qq.com/doc/DZG13TWxFRkN1ZW5P",
    "done_at": "2026-10-04T13:49:15Z"
+  },
+  "17c85c4e4d1bf06d": {
+   "date": "2022-11-28",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-04T13:49:16Z",
+   "slug": "/podcasts/huberman-lab/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman",
+   "match_score": 1.0,
+   "words": 26535
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T13:49:15Z"
+ "updated_at": "2026-10-04T13:49:17Z"
 }
