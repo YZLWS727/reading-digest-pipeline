@@ -3580,7 +3580,7 @@
   },
   "dfd33cc3427f1d25": {
    "date": "2021-03-22",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T09:22:25Z",
    "slug": "/podcasts/huberman-lab/how-to-increase-motivation-drive",
@@ -3594,5 +3594,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T09:27:39Z"
+ "updated_at": "2026-10-04T09:27:40Z"
 }
