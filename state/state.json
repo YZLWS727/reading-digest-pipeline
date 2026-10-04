@@ -3845,7 +3845,7 @@
   },
   "bda8c5a2bfd8fad4": {
    "date": "2024-12-30",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-04T11:43:34Z",
    "slug": "/podcasts/huberman-lab/dr-jordan-peterson-how-to-best-guide-your-life-decisions-path",
@@ -3855,9 +3855,12 @@
    "cjk": 56484,
    "chunks": 39,
    "failed_chunks": 0,
-   "title_zh": "如何引导人生决策与道路 | Dr. Jordan Peterson"
+   "title_zh": "如何引导人生决策与道路 | Dr. Jordan Peterson",
+   "doc_id": "dRsWEjKeTJws",
+   "doc_url": "https://docs.qq.com/doc/DZFJzV0VqS2VUSndz",
+   "done_at": "2026-10-04T12:10:10Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T12:09:59Z"
+ "updated_at": "2026-10-04T12:10:10Z"
 }
