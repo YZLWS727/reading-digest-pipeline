@@ -3896,14 +3896,19 @@
   },
   "fad089c5274e15af": {
    "date": "2024-10-14",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-04T12:37:40Z",
    "slug": "/podcasts/huberman-lab/ari-wallach-create-your-ideal-future-using-science-based-protocols",
    "match_score": 1.0,
-   "words": 26172
+   "words": 26172,
+   "chars": 45629,
+   "cjk": 36353,
+   "chunks": 25,
+   "failed_chunks": 0,
+   "title_zh": "科学协议创造理想未来 | Ari Wallach"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T12:37:41Z"
+ "updated_at": "2026-10-04T12:48:14Z"
 }
