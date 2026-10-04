@@ -3487,7 +3487,7 @@
   },
   "241cf1c144da7aa8": {
    "date": "2022-01-24",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T08:42:41Z",
    "slug": "/podcasts/huberman-lab/science-of-mindsets-for-health-performance-dr-alia-crum",
@@ -3501,5 +3501,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T08:49:15Z"
+ "updated_at": "2026-10-04T08:49:16Z"
 }
