@@ -3699,7 +3699,7 @@
   },
   "24b2724daf15133b": {
    "date": "2024-04-03",
-   "status": "rendered",
+   "status": "done",
    "attempts": 2,
    "last_try": "2026-10-04T12:56:12Z",
    "slug": "/podcasts/huberman-lab/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory",
@@ -3711,7 +3711,10 @@
    "cjk": 34926,
    "chunks": 25,
    "failed_chunks": 0,
-   "title_zh": "嘉宾系列 | Dr. Matt Walker：睡眠生物学与你的独特睡眠需求"
+   "title_zh": "嘉宾系列 | Dr. Matt Walker：睡眠生物学与你的独特睡眠需求",
+   "doc_id": "dFSUKpHKVUDk",
+   "doc_url": "https://docs.qq.com/doc/DZEZTVUtwSEtWVURr",
+   "done_at": "2026-10-04T13:08:06Z"
   },
   "fb4b3cef8e41ec8b": {
    "date": "2023-02-13",
@@ -3935,5 +3938,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T13:07:53Z"
+ "updated_at": "2026-10-04T13:08:06Z"
 }
