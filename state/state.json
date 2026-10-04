@@ -3470,7 +3470,7 @@
   },
   "95f6cb277d6e65bc": {
    "date": "2022-08-01",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T08:35:28Z",
    "slug": "/podcasts/huberman-lab/dr-emily-balcetis-tools-for-setting-achieving-goals",
@@ -3484,5 +3484,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T08:42:28Z"
+ "updated_at": "2026-10-04T08:42:30Z"
 }
