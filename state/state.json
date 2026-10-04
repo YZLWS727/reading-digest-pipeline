@@ -3611,8 +3611,17 @@
    "doc_id": "dPcxbnjhzBAG",
    "doc_url": "https://docs.qq.com/doc/DZFBjeGJuamh6QkFH",
    "done_at": "2026-10-04T09:33:28Z"
+  },
+  "6ce3881ab1c54b3c": {
+   "date": "2024-05-08",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-04T09:33:30Z",
+   "slug": "/podcasts/huberman-lab/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming",
+   "match_score": 1.0,
+   "words": 26012
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T09:33:28Z"
+ "updated_at": "2026-10-04T09:33:30Z"
 }
