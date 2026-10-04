@@ -3419,7 +3419,7 @@
   },
   "f226a52eb8e33efe": {
    "date": "2023-07-24",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T07:45:02Z",
    "slug": "/podcasts/huberman-lab/how-to-shape-your-identity-goals-dr-maya-shankar",
@@ -3433,5 +3433,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T07:53:56Z"
+ "updated_at": "2026-10-04T07:53:57Z"
 }
