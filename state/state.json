@@ -3862,14 +3862,19 @@
   },
   "08381614535a9ce2": {
    "date": "2024-12-16",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-04T12:10:11Z",
    "slug": "/podcasts/huberman-lab/dr-bernardo-huberman-how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life",
    "match_score": 1.0,
-   "words": 39998
+   "words": 39998,
+   "chars": 68172,
+   "cjk": 55565,
+   "chunks": 37,
+   "failed_chunks": 0,
+   "title_zh": "运用好奇专注创造快乐有意义生活 | Dr. Bernardo Huberman"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T12:10:12Z"
+ "updated_at": "2026-10-04T12:24:02Z"
 }
