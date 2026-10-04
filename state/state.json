@@ -3794,7 +3794,7 @@
   },
   "79b851e6b1b53817": {
    "date": "2021-01-25",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-04T11:34:38Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-defeat-jet-lag-shift-work-sleeplessness",
@@ -3804,9 +3804,12 @@
    "cjk": 7605,
    "chunks": 6,
    "failed_chunks": 0,
-   "title_zh": "战胜时差、轮班与失眠"
+   "title_zh": "战胜时差、轮班与失眠",
+   "doc_id": "dqOxwWreuLcC",
+   "doc_url": "https://docs.qq.com/doc/DZHFPeHdXcmV1TGND",
+   "done_at": "2026-10-04T11:37:20Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T11:37:10Z"
+ "updated_at": "2026-10-04T11:37:20Z"
 }
