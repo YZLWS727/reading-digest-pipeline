@@ -3682,7 +3682,7 @@
   },
   "8c29c47d57eddc07": {
    "date": "2024-04-10",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-04T10:25:11Z",
    "slug": "/podcasts/huberman-lab/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation",
@@ -3692,9 +3692,12 @@
    "cjk": 31442,
    "chunks": 21,
    "failed_chunks": 0,
-   "title_zh": "嘉宾系列 | Dr. Matt Walker：睡眠改善方案"
+   "title_zh": "嘉宾系列 | Dr. Matt Walker：睡眠改善方案",
+   "doc_id": "dqREKmWYZBUs",
+   "doc_url": "https://docs.qq.com/doc/DZHFSRUttV1laQlVz",
+   "done_at": "2026-10-04T10:40:36Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T10:40:26Z"
+ "updated_at": "2026-10-04T10:40:36Z"
 }
