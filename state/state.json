@@ -825,10 +825,10 @@
   "4428b7be680b8374": {
    "date": "2026-02-23",
    "status": "pending",
-   "attempts": 6,
-   "last_try": "2026-10-03T07:23:30Z",
+   "attempts": 7,
+   "last_try": "2026-10-04T07:22:38Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
-   "last_error_at": "2026-10-03T07:23:30Z"
+   "last_error_at": "2026-10-04T07:22:38Z"
   },
   "814ed0b5c179244d": {
    "date": "2026-02-19",
@@ -3377,5 +3377,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T07:22:36Z"
+ "updated_at": "2026-10-04T07:22:38Z"
 }
