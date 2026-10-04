@@ -3470,7 +3470,7 @@
   },
   "95f6cb277d6e65bc": {
    "date": "2022-08-01",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-04T08:35:28Z",
    "slug": "/podcasts/huberman-lab/dr-emily-balcetis-tools-for-setting-achieving-goals",
@@ -3480,9 +3480,12 @@
    "cjk": 26232,
    "chunks": 18,
    "failed_chunks": 0,
-   "title_zh": "目标设定与达成工具 Dr. Emily Balcetis"
+   "title_zh": "目标设定与达成工具 Dr. Emily Balcetis",
+   "doc_id": "dJMGafPxwAcp",
+   "doc_url": "https://docs.qq.com/doc/DZEpNR2FmUHh3QWNw",
+   "done_at": "2026-10-04T08:42:40Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T08:42:30Z"
+ "updated_at": "2026-10-04T08:42:40Z"
 }
