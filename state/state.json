@@ -3938,7 +3938,7 @@
   },
   "aeaaeb92375cd384": {
    "date": "2023-12-04",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T13:08:08Z",
    "slug": "/podcasts/huberman-lab/a-process-for-finding-achieving-your-unique-purpose-robert-greene",
@@ -3952,5 +3952,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T13:23:00Z"
+ "updated_at": "2026-10-04T13:23:02Z"
 }
