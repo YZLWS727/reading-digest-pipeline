@@ -3529,7 +3529,7 @@
   },
   "f93bda2f2c92a93d": {
    "date": "2021-09-27",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-04T08:59:43Z",
    "slug": "/podcasts/huberman-lab/controlling-your-dopamine-for-motivation-focus-satisfaction",
@@ -3539,9 +3539,12 @@
    "cjk": 33160,
    "chunks": 23,
    "failed_chunks": 0,
-   "title_zh": "控制多巴胺：动力、专注与满足"
+   "title_zh": "控制多巴胺：动力、专注与满足",
+   "doc_id": "dmdYnQLZsAHN",
+   "doc_url": "https://docs.qq.com/doc/DZG1kWW5RTFpzQUhO",
+   "done_at": "2026-10-04T09:10:05Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T09:09:53Z"
+ "updated_at": "2026-10-04T09:10:05Z"
 }
