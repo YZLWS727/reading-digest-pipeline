@@ -3859,8 +3859,17 @@
    "doc_id": "dRsWEjKeTJws",
    "doc_url": "https://docs.qq.com/doc/DZFJzV0VqS2VUSndz",
    "done_at": "2026-10-04T12:10:10Z"
+  },
+  "08381614535a9ce2": {
+   "date": "2024-12-16",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-04T12:10:11Z",
+   "slug": "/podcasts/huberman-lab/dr-bernardo-huberman-how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life",
+   "match_score": 1.0,
+   "words": 39998
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T12:10:10Z"
+ "updated_at": "2026-10-04T12:10:12Z"
 }
