@@ -4006,7 +4006,7 @@
   },
   "faf864286c390aec": {
    "date": "2023-05-15",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T14:02:27Z",
    "slug": "/podcasts/huberman-lab/how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg",
@@ -4020,5 +4020,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T14:15:12Z"
+ "updated_at": "2026-10-04T14:15:14Z"
 }
