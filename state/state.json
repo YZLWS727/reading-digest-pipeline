@@ -4006,7 +4006,7 @@
   },
   "faf864286c390aec": {
    "date": "2023-05-15",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-04T14:02:27Z",
    "slug": "/podcasts/huberman-lab/how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg",
@@ -4016,9 +4016,12 @@
    "cjk": 34579,
    "chunks": 24,
    "failed_chunks": 0,
-   "title_zh": "如何利用冷热刺激改善健康 | Dr. Susanna Søberg"
+   "title_zh": "如何利用冷热刺激改善健康 | Dr. Susanna Søberg",
+   "doc_id": "dhymGryaDHpu",
+   "doc_url": "https://docs.qq.com/doc/DZGh5bUdyeWFESHB1",
+   "done_at": "2026-10-04T14:15:25Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T14:15:14Z"
+ "updated_at": "2026-10-04T14:15:25Z"
 }
