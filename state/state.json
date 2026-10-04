@@ -3665,7 +3665,7 @@
   },
   "602f13ebd0f610eb": {
    "date": "2024-04-17",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T10:17:10Z",
    "slug": "/podcasts/huberman-lab/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine",
@@ -3679,5 +3679,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T10:24:59Z"
+ "updated_at": "2026-10-04T10:25:01Z"
 }
