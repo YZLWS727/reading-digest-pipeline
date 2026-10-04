@@ -3504,7 +3504,7 @@
   },
   "05485add46c7f16d": {
    "date": "2022-01-17",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-04T08:49:28Z",
    "slug": "/podcasts/huberman-lab/the-science-of-setting-achieving-goals",
@@ -3514,9 +3514,12 @@
    "cjk": 29462,
    "chunks": 20,
    "failed_chunks": 0,
-   "title_zh": "设定与达成目标科学"
+   "title_zh": "设定与达成目标科学",
+   "doc_id": "dnOZuBsOoZCB",
+   "doc_url": "https://docs.qq.com/doc/DZG5PWnVCc09vWkNC",
+   "done_at": "2026-10-04T08:59:40Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T08:59:31Z"
+ "updated_at": "2026-10-04T08:59:40Z"
 }
