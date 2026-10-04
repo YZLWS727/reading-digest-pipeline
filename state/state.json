@@ -3879,7 +3879,7 @@
   },
   "78773e9af9e995b5": {
    "date": "2024-12-02",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-04T12:24:20Z",
    "slug": "/podcasts/huberman-lab/understand-apply-the-psychology-of-money-to-gain-greater-happiness-morgan-housel",
@@ -3889,9 +3889,12 @@
    "cjk": 40789,
    "chunks": 27,
    "failed_chunks": 0,
-   "title_zh": "理解金钱心理学获幸福感 | Morgan Housel"
+   "title_zh": "理解金钱心理学获幸福感 | Morgan Housel",
+   "doc_id": "dXBsprJojoLA",
+   "doc_url": "https://docs.qq.com/doc/DZFhCc3BySm9qb0xB",
+   "done_at": "2026-10-04T12:37:39Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T12:37:27Z"
+ "updated_at": "2026-10-04T12:37:39Z"
 }
