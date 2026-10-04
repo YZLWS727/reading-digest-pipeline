@@ -3710,7 +3710,7 @@
   },
   "fb4b3cef8e41ec8b": {
    "date": "2023-02-13",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T10:58:18Z",
    "slug": "/podcasts/huberman-lab/dr-gina-poe-use-sleep-to-enhance-learning-memory-emotional-state",
@@ -3724,5 +3724,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T11:07:40Z"
+ "updated_at": "2026-10-04T11:07:41Z"
 }
