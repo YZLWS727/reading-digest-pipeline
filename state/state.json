@@ -3453,7 +3453,7 @@
   },
   "dab437b8d507d467": {
    "date": "2022-12-26",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-04T08:02:31Z",
    "slug": "/podcasts/huberman-lab/jocko-willink-how-to-become-resilient-forge-your-identity-lead-others",
@@ -3463,9 +3463,12 @@
    "cjk": 63705,
    "chunks": 45,
    "failed_chunks": 0,
-   "title_zh": "如何变得坚韧、塑造自我与领导他人 | Jocko Willink"
+   "title_zh": "如何变得坚韧、塑造自我与领导他人 | Jocko Willink",
+   "doc_id": "dnatuLSFcSTo",
+   "doc_url": "https://docs.qq.com/doc/DZG5hdHVMU0ZjU1Rv",
+   "done_at": "2026-10-04T08:35:26Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T08:35:17Z"
+ "updated_at": "2026-10-04T08:35:26Z"
 }
