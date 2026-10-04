@@ -3450,8 +3450,17 @@
    "doc_id": "dcLIEJrbEWlP",
    "doc_url": "https://docs.qq.com/doc/DZGNMSUVKcmJFV2xQ",
    "done_at": "2026-10-04T08:02:30Z"
+  },
+  "dab437b8d507d467": {
+   "date": "2022-12-26",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-04T08:02:31Z",
+   "slug": "/podcasts/huberman-lab/jocko-willink-how-to-become-resilient-forge-your-identity-lead-others",
+   "match_score": 1.0,
+   "words": 48318
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T08:02:30Z"
+ "updated_at": "2026-10-04T08:02:32Z"
 }
