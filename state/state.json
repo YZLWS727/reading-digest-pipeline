@@ -3862,7 +3862,7 @@
   },
   "08381614535a9ce2": {
    "date": "2024-12-16",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-04T12:10:11Z",
    "slug": "/podcasts/huberman-lab/dr-bernardo-huberman-how-to-use-curiosity-focus-to-create-a-joyful-meaningful-life",
@@ -3872,9 +3872,12 @@
    "cjk": 55565,
    "chunks": 37,
    "failed_chunks": 0,
-   "title_zh": "运用好奇专注创造快乐有意义生活 | Dr. Bernardo Huberman"
+   "title_zh": "运用好奇专注创造快乐有意义生活 | Dr. Bernardo Huberman",
+   "doc_id": "dFJzdbJEZcXd",
+   "doc_url": "https://docs.qq.com/doc/DZEZKemRiSkVaY1hk",
+   "done_at": "2026-10-04T12:24:18Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T12:24:04Z"
+ "updated_at": "2026-10-04T12:24:18Z"
 }
