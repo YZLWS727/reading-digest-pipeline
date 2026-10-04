@@ -3808,8 +3808,17 @@
    "doc_id": "dqOxwWreuLcC",
    "doc_url": "https://docs.qq.com/doc/DZHFPeHdXcmV1TGND",
    "done_at": "2026-10-04T11:37:20Z"
+  },
+  "2341edae40610cf8": {
+   "date": "2021-01-18",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-04T11:37:21Z",
+   "slug": "/podcasts/huberman-lab/essentials-using-science-to-optimize-sleep-learning-metabolism",
+   "match_score": 1.0,
+   "words": 7035
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T11:37:20Z"
+ "updated_at": "2026-10-04T11:37:22Z"
 }
