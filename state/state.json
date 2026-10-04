@@ -3811,7 +3811,7 @@
   },
   "2341edae40610cf8": {
    "date": "2021-01-18",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-04T11:37:21Z",
    "slug": "/podcasts/huberman-lab/essentials-using-science-to-optimize-sleep-learning-metabolism",
@@ -3825,5 +3825,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-04T11:40:32Z"
+ "updated_at": "2026-10-04T11:40:34Z"
 }
