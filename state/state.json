@@ -4101,7 +4101,7 @@
   },
   "37cece6cdb5fa681": {
    "date": "2021-05-10",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-05T08:21:29Z",
    "slug": "/podcasts/huberman-lab/essentials-supercharge-exercise-performance-recovery-with-cooling",
@@ -4111,9 +4111,12 @@
    "cjk": 7782,
    "chunks": 6,
    "failed_chunks": 0,
-   "title_zh": "提升运动表现与恢复 Dr. Andy Galpin"
+   "title_zh": "提升运动表现与恢复 Dr. Andy Galpin",
+   "doc_id": "dtAslOGrujEi",
+   "doc_url": "https://docs.qq.com/doc/DZHRBc2xPR3J1akVp",
+   "done_at": "2026-10-05T08:23:54Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T08:23:40Z"
+ "updated_at": "2026-10-05T08:23:54Z"
 }
