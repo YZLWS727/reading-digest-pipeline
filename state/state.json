@@ -4288,7 +4288,7 @@
   },
   "18933c89137bd35f": {
    "date": "2021-11-01",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-05T10:08:28Z",
    "slug": "/podcasts/huberman-lab/using-your-nervous-system-to-enhance-your-immune-system",
@@ -4302,5 +4302,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T10:17:56Z"
+ "updated_at": "2026-10-05T10:17:57Z"
 }
