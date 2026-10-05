@@ -4200,8 +4200,17 @@
    "doc_id": "dCDvBgAULHWp",
    "doc_url": "https://docs.qq.com/doc/DZENEdkJnQVVMSFdw",
    "done_at": "2026-10-05T09:26:05Z"
+  },
+  "693fb5f869f12850": {
+   "date": "2021-07-19",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-05T09:26:06Z",
+   "slug": "/podcasts/huberman-lab/dr-lex-fridman-machines-creativity-love",
+   "match_score": 1.0,
+   "words": 30041
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T09:26:05Z"
+ "updated_at": "2026-10-05T09:26:06Z"
 }
