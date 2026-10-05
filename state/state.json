@@ -4152,14 +4152,19 @@
   },
   "32b0394ba6231aec": {
    "date": "2023-09-25",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-05T08:45:53Z",
    "slug": "/podcasts/huberman-lab/efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy",
    "match_score": 1.0,
-   "words": 28459
+   "words": 28459,
+   "chars": 45614,
+   "cjk": 39834,
+   "chunks": 27,
+   "failed_chunks": 0,
+   "title_zh": "促进公共卫生的努力与挑战 | 美国 Surgeon General Dr. Vivek Murthy"
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T08:45:53Z"
+ "updated_at": "2026-10-05T08:54:43Z"
 }
