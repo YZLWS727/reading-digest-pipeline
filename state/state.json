@@ -4237,7 +4237,7 @@
   },
   "bf8c3d67228662a8": {
    "date": "2024-01-08",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-05T09:43:23Z",
    "slug": "/podcasts/huberman-lab/how-to-prevent-treat-colds-flu",
@@ -4251,5 +4251,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T09:51:30Z"
+ "updated_at": "2026-10-05T09:51:31Z"
 }
