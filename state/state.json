@@ -4050,7 +4050,7 @@
   },
   "93313c11eef5be3d": {
    "date": "2022-04-04",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-05T07:48:41Z",
    "slug": "/podcasts/huberman-lab/using-deliberate-cold-exposure-for-health-and-performance",
@@ -4064,5 +4064,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T07:56:13Z"
+ "updated_at": "2026-10-05T07:56:14Z"
 }
