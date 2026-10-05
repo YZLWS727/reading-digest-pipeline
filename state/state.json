@@ -4101,7 +4101,7 @@
   },
   "37cece6cdb5fa681": {
    "date": "2021-05-10",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-05T08:21:29Z",
    "slug": "/podcasts/huberman-lab/essentials-supercharge-exercise-performance-recovery-with-cooling",
@@ -4115,5 +4115,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T08:23:39Z"
+ "updated_at": "2026-10-05T08:23:40Z"
 }
