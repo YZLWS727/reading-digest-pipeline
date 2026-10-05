@@ -4101,14 +4101,19 @@
   },
   "37cece6cdb5fa681": {
    "date": "2021-05-10",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-05T08:21:29Z",
    "slug": "/podcasts/huberman-lab/essentials-supercharge-exercise-performance-recovery-with-cooling",
    "match_score": 1.0,
-   "words": 5657
+   "words": 5657,
+   "chars": 9707,
+   "cjk": 7782,
+   "chunks": 6,
+   "failed_chunks": 0,
+   "title_zh": "提升运动表现与恢复 Dr. Andy Galpin"
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T08:21:29Z"
+ "updated_at": "2026-10-05T08:23:39Z"
 }
