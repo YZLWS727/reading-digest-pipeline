@@ -4237,14 +4237,19 @@
   },
   "bf8c3d67228662a8": {
    "date": "2024-01-08",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-05T09:43:23Z",
    "slug": "/podcasts/huberman-lab/how-to-prevent-treat-colds-flu",
    "match_score": 1.0,
-   "words": 25070
+   "words": 25070,
+   "chars": 42525,
+   "cjk": 34531,
+   "chunks": 24,
+   "failed_chunks": 0,
+   "title_zh": "预防与治疗感冒流感"
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T09:43:24Z"
+ "updated_at": "2026-10-05T09:51:30Z"
 }
