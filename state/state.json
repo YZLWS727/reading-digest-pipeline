@@ -4050,7 +4050,7 @@
   },
   "93313c11eef5be3d": {
    "date": "2022-04-04",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-05T07:48:41Z",
    "slug": "/podcasts/huberman-lab/using-deliberate-cold-exposure-for-health-and-performance",
@@ -4060,9 +4060,12 @@
    "cjk": 32692,
    "chunks": 23,
    "failed_chunks": 0,
-   "title_zh": "运用冷暴露提升健康与表现"
+   "title_zh": "运用冷暴露提升健康与表现",
+   "doc_id": "dwLHnQXpsnbo",
+   "doc_url": "https://docs.qq.com/doc/DZHdMSG5RWHBzbmJv",
+   "done_at": "2026-10-05T07:56:28Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T07:56:14Z"
+ "updated_at": "2026-10-05T07:56:28Z"
 }
