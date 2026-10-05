@@ -4288,7 +4288,7 @@
   },
   "18933c89137bd35f": {
    "date": "2021-11-01",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-05T10:08:28Z",
    "slug": "/podcasts/huberman-lab/using-your-nervous-system-to-enhance-your-immune-system",
@@ -4298,9 +4298,12 @@
    "cjk": 28158,
    "chunks": 20,
    "failed_chunks": 0,
-   "title_zh": "运用神经系统增强免疫系统"
+   "title_zh": "运用神经系统增强免疫系统",
+   "doc_id": "drpLDBjIVHjN",
+   "doc_url": "https://docs.qq.com/doc/DZHJwTERCaklWSGpO",
+   "done_at": "2026-10-05T10:18:07Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T10:17:57Z"
+ "updated_at": "2026-10-05T10:18:07Z"
 }
