@@ -4203,7 +4203,7 @@
   },
   "693fb5f869f12850": {
    "date": "2021-07-19",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-05T09:26:06Z",
    "slug": "/podcasts/huberman-lab/dr-lex-fridman-machines-creativity-love",
@@ -4213,9 +4213,12 @@
    "cjk": 41918,
    "chunks": 28,
    "failed_chunks": 0,
-   "title_zh": "机器、创造与爱 | Dr. Lex Fridman"
+   "title_zh": "机器、创造与爱 | Dr. Lex Fridman",
+   "doc_id": "dhqownjDDwbQ",
+   "doc_url": "https://docs.qq.com/doc/DZGhxb3duakREd2JR",
+   "done_at": "2026-10-05T09:35:13Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T09:35:03Z"
+ "updated_at": "2026-10-05T09:35:13Z"
 }
