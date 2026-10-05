@@ -4084,7 +4084,7 @@
   },
   "395a497ff2fb34ff": {
    "date": "2021-10-04",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 1,
    "last_try": "2026-10-05T08:10:52Z",
    "slug": "/podcasts/huberman-lab/using-temperature-to-optimize-performance-brain-body-health-dr-craig-heller",
@@ -4098,5 +4098,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T08:21:15Z"
+ "updated_at": "2026-10-05T08:21:16Z"
 }
