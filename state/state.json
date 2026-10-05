@@ -4098,8 +4098,17 @@
    "doc_id": "dPcnsHxXmBbF",
    "doc_url": "https://docs.qq.com/doc/DZFBjbnNIeFhtQmJG",
    "done_at": "2026-10-05T08:21:27Z"
+  },
+  "37cece6cdb5fa681": {
+   "date": "2021-05-10",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-05T08:21:29Z",
+   "slug": "/podcasts/huberman-lab/essentials-supercharge-exercise-performance-recovery-with-cooling",
+   "match_score": 1.0,
+   "words": 5657
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T08:21:27Z"
+ "updated_at": "2026-10-05T08:21:29Z"
 }
