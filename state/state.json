@@ -4115,8 +4115,17 @@
    "doc_id": "dtAslOGrujEi",
    "doc_url": "https://docs.qq.com/doc/DZHRBc2xPR3J1akVp",
    "done_at": "2026-10-05T08:23:54Z"
+  },
+  "bcb839689c39dd47": {
+   "date": "2024-06-10",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-05T08:23:55Z",
+   "slug": "/podcasts/huberman-lab/dr-jonathan-haidt-how-smartphones-social-media-impact-mental-health-the-realistic-solutions",
+   "match_score": 1.0,
+   "words": 28470
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T08:23:54Z"
+ "updated_at": "2026-10-05T08:23:55Z"
 }
