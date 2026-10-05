@@ -1117,12 +1117,12 @@
   "11eb1d83efc9a4c1": {
    "date": "2025-12-08",
    "status": "pending",
-   "attempts": 6,
-   "last_try": "2026-10-04T07:22:51Z",
+   "attempts": 7,
+   "last_try": "2026-10-05T07:40:21Z",
    "slug": "/podcasts/huberman-lab/protocols-to-access-creative-energy-and-process-rick-rubin",
    "match_score": 0.67,
    "last_error": "error: title mismatch: Huberman Lab - Protocols to Access Creative Energy and Proce",
-   "last_error_at": "2026-10-04T07:22:51Z"
+   "last_error_at": "2026-10-05T07:40:21Z"
   },
   "bf743385b5b987bb": {
    "date": "2025-12-04",
@@ -4039,5 +4039,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T07:40:20Z"
+ "updated_at": "2026-10-05T07:40:21Z"
 }
