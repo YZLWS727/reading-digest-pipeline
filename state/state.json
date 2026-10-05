@@ -1069,10 +1069,10 @@
   "9aa05d066bc0cd67": {
    "date": "2025-12-22",
    "status": "pending",
-   "attempts": 6,
-   "last_try": "2026-10-04T07:22:48Z",
+   "attempts": 7,
+   "last_try": "2026-10-05T07:40:19Z",
    "last_error": "no_transcript: no transcript match (best=0.25)",
-   "last_error_at": "2026-10-04T07:22:48Z"
+   "last_error_at": "2026-10-05T07:40:19Z"
   },
   "63bc79826af362bb": {
    "date": "2025-12-18",
@@ -4039,5 +4039,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T07:40:18Z"
+ "updated_at": "2026-10-05T07:40:19Z"
 }
