@@ -4118,7 +4118,7 @@
   },
   "bcb839689c39dd47": {
    "date": "2024-06-10",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-05T08:23:55Z",
    "slug": "/podcasts/huberman-lab/dr-jonathan-haidt-how-smartphones-social-media-impact-mental-health-the-realistic-solutions",
@@ -4128,9 +4128,12 @@
    "cjk": 41210,
    "chunks": 27,
    "failed_chunks": 0,
-   "title_zh": "智能手机与社交媒体如何影响心理健康及解决方案 Dr. Jonathan Haidt"
+   "title_zh": "智能手机与社交媒体如何影响心理健康及解决方案 Dr. Jonathan Haidt",
+   "doc_id": "dOzvetiAZDDb",
+   "doc_url": "https://docs.qq.com/doc/DZE96dmV0aUFaRERi",
+   "done_at": "2026-10-05T08:36:28Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T08:36:15Z"
+ "updated_at": "2026-10-05T08:36:28Z"
 }
