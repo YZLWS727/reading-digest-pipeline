@@ -4271,7 +4271,7 @@
   },
   "d35cb7c6fb94180d": {
    "date": "2022-02-28",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-05T09:59:54Z",
    "slug": "/podcasts/huberman-lab/how-to-enhance-your-gut-microbiome-for-brain-overall-health",
@@ -4281,9 +4281,12 @@
    "cjk": 28437,
    "chunks": 20,
    "failed_chunks": 0,
-   "title_zh": "增强肠道菌群对大脑及整体健康有益"
+   "title_zh": "增强肠道菌群对大脑及整体健康有益",
+   "doc_id": "djxKksnrWwpw",
+   "doc_url": "https://docs.qq.com/doc/DZGp4S2tzbnJXd3B3",
+   "done_at": "2026-10-05T10:08:27Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T10:08:17Z"
+ "updated_at": "2026-10-05T10:08:27Z"
 }
