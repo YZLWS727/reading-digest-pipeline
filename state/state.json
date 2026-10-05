@@ -4135,7 +4135,7 @@
   },
   "be15718b9b07e30c": {
    "date": "2023-10-23",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-05T08:36:30Z",
    "slug": "/podcasts/huberman-lab/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan",
@@ -4145,9 +4145,12 @@
    "cjk": 33219,
    "chunks": 23,
    "failed_chunks": 0,
-   "title_zh": "治愈人类疾病与健康科技未来 | Mark Zuckerberg & Dr. Priscilla Chan"
+   "title_zh": "治愈人类疾病与健康科技未来 | Mark Zuckerberg & Dr. Priscilla Chan",
+   "doc_id": "dJIswiVPiNiL",
+   "doc_url": "https://docs.qq.com/doc/DZEpJc3dpVlBpTmlM",
+   "done_at": "2026-10-05T08:45:52Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T08:45:42Z"
+ "updated_at": "2026-10-05T08:45:52Z"
 }
