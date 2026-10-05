@@ -4169,7 +4169,7 @@
   },
   "4a5c7df9be2c95fd": {
    "date": "2023-09-04",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-05T08:55:01Z",
    "slug": "/podcasts/huberman-lab/marc-andreessen-how-risk-taking-innovation-artificial-intelligence-transform-human-experience",
@@ -4179,9 +4179,12 @@
    "cjk": 54162,
    "chunks": 38,
    "failed_chunks": 0,
-   "title_zh": "冒险创新AI如何改变人类体验 | Marc Andreessen"
+   "title_zh": "冒险创新AI如何改变人类体验 | Marc Andreessen",
+   "doc_id": "dMpxSiiZEuLn",
+   "doc_url": "https://docs.qq.com/doc/DZE1weFNpaVpFdUxu",
+   "done_at": "2026-10-05T09:19:11Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T09:19:01Z"
+ "updated_at": "2026-10-05T09:19:11Z"
 }
