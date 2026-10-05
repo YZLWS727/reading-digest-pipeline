@@ -4220,14 +4220,19 @@
   },
   "c134d2b4fd08280f": {
    "date": "2024-05-27",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 1,
    "last_try": "2026-10-05T09:35:14Z",
    "slug": "/podcasts/huberman-lab/dr-diego-bohorquez-the-science-of-your-gut-sense-the-gut-brain-axis",
    "match_score": 1.0,
-   "words": 25502
+   "words": 25502,
+   "chars": 43106,
+   "cjk": 35352,
+   "chunks": 25,
+   "failed_chunks": 0,
+   "title_zh": "肠道感知与脑肠轴科学 Dr. Diego Bohórquez"
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T09:35:14Z"
+ "updated_at": "2026-10-05T09:43:11Z"
 }
