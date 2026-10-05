@@ -4149,8 +4149,17 @@
    "doc_id": "dJIswiVPiNiL",
    "doc_url": "https://docs.qq.com/doc/DZEpJc3dpVlBpTmlM",
    "done_at": "2026-10-05T08:45:52Z"
+  },
+  "32b0394ba6231aec": {
+   "date": "2023-09-25",
+   "status": "fetched",
+   "attempts": 1,
+   "last_try": "2026-10-05T08:45:53Z",
+   "slug": "/podcasts/huberman-lab/efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy",
+   "match_score": 1.0,
+   "words": 28459
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T08:45:52Z"
+ "updated_at": "2026-10-05T08:45:53Z"
 }
