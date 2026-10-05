@@ -3190,12 +3190,12 @@
   "ca100548c473b8d1": {
    "date": "2022-05-16",
    "status": "pending",
-   "attempts": 3,
-   "last_try": "2026-10-04T12:56:09Z",
+   "attempts": 4,
+   "last_try": "2026-10-05T10:18:50Z",
    "slug": "/podcasts/huberman-lab/science-based-tools-for-increasing-happiness",
    "match_score": 0.6,
    "last_error": "error: title mismatch: Huberman Lab - Science-Based Tools for Increasing Happiness ",
-   "last_error_at": "2026-10-04T12:56:09Z"
+   "last_error_at": "2026-10-05T10:18:51Z"
   },
   "8ac94cb8e5df1a2d": {
    "date": "2022-02-07",
@@ -4313,5 +4313,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-05T10:18:49Z"
+ "updated_at": "2026-10-05T10:18:51Z"
 }
