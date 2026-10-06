@@ -3736,10 +3736,10 @@
   "84259dfc0f4aa854": {
    "date": "2022-08-08",
    "status": "pending",
-   "attempts": 2,
-   "last_try": "2026-10-05T07:40:26Z",
+   "attempts": 3,
+   "last_try": "2026-10-06T08:16:48Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
-   "last_error_at": "2026-10-05T07:40:26Z"
+   "last_error_at": "2026-10-06T08:16:48Z"
   },
   "35888dbf6ef60f72": {
    "date": "2022-04-18",
@@ -4324,5 +4324,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-06T08:16:46Z"
+ "updated_at": "2026-10-06T08:16:48Z"
 }
