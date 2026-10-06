@@ -912,11 +912,11 @@
   },
   "db04e97a4e20d447": {
    "date": "2026-02-02",
-   "status": "pending",
-   "attempts": 7,
-   "last_try": "2026-10-05T07:40:13Z",
+   "status": "blocked",
+   "attempts": 8,
+   "last_try": "2026-10-06T08:16:32Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
-   "last_error_at": "2026-10-05T07:40:13Z"
+   "last_error_at": "2026-10-06T08:16:32Z"
   },
   "25e8c6281f231fb8": {
    "date": "2026-01-29",
@@ -4324,5 +4324,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-06T08:16:31Z"
+ "updated_at": "2026-10-06T08:16:32Z"
 }
