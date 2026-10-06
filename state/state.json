@@ -4305,7 +4305,7 @@
   },
   "af40abfe22c73a33": {
    "date": "2026-10-05",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 2,
    "last_try": "2026-10-06T08:05:52Z",
    "last_error": "no_transcript: no transcript match (best=0.20)",
@@ -4321,5 +4321,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-06T08:15:48Z"
+ "updated_at": "2026-10-06T08:15:50Z"
 }
