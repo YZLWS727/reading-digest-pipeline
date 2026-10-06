@@ -3412,10 +3412,10 @@
   "c7687d2953d99ed9": {
    "date": "2023-08-28",
    "status": "pending",
-   "attempts": 2,
-   "last_try": "2026-10-05T07:40:23Z",
+   "attempts": 3,
+   "last_try": "2026-10-06T08:16:45Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
-   "last_error_at": "2026-10-05T07:40:23Z"
+   "last_error_at": "2026-10-06T08:16:45Z"
   },
   "f226a52eb8e33efe": {
    "date": "2023-07-24",
@@ -4324,5 +4324,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-06T08:16:44Z"
+ "updated_at": "2026-10-06T08:16:45Z"
 }
