@@ -171,11 +171,13 @@ def process_item(cfg: Config, ep: Episode, state: dict, index: dict, used: set[s
             record["source"] = "github"
             record["match_score"] = round(fscore, 2)
             FALLBACK_USED.add(path)
-            text = fetch_fallback_transcript(path, ep.title, cfg.request_timeout)
+            sha = (FALLBACK_INDEX.get(path) or {}).get("sha", "")
+            text = fetch_fallback_transcript(path, ep.title, cfg.request_timeout, sha)
         WORK_DIR.mkdir(parents=True, exist_ok=True)
         cache.write_text(text, encoding="utf-8")
     else:
-        text = fetch_fallback_transcript(ref, ep.title, cfg.request_timeout)
+        sha = (FALLBACK_INDEX.get(ref) or {}).get("sha", "")
+        text = fetch_fallback_transcript(ref, ep.title, cfg.request_timeout, sha)
         WORK_DIR.mkdir(parents=True, exist_ok=True)
         cache.write_text(text, encoding="utf-8")
     record["words"] = len(text.split())
