@@ -70,7 +70,7 @@ def search_video(title: str, timeout: int = 180, min_score: float = 0.7) -> tupl
     return best
 
 
-def fetch_captions(video_id: str, workdir: Path, timeout: int = 300, langs: str = "en.*,en") -> str:
+def fetch_captions(video_id: str, workdir: Path, timeout: int = 300, langs: str = "en.*,en", proxy: str = "") -> str:
     """下载英文字幕并转成纯文本（自动字幕先去重）。"""
     workdir.mkdir(parents=True, exist_ok=True)
     pattern = str(workdir / f"{video_id}.%(ext)s")
@@ -91,6 +91,8 @@ def fetch_captions(video_id: str, workdir: Path, timeout: int = 300, langs: str 
         "-o",
         pattern,
     ]
+    if proxy:
+        args += ["--proxy", proxy]
     code, out, err = _run(args, timeout)
     files = sorted(workdir.glob(f"{video_id}*.vtt"))
     if not files:
