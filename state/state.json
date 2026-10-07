@@ -562,7 +562,7 @@
   },
   "d1fbd3f50e7069a8": {
    "date": "2026-06-01",
-   "status": "fetched",
+   "status": "done",
    "attempts": 12,
    "last_try": "2026-10-07T12:55:41Z",
    "last_error": "no_transcript: no transcript match (site=0.00 fallback=0.50)",
@@ -570,7 +570,15 @@
    "video_id": "_DfqnpSbMfE",
    "match_score": 1.0,
    "source": "youtube",
-   "words": 36730
+   "words": 36730,
+   "chars": 64854,
+   "cjk": 49745,
+   "chunks": 35,
+   "failed_chunks": 0,
+   "title_zh": "肽科学用途安全 Dr. Abud Bakri",
+   "doc_id": "daiigBsnqhVi",
+   "doc_url": "https://docs.qq.com/doc/DZGFpaWdCc25xaFZp",
+   "done_at": "2026-10-07T13:12:31Z"
   },
   "16cd633f047c2693": {
    "date": "2026-05-28",
@@ -590,11 +598,15 @@
   },
   "e994b2d5219207b8": {
    "date": "2026-05-25",
-   "status": "blocked",
-   "attempts": 11,
-   "last_try": "2026-10-07T11:38:05Z",
+   "status": "fetched",
+   "attempts": 12,
+   "last_try": "2026-10-07T13:12:31Z",
    "last_error": "no_transcript: no transcript match (site=0.00 fallback=0.33)",
-   "last_error_at": "2026-10-07T11:38:05Z"
+   "last_error_at": "2026-10-07T11:38:05Z",
+   "video_id": "s95KFJ2efm4",
+   "match_score": 1.0,
+   "source": "youtube",
+   "words": 28542
   },
   "464b83dbc01b6597": {
    "date": "2026-05-21",
@@ -4556,5 +4568,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T12:58:08Z"
+ "updated_at": "2026-10-07T13:13:45Z"
 }
