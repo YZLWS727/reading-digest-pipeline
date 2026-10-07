@@ -3875,7 +3875,7 @@
   },
   "35888dbf6ef60f72": {
    "date": "2022-04-18",
-   "status": "rendered",
+   "status": "done",
    "attempts": 4,
    "last_try": "2026-10-07T04:27:29Z",
    "last_error": "no_transcript: no transcript match (best=0.43)",
@@ -3888,7 +3888,10 @@
    "cjk": 34745,
    "chunks": 25,
    "failed_chunks": 0,
-   "title_zh": "用光（阳光、蓝光、红光）优化健康"
+   "title_zh": "用光（阳光、蓝光、红光）优化健康",
+   "doc_id": "dSdbLdwViGwg",
+   "doc_url": "https://docs.qq.com/doc/DZFNkYkxkd1ZpR3dn",
+   "done_at": "2026-10-07T04:35:47Z"
   },
   "31929c6df2fa8994": {
    "date": "2021-10-25",
@@ -4465,5 +4468,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T04:35:37Z"
+ "updated_at": "2026-10-07T04:35:47Z"
 }
