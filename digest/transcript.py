@@ -124,7 +124,7 @@ def build_fallback_index(token: str, timeout: int = 90) -> dict[str, dict]:
     return index
 
 
-def match_fallback(index: dict[str, dict], title: str, used: set[str], threshold: float = 0.6) -> tuple[str, float]:
+def match_fallback(index: dict[str, dict], title: str, used: set[str], threshold: float = 0.75) -> tuple[str, float]:
     core = re.split(r"\s*\|\s*", title)[0]
     tk = tokens(core)
     best, best_score = "", 0.0
