@@ -3283,7 +3283,7 @@
   },
   "8ac94cb8e5df1a2d": {
    "date": "2022-02-07",
-   "status": "rendered",
+   "status": "done",
    "attempts": 5,
    "last_try": "2026-10-07T04:10:21Z",
    "last_error": "no_transcript: no transcript match (best=0.40)",
@@ -3296,7 +3296,10 @@
    "cjk": 27955,
    "chunks": 19,
    "failed_chunks": 0,
-   "title_zh": "玩转大脑"
+   "title_zh": "玩转大脑",
+   "doc_id": "dqyCQUrEbgWN",
+   "doc_url": "https://docs.qq.com/doc/DZHF5Q1FVckViZ1dO",
+   "done_at": "2026-10-07T04:16:08Z"
   },
   "9280a7e6111f87e3": {
    "date": "2021-12-13",
@@ -4417,5 +4420,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T04:15:58Z"
+ "updated_at": "2026-10-07T04:16:08Z"
 }
