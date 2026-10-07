@@ -39,6 +39,9 @@ from digest.util import (
     log,
     read_json,
 )
+from digest.youtube import YouTubeError
+from digest.youtube import available as yt_available
+from digest.youtube import fetch_captions, search_video
 
 ROOT = Path(__file__).resolve().parent
 STATE_PATH = ROOT / "state" / "state.json"
@@ -46,6 +49,8 @@ PROGRESS_PATH = ROOT / "state" / "progress.md"
 WORK_DIR = ROOT / "work"
 FALLBACK_INDEX: dict[str, set[str]] = {}
 FALLBACK_USED: set[str] = set()
+YT_ENABLED = os.environ.get("ENABLE_YOUTUBE") == "1"
+YT_PROXY = os.environ.get("YTDLP_PROXY", "").strip()
 
 
 class ItemError(RuntimeError):
@@ -134,11 +139,17 @@ def process_item(cfg: Config, ep: Episode, state: dict, index: dict, used: set[s
             record["match_score"] = round(score, 2)
         else:
             path, fscore = match_fallback(FALLBACK_INDEX, ep.title, FALLBACK_USED, threshold=0.75)
-            if not path:
+            if path:
+                source, ref = "github", path
+                record["fallback_path"] = path
+                record["match_score"] = round(fscore, 2)
+            elif YT_ENABLED and yt_available():
+                vid, _vt, vscore = search_video(ep.title, timeout=cfg.request_timeout, min_score=0.7)
+                source, ref = "youtube", vid
+                record["video_id"] = vid
+                record["match_score"] = round(vscore, 2)
+            else:
                 raise ItemError(f"no transcript match (site={score:.2f} fallback={fscore:.2f})", kind="no_transcript")
-            source, ref = "github", path
-            record["fallback_path"] = path
-            record["match_score"] = round(fscore, 2)
         record["source"] = source
     if source == "site":
         used.add(ref)
@@ -175,9 +186,13 @@ def process_item(cfg: Config, ep: Episode, state: dict, index: dict, used: set[s
             text = fetch_fallback_transcript(path, ep.title, cfg.request_timeout, sha)
         WORK_DIR.mkdir(parents=True, exist_ok=True)
         cache.write_text(text, encoding="utf-8")
-    else:
+    elif source == "github":
         sha = (FALLBACK_INDEX.get(ref) or {}).get("sha", "")
         text = fetch_fallback_transcript(ref, ep.title, cfg.request_timeout, sha)
+        WORK_DIR.mkdir(parents=True, exist_ok=True)
+        cache.write_text(text, encoding="utf-8")
+    else:
+        text = fetch_captions(ref, WORK_DIR / "yt", cfg.request_timeout, proxy=YT_PROXY)
         WORK_DIR.mkdir(parents=True, exist_ok=True)
         cache.write_text(text, encoding="utf-8")
     record["words"] = len(text.split())
