@@ -992,7 +992,7 @@
   },
   "e0ed9ea01165935e": {
    "date": "2026-01-12",
-   "status": "rendered",
+   "status": "done",
    "attempts": 9,
    "last_try": "2026-10-07T02:42:28Z",
    "last_error": "no_transcript: no transcript match (best=0.20)",
@@ -1005,7 +1005,10 @@
    "cjk": 54723,
    "chunks": 37,
    "failed_chunks": 0,
-   "title_zh": "如何戒除物质或行为成瘾 | Dr. Keith Humphreys"
+   "title_zh": "如何戒除物质或行为成瘾 | Dr. Keith Humphreys",
+   "doc_id": "dyOzpQwZrCFj",
+   "doc_url": "https://docs.qq.com/doc/DZHlPenBRd1pyQ0Zq",
+   "done_at": "2026-10-07T03:01:37Z"
   },
   "ec3933f2d0f1d37c": {
    "date": "2026-01-08",
@@ -4333,5 +4336,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T03:01:26Z"
+ "updated_at": "2026-10-07T03:01:37Z"
 }
