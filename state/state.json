@@ -4186,7 +4186,7 @@
   },
   "837739293bb8a632": {
    "date": "2022-04-25",
-   "status": "rendered",
+   "status": "done",
    "attempts": 3,
    "last_try": "2026-10-07T04:35:48Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
@@ -4199,7 +4199,10 @@
    "cjk": 28773,
    "chunks": 20,
    "failed_chunks": 0,
-   "title_zh": "可控热暴露科学与健康"
+   "title_zh": "可控热暴露科学与健康",
+   "doc_id": "dNOOogvABMoa",
+   "doc_url": "https://docs.qq.com/doc/DZE5PT29ndkFCTW9h",
+   "done_at": "2026-10-07T04:41:42Z"
   },
   "93313c11eef5be3d": {
    "date": "2022-04-04",
@@ -4477,5 +4480,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T04:41:32Z"
+ "updated_at": "2026-10-07T04:41:42Z"
 }
