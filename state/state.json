@@ -1066,7 +1066,7 @@
   },
   "006e73d437a9543f": {
    "date": "2025-12-29",
-   "status": "rendered",
+   "status": "done",
    "attempts": 9,
    "last_try": "2026-10-07T03:14:44Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
@@ -1079,7 +1079,10 @@
    "cjk": 39959,
    "chunks": 27,
    "failed_chunks": 0,
-   "title_zh": "定义健康男性特质与构建方法 | Terry Real"
+   "title_zh": "定义健康男性特质与构建方法 | Terry Real",
+   "doc_id": "dFSdufHczvwj",
+   "doc_url": "https://docs.qq.com/doc/DZEZTZHVmSGN6dndq",
+   "done_at": "2026-10-07T03:24:43Z"
   },
   "12c1d7c312356573": {
    "date": "2025-12-25",
@@ -4357,5 +4360,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T03:24:32Z"
+ "updated_at": "2026-10-07T03:24:43Z"
 }
