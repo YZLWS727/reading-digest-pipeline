@@ -454,7 +454,7 @@
   },
   "523c3907ba09355d": {
    "date": "2026-06-22",
-   "status": "fetched",
+   "status": "done",
    "attempts": 12,
    "last_try": "2026-10-07T12:20:06Z",
    "last_error": "no_transcript: no transcript match (site=0.00 fallback=0.25)",
@@ -462,7 +462,15 @@
    "video_id": "CV0GtUlJ6NM",
    "match_score": 1.0,
    "source": "youtube",
-   "words": 31614
+   "words": 31614,
+   "chars": 51735,
+   "cjk": 43159,
+   "chunks": 30,
+   "failed_chunks": 0,
+   "title_zh": "吸引力与浪漫 Dr. Paul Eastwick",
+   "doc_id": "ducocNlPiSqg",
+   "doc_url": "https://docs.qq.com/doc/DZHVjb2NObFBpU3Fn",
+   "done_at": "2026-10-07T12:33:44Z"
   },
   "7783a7878b7849ae": {
    "date": "2026-06-18",
@@ -482,11 +490,15 @@
   },
   "701e86d892ea22ad": {
    "date": "2026-06-15",
-   "status": "blocked",
-   "attempts": 11,
-   "last_try": "2026-10-07T11:38:05Z",
+   "status": "fetched",
+   "attempts": 12,
+   "last_try": "2026-10-07T12:33:44Z",
    "last_error": "no_transcript: no transcript match (site=0.00 fallback=0.33)",
-   "last_error_at": "2026-10-07T11:38:05Z"
+   "last_error_at": "2026-10-07T11:38:05Z",
+   "video_id": "baecUt1GaPk",
+   "match_score": 1.0,
+   "source": "youtube",
+   "words": 36115
   },
   "e12e0470aa2335d2": {
    "date": "2026-06-11",
@@ -4520,5 +4532,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T12:22:25Z"
+ "updated_at": "2026-10-07T12:35:14Z"
 }
