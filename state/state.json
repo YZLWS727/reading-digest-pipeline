@@ -1140,7 +1140,7 @@
   },
   "498df5a646125383": {
    "date": "2025-12-15",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 9,
    "last_try": "2026-10-07T03:46:01Z",
    "last_error": "no_transcript: no transcript match (best=0.40)",
@@ -1148,7 +1148,12 @@
    "fallback_path": "transcripts/Improve Energy & Longevity by Optimizing Mitochondria ｜ Dr. Martin Picard.txt",
    "match_score": 1.0,
    "source": "github",
-   "words": 35441
+   "words": 35441,
+   "chars": 62618,
+   "cjk": 49191,
+   "chunks": 34,
+   "failed_chunks": 0,
+   "title_zh": "优化线粒体 提升能量与寿命 | Dr. Martin Picard"
   },
   "462518ec08ca8379": {
    "date": "2025-12-11",
@@ -4376,5 +4381,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T03:46:01Z"
+ "updated_at": "2026-10-07T03:58:26Z"
 }
