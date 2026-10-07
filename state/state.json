@@ -3507,7 +3507,7 @@
   },
   "c7687d2953d99ed9": {
    "date": "2023-08-28",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 4,
    "last_try": "2026-10-07T04:16:10Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
@@ -3515,7 +3515,12 @@
    "fallback_path": "transcripts/How to Set & Achieve Goals ｜ Huberman Lab Essentials.txt",
    "match_score": 0.75,
    "source": "github",
-   "words": 5967
+   "words": 5967,
+   "chars": 11686,
+   "cjk": 8579,
+   "chunks": 6,
+   "failed_chunks": 0,
+   "title_zh": "目标工具箱：如何设定与达成目标"
   },
   "f226a52eb8e33efe": {
    "date": "2023-07-24",
@@ -4424,5 +4429,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T04:16:10Z"
+ "updated_at": "2026-10-07T04:18:15Z"
 }
