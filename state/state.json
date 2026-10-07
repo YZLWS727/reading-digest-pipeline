@@ -992,7 +992,7 @@
   },
   "e0ed9ea01165935e": {
    "date": "2026-01-12",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 9,
    "last_try": "2026-10-07T02:42:28Z",
    "last_error": "no_transcript: no transcript match (best=0.20)",
@@ -1000,7 +1000,12 @@
    "fallback_path": "transcripts/How to Overcome Addiction to Substances or Behaviors ｜ Dr. Keith Humphreys.txt",
    "match_score": 1.0,
    "source": "github",
-   "words": 39627
+   "words": 39627,
+   "chars": 66239,
+   "cjk": 54723,
+   "chunks": 37,
+   "failed_chunks": 0,
+   "title_zh": "如何戒除物质或行为成瘾 | Dr. Keith Humphreys"
   },
   "ec3933f2d0f1d37c": {
    "date": "2026-01-08",
@@ -4328,5 +4333,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T02:42:28Z"
+ "updated_at": "2026-10-07T03:01:25Z"
 }
