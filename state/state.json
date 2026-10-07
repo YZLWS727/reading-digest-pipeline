@@ -1066,7 +1066,7 @@
   },
   "006e73d437a9543f": {
    "date": "2025-12-29",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 9,
    "last_try": "2026-10-07T03:14:44Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
@@ -1074,7 +1074,12 @@
    "fallback_path": "transcripts/Defining Healthy Masculinity & How to Build It ｜ Terry Real.txt",
    "match_score": 1.0,
    "source": "github",
-   "words": 28783
+   "words": 28783,
+   "chars": 48859,
+   "cjk": 39959,
+   "chunks": 27,
+   "failed_chunks": 0,
+   "title_zh": "定义健康男性特质与构建方法 | Terry Real"
   },
   "12c1d7c312356573": {
    "date": "2025-12-25",
@@ -4352,5 +4357,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T03:14:44Z"
+ "updated_at": "2026-10-07T03:24:31Z"
 }
