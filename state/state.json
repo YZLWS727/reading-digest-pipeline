@@ -571,10 +571,10 @@
   "190e01da1fc6d56f": {
    "date": "2026-05-07",
    "status": "blocked",
-   "attempts": 9,
-   "last_try": "2026-10-06T08:16:15Z",
-   "last_error": "no_transcript: no transcript match (best=0.33)",
-   "last_error_at": "2026-10-06T08:16:15Z"
+   "attempts": 10,
+   "last_try": "2026-10-07T02:41:12Z",
+   "last_error": "no_transcript: no transcript match (site=0.33 fallback=0.33)",
+   "last_error_at": "2026-10-07T02:41:12Z"
   },
   "8e72d738deb006d7": {
    "date": "2026-05-04",
@@ -4324,5 +4324,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T02:41:10Z"
+ "updated_at": "2026-10-07T02:41:12Z"
 }
