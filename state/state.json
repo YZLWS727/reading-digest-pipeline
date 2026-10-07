@@ -1202,11 +1202,15 @@
   },
   "6573aa1792b27f6d": {
    "date": "2025-12-01",
-   "status": "blocked",
-   "attempts": 8,
-   "last_try": "2026-10-06T08:16:41Z",
+   "status": "fetched",
+   "attempts": 9,
+   "last_try": "2026-10-07T03:58:59Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
-   "last_error_at": "2026-10-06T08:16:41Z"
+   "last_error_at": "2026-10-06T08:16:41Z",
+   "fallback_path": "transcripts/Dr. Glen Jeffery： Using Red Light to Improve Your Health & the Harmful Effects of LEDs.txt",
+   "match_score": 0.88,
+   "source": "github",
+   "words": 23695
   },
   "e0b01a0f9baf6a7b": {
    "date": "2025-11-27",
@@ -4384,5 +4388,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T03:58:58Z"
+ "updated_at": "2026-10-07T03:58:59Z"
 }
