@@ -71,7 +71,7 @@ def compute_window(cfg: Config, force: bool) -> tuple[datetime | None, datetime 
     """返回（可启动新期的截止时间, 进程硬截止时间, 说明）。None 表示本轮不处理。"""
     bj = beijing_now()
     start_t = parse_hhmm(cfg.daily_start_beijing, dtime(12, 0))
-    cutoff_t = parse_hhmm(cfg.daily_cutoff_beijing, dtime(22, 30))
+    cutoff_t = parse_hhmm(cfg.daily_cutoff_beijing, dtime(23, 40))
     start_bj = datetime.combine(bj.date(), start_t, tzinfo=BEIJING)
     cutoff_bj = datetime.combine(bj.date(), cutoff_t, tzinfo=BEIJING)
     hard = datetime.now(timezone.utc) + timedelta(minutes=cfg.max_job_minutes)
@@ -384,7 +384,7 @@ def main() -> int:
     # 自链接：本轮因作业时长上限停下、但时间窗未结束时，自动再触发一轮，避免依赖 GitHub 定时准点
     chain_ok = False
     bj_now = datetime.now(BEIJING)
-    cutoff_today = datetime.combine(bj_now.date(), parse_hhmm(cfg.daily_cutoff_beijing, dtime(22, 30)), tzinfo=BEIJING)
+    cutoff_today = datetime.combine(bj_now.date(), parse_hhmm(cfg.daily_cutoff_beijing, dtime(23, 40)), tzinfo=BEIJING)
     token = os.environ.get("GH_TOKEN", "")
     repo_slug = os.environ.get("GITHUB_REPOSITORY", "")
     if token and repo_slug and remaining > 0 and done_now > 0 and args.chain < 4 and (cutoff_today - bj_now) > timedelta(minutes=25):
