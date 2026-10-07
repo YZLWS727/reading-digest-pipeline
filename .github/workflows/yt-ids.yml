@@ -1,0 +1,22 @@
+name: yt-ids
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt yt-dlp
+      - name: probe
+        env:
+          FEED_URL: ${{ secrets.FEED_URL }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m digest.ytids
