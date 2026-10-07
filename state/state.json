@@ -1202,7 +1202,7 @@
   },
   "6573aa1792b27f6d": {
    "date": "2025-12-01",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 9,
    "last_try": "2026-10-07T03:58:59Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
@@ -1210,7 +1210,12 @@
    "fallback_path": "transcripts/Dr. Glen Jeffery： Using Red Light to Improve Your Health & the Harmful Effects of LEDs.txt",
    "match_score": 0.88,
    "source": "github",
-   "words": 23695
+   "words": 23695,
+   "chars": 39187,
+   "cjk": 32413,
+   "chunks": 23,
+   "failed_chunks": 0,
+   "title_zh": "红光改善代谢与LED危害 | Dr. Glen Jeffery"
   },
   "e0b01a0f9baf6a7b": {
    "date": "2025-11-27",
@@ -4388,5 +4393,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T03:58:59Z"
+ "updated_at": "2026-10-07T04:08:03Z"
 }
