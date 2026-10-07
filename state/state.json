@@ -418,7 +418,7 @@
   },
   "fc9870e34ccf985a": {
    "date": "2026-06-29",
-   "status": "fetched",
+   "status": "done",
    "attempts": 12,
    "last_try": "2026-10-07T12:11:43Z",
    "last_error": "no_transcript: no transcript match (site=0.00 fallback=0.40)",
@@ -426,7 +426,15 @@
    "video_id": "Zz8chJwh3S4",
    "match_score": 1.0,
    "source": "youtube",
-   "words": 27919
+   "words": 27919,
+   "chars": 48454,
+   "cjk": 38617,
+   "chunks": 26,
+   "failed_chunks": 0,
+   "title_zh": "强化身心连接运动 | Ido Portal",
+   "doc_id": "dmVNvBzrRIeL",
+   "doc_url": "https://docs.qq.com/doc/DZG1WTnZCenJSSWVM",
+   "done_at": "2026-10-07T12:20:06Z"
   },
   "b6c03500a3ff7d8d": {
    "date": "2026-06-25",
@@ -446,11 +454,15 @@
   },
   "523c3907ba09355d": {
    "date": "2026-06-22",
-   "status": "blocked",
-   "attempts": 11,
-   "last_try": "2026-10-07T11:38:05Z",
+   "status": "fetched",
+   "attempts": 12,
+   "last_try": "2026-10-07T12:20:06Z",
    "last_error": "no_transcript: no transcript match (site=0.00 fallback=0.25)",
-   "last_error_at": "2026-10-07T11:38:05Z"
+   "last_error_at": "2026-10-07T11:38:05Z",
+   "video_id": "CV0GtUlJ6NM",
+   "match_score": 1.0,
+   "source": "youtube",
+   "words": 31614
   },
   "7783a7878b7849ae": {
    "date": "2026-06-18",
@@ -4508,5 +4520,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T12:12:20Z"
+ "updated_at": "2026-10-07T12:22:25Z"
 }
