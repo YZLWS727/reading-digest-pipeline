@@ -175,15 +175,22 @@ def process_item(cfg: Config, ep: Episode, state: dict, index: dict, used: set[s
             log("title mismatch -> fallback", f"key={ep.key}")
             record.pop("slug", None)
             path, fscore = match_fallback(FALLBACK_INDEX, ep.title, FALLBACK_USED, threshold=0.75)
-            if not path:
+            if path:
+                record["fallback_path"] = path
+                record["source"] = "github"
+                record["match_score"] = round(fscore, 2)
+                FALLBACK_USED.add(path)
+                sha = (FALLBACK_INDEX.get(path) or {}).get("sha", "")
+                text = fetch_fallback_transcript(path, ep.title, cfg.request_timeout, sha)
+            elif YT_ENABLED and yt_available():
+                vid, _vt, vscore = search_video(ep.title, timeout=cfg.request_timeout, min_score=0.7)
+                record["video_id"] = vid
+                record["source"] = "youtube"
+                record["match_score"] = round(vscore, 2)
+                text = fetch_captions(vid, WORK_DIR / "yt", cfg.request_timeout, proxy=YT_PROXY)
+            else:
                 record["source"] = ""
                 raise ItemError(f"title mismatch and no fallback (best={fscore:.2f})", kind="no_transcript")
-            record["fallback_path"] = path
-            record["source"] = "github"
-            record["match_score"] = round(fscore, 2)
-            FALLBACK_USED.add(path)
-            sha = (FALLBACK_INDEX.get(path) or {}).get("sha", "")
-            text = fetch_fallback_transcript(path, ep.title, cfg.request_timeout, sha)
         WORK_DIR.mkdir(parents=True, exist_ok=True)
         cache.write_text(text, encoding="utf-8")
     elif source == "github":
