@@ -3855,7 +3855,7 @@
   },
   "84259dfc0f4aa854": {
    "date": "2022-08-08",
-   "status": "rendered",
+   "status": "done",
    "attempts": 4,
    "last_try": "2026-10-07T04:20:36Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
@@ -3868,7 +3868,10 @@
    "cjk": 27629,
    "chunks": 20,
    "failed_chunks": 0,
-   "title_zh": "睡眠工具箱：优化睡眠与睡眠觉醒时间"
+   "title_zh": "睡眠工具箱：优化睡眠与睡眠觉醒时间",
+   "doc_id": "dpqaUcpajFqt",
+   "doc_url": "https://docs.qq.com/doc/DZHBxYVVjcGFqRnF0",
+   "done_at": "2026-10-07T04:27:28Z"
   },
   "35888dbf6ef60f72": {
    "date": "2022-04-18",
@@ -4453,5 +4456,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T04:27:18Z"
+ "updated_at": "2026-10-07T04:27:28Z"
 }
