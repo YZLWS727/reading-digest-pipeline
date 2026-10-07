@@ -345,10 +345,10 @@
   "1c529e318a6c3b64": {
    "date": "2026-07-13",
    "status": "blocked",
-   "attempts": 9,
-   "last_try": "2026-10-06T08:16:03Z",
-   "last_error": "no_transcript: no transcript match (best=0.33)",
-   "last_error_at": "2026-10-06T08:16:03Z"
+   "attempts": 10,
+   "last_try": "2026-10-07T02:40:58Z",
+   "last_error": "no_transcript: no transcript match (site=0.33 fallback=0.33)",
+   "last_error_at": "2026-10-07T02:40:58Z"
   },
   "0618d80d713f1f36": {
    "date": "2026-07-09",
@@ -4324,5 +4324,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-06T08:16:51Z"
+ "updated_at": "2026-10-07T02:40:58Z"
 }
