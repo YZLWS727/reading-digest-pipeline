@@ -1028,7 +1028,7 @@
   },
   "ef72a27996d13204": {
    "date": "2026-01-05",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 9,
    "last_try": "2026-10-07T03:01:38Z",
    "last_error": "no_transcript: no transcript match (best=0.29)",
@@ -1036,7 +1036,12 @@
    "fallback_path": "transcripts/Best Ways to Build Better Habits & Break Bad Ones ｜ James Clear.txt",
    "match_score": 1.0,
    "source": "github",
-   "words": 34320
+   "words": 34320,
+   "chars": 54302,
+   "cjk": 45117,
+   "chunks": 32,
+   "failed_chunks": 0,
+   "title_zh": "建立好习惯与戒除坏习惯的 | James Clear"
   },
   "5ab9cbb893eea5c1": {
    "date": "2026-01-01",
@@ -4340,5 +4345,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T03:01:38Z"
+ "updated_at": "2026-10-07T03:14:31Z"
 }
