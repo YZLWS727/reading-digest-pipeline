@@ -1104,7 +1104,7 @@
   },
   "9aa05d066bc0cd67": {
    "date": "2025-12-22",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 9,
    "last_try": "2026-10-07T03:24:45Z",
    "last_error": "no_transcript: no transcript match (best=0.25)",
@@ -1112,7 +1112,12 @@
    "fallback_path": "transcripts/Transform Pain & Trauma Into Creative Expression ｜ David Choe.txt",
    "match_score": 1.0,
    "source": "github",
-   "words": 44376
+   "words": 44376,
+   "chars": 83801,
+   "cjk": 61339,
+   "chunks": 41,
+   "failed_chunks": 0,
+   "title_zh": "转化伤痛与创伤为创意表达 | David Choe"
   },
   "63bc79826af362bb": {
    "date": "2025-12-18",
@@ -4364,5 +4369,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T03:24:45Z"
+ "updated_at": "2026-10-07T03:45:48Z"
 }
