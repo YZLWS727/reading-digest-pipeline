@@ -992,7 +992,7 @@
   },
   "e0ed9ea01165935e": {
    "date": "2026-01-12",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 9,
    "last_try": "2026-10-07T02:42:28Z",
    "last_error": "no_transcript: no transcript match (best=0.20)",
@@ -4333,5 +4333,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T03:01:25Z"
+ "updated_at": "2026-10-07T03:01:26Z"
 }
