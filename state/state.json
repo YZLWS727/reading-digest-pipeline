@@ -801,10 +801,10 @@
   "824a4c1a47dbfa00": {
    "date": "2026-03-02",
    "status": "blocked",
-   "attempts": 9,
-   "last_try": "2026-10-06T08:16:27Z",
-   "last_error": "no_transcript: no transcript match (best=0.20)",
-   "last_error_at": "2026-10-06T08:16:27Z"
+   "attempts": 10,
+   "last_try": "2026-10-07T02:42:20Z",
+   "last_error": "no_transcript: no transcript match (site=0.20 fallback=0.20)",
+   "last_error_at": "2026-10-07T02:42:20Z"
   },
   "534d9b2184d3f927": {
    "date": "2026-02-26",
@@ -4324,5 +4324,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T02:42:18Z"
+ "updated_at": "2026-10-07T02:42:20Z"
 }
