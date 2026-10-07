@@ -21,7 +21,15 @@ from digest.feed import Episode, build_queue, fetch_episodes
 from digest.notify import send
 from digest.render import build_docx, paragraphs_from_text
 from digest.tdocs import FatalTdocsError, TencentDocs
-from digest.transcript import TranscriptError, build_index, fetch_transcript, match_slug
+from digest.transcript import (
+    TranscriptError,
+    build_fallback_index,
+    build_index,
+    fetch_fallback_transcript,
+    fetch_transcript,
+    match_fallback,
+    match_slug,
+)
 from digest.translate import FatalApiError, translate_transcript
 from digest.util import (
     BEIJING,
@@ -36,6 +44,8 @@ ROOT = Path(__file__).resolve().parent
 STATE_PATH = ROOT / "state" / "state.json"
 PROGRESS_PATH = ROOT / "state" / "progress.md"
 WORK_DIR = ROOT / "work"
+FALLBACK_INDEX: dict[str, set[str]] = {}
+FALLBACK_USED: set[str] = set()
 
 
 class ItemError(RuntimeError):
@@ -102,6 +112,7 @@ def append_progress(done_today: int, done_total: int, remaining: int, note: str)
 
 
 def process_item(cfg: Config, ep: Episode, state: dict, index: dict, used: set[str], tdocs: TencentDocs | None, dry_run: bool) -> dict:
+    global FALLBACK_INDEX, FALLBACK_USED
     record = state["items"].setdefault(ep.key, {"date": ep.date, "status": "pending", "attempts": 0})
     budget = item_budget_minutes(ep, cfg)
     started = time.time()
@@ -113,26 +124,42 @@ def process_item(cfg: Config, ep: Episode, state: dict, index: dict, used: set[s
     record["last_try"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     record["attempts"] = int(record.get("attempts") or 0) + 1
 
-    slug = record.get("slug") or ""
-    if not slug:
+    source = record.get("source") or ""
+    ref = record.get("slug") or record.get("fallback_path") or ""
+    if not ref:
         slug, score = match_slug(index, ep.title, used)
-        if not slug:
-            raise ItemError(f"no transcript match (best={score:.2f})", kind="no_transcript")
-        record["slug"] = slug
-        record["match_score"] = round(score, 2)
-    used.add(slug)
-    log("item", f"key={ep.key}", f"date={ep.date}", f"group={ep.group}", f"match={record.get('match_score')}")
+        if slug:
+            source, ref = "site", slug
+            record["slug"] = slug
+            record["match_score"] = round(score, 2)
+        else:
+            path, fscore = match_fallback(FALLBACK_INDEX, ep.title, FALLBACK_USED)
+            if not path:
+                raise ItemError(f"no transcript match (site={score:.2f} fallback={fscore:.2f})", kind="no_transcript")
+            source, ref = "github", path
+            record["fallback_path"] = path
+            record["match_score"] = round(fscore, 2)
+        record["source"] = source
+    if source == "site":
+        used.add(ref)
+    else:
+        FALLBACK_USED.add(ref)
+    log("item", f"key={ep.key}", f"date={ep.date}", f"group={ep.group}", f"src={source}", f"match={record.get('match_score')}")
 
     cache = WORK_DIR / f"{ep.key}.txt"
     if cache.exists() and cache.stat().st_size > 2000:
         text = cache.read_text(encoding="utf-8")
-    else:
+    elif source == "site":
         text = fetch_transcript(
             f"{urlparse(cfg.transcript_base).scheme}://{urlparse(cfg.transcript_base).netloc}",
-            slug,
+            ref,
             ep.title,
             cfg.request_timeout,
         )
+        WORK_DIR.mkdir(parents=True, exist_ok=True)
+        cache.write_text(text, encoding="utf-8")
+    else:
+        text = fetch_fallback_transcript(ref, ep.title, cfg.request_timeout)
         WORK_DIR.mkdir(parents=True, exist_ok=True)
         cache.write_text(text, encoding="utf-8")
     record["words"] = len(text.split())
@@ -264,6 +291,8 @@ def main() -> int:
 
     index = build_index(cfg.transcript_base, cfg.request_timeout)
     used = {v.get("slug") for v in state["items"].values() if v.get("slug")}
+    FALLBACK_INDEX.update(build_fallback_index(os.environ.get("GH_TOKEN", ""), cfg.request_timeout))
+    FALLBACK_USED.update({v.get("fallback_path") for v in state["items"].values() if v.get("fallback_path")})
 
     tdocs = None
     if not args.dry_run:
