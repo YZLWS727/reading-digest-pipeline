@@ -133,7 +133,7 @@ def process_item(cfg: Config, ep: Episode, state: dict, index: dict, used: set[s
             record["slug"] = slug
             record["match_score"] = round(score, 2)
         else:
-            path, fscore = match_fallback(FALLBACK_INDEX, ep.title, FALLBACK_USED)
+            path, fscore = match_fallback(FALLBACK_INDEX, ep.title, FALLBACK_USED, threshold=0.75)
             if not path:
                 raise ItemError(f"no transcript match (site={score:.2f} fallback={fscore:.2f})", kind="no_transcript")
             source, ref = "github", path
@@ -163,7 +163,7 @@ def process_item(cfg: Config, ep: Episode, state: dict, index: dict, used: set[s
             # 主源匹配到的页面不是这一期：改用备用源，避免反复撞同一页
             log("title mismatch -> fallback", f"key={ep.key}")
             record.pop("slug", None)
-            path, fscore = match_fallback(FALLBACK_INDEX, ep.title, FALLBACK_USED)
+            path, fscore = match_fallback(FALLBACK_INDEX, ep.title, FALLBACK_USED, threshold=0.75)
             if not path:
                 record["source"] = ""
                 raise ItemError(f"title mismatch and no fallback (best={fscore:.2f})", kind="no_transcript")
