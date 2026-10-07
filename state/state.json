@@ -3629,11 +3629,15 @@
   },
   "304c27e61f608ee8": {
    "date": "2022-01-03",
-   "status": "pending",
-   "attempts": 3,
-   "last_try": "2026-10-06T08:16:46Z",
+   "status": "fetched",
+   "attempts": 4,
+   "last_try": "2026-10-07T04:18:28Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
-   "last_error_at": "2026-10-06T08:16:46Z"
+   "last_error_at": "2026-10-06T08:16:46Z",
+   "fallback_path": "transcripts/The Science of Making & Breaking Habits ｜ Huberman Lab Essentials.txt",
+   "match_score": 1.0,
+   "source": "github",
+   "words": 6751
   },
   "f93bda2f2c92a93d": {
    "date": "2021-09-27",
@@ -4432,5 +4436,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T04:18:27Z"
+ "updated_at": "2026-10-07T04:18:29Z"
 }
