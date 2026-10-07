@@ -28,6 +28,10 @@ on:
         description: "自链接深度（内部使用，留空=0）"
         required: false
         default: "0"
+      no_cooldown:
+        description: "忽略失败冷却（true/false）"
+        required: false
+        default: "false"
 
 concurrency:
   group: reading-sync
@@ -66,6 +70,7 @@ jobs:
           ONLY: ${{ inputs.only || '' }}
           FORCE: ${{ inputs.force || 'false' }}
           CHAIN: ${{ inputs.chain || 0 }}
+          NO_COOLDOWN: ${{ inputs.no_cooldown || 'false' }}
           FEED_URL: ${{ secrets.FEED_URL }}
           TRANSCRIPT_BASE: ${{ secrets.TRANSCRIPT_BASE }}
           TARGET_FOLDER_ID: ${{ secrets.TARGET_FOLDER_ID }}
@@ -83,6 +88,7 @@ jobs:
           ARGS=(--limit "${LIMIT:-0}")
           if [ -n "${ONLY:-}" ]; then ARGS+=(--only "$ONLY"); fi
           if [ "${FORCE:-false}" = "true" ]; then ARGS+=(--force); fi
+          if [ "${NO_COOLDOWN:-false}" = "true" ]; then ARGS+=(--no-cooldown); fi
           ARGS+=(--chain "${CHAIN:-0}")
           python run.py "${ARGS[@]}"
 
