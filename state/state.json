@@ -3855,7 +3855,7 @@
   },
   "84259dfc0f4aa854": {
    "date": "2022-08-08",
-   "status": "fetched",
+   "status": "translated",
    "attempts": 4,
    "last_try": "2026-10-07T04:20:36Z",
    "last_error": "no_transcript: no transcript match (best=0.33)",
@@ -3863,7 +3863,12 @@
    "fallback_path": "transcripts/Sleep Toolkit： Tools for Optimizing Sleep & Sleep-Wake Timing.txt",
    "match_score": 1.0,
    "source": "github",
-   "words": 20515
+   "words": 20515,
+   "chars": 34187,
+   "cjk": 27629,
+   "chunks": 20,
+   "failed_chunks": 0,
+   "title_zh": "睡眠工具箱：优化睡眠与睡眠觉醒时间"
   },
   "35888dbf6ef60f72": {
    "date": "2022-04-18",
@@ -4448,5 +4453,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T04:20:36Z"
+ "updated_at": "2026-10-07T04:27:17Z"
 }
