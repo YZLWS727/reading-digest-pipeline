@@ -1066,7 +1066,7 @@
   },
   "006e73d437a9543f": {
    "date": "2025-12-29",
-   "status": "translated",
+   "status": "rendered",
    "attempts": 9,
    "last_try": "2026-10-07T03:14:44Z",
    "last_error": "no_transcript: no transcript match (best=0.50)",
@@ -4357,5 +4357,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T03:24:31Z"
+ "updated_at": "2026-10-07T03:24:32Z"
 }
