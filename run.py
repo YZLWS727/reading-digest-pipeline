@@ -144,7 +144,7 @@ def process_item(cfg: Config, ep: Episode, state: dict, index: dict, used: set[s
                 record["fallback_path"] = path
                 record["match_score"] = round(fscore, 2)
             elif YT_ENABLED and yt_available():
-                vid, _vt, vscore = search_video(ep.title, timeout=cfg.request_timeout, min_score=0.7)
+                vid, _vt, vscore = search_video(ep.title, timeout=cfg.request_timeout, min_score=0.7, proxy=YT_PROXY)
                 source, ref = "youtube", vid
                 record["video_id"] = vid
                 record["match_score"] = round(vscore, 2)
@@ -183,7 +183,7 @@ def process_item(cfg: Config, ep: Episode, state: dict, index: dict, used: set[s
                 sha = (FALLBACK_INDEX.get(path) or {}).get("sha", "")
                 text = fetch_fallback_transcript(path, ep.title, cfg.request_timeout, sha)
             elif YT_ENABLED and yt_available():
-                vid, _vt, vscore = search_video(ep.title, timeout=cfg.request_timeout, min_score=0.7)
+                vid, _vt, vscore = search_video(ep.title, timeout=cfg.request_timeout, min_score=0.7, proxy=YT_PROXY)
                 record["video_id"] = vid
                 record["source"] = "youtube"
                 record["match_score"] = round(vscore, 2)
