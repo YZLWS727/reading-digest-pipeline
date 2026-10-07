@@ -1,5 +1,7 @@
 import re
 import time
+import base64
+import os
 from urllib.parse import quote
 
 import requests
@@ -102,8 +104,8 @@ def fetch_transcript(site_root: str, slug: str, expected_title: str, timeout: in
     return text
 
 
-def build_fallback_index(token: str, timeout: int = 90) -> dict[str, set[str]]:
-    """列出备用仓库的 transcripts/*.txt，返回 路径 -> token 集合。"""
+def build_fallback_index(token: str, timeout: int = 90) -> dict[str, dict]:
+    """列出备用仓库的 transcripts/*.txt，返回 路径 -> {tokens, sha}。"""
     headers = {"User-Agent": UA, "Accept": "application/vnd.github+json"}
     if token:
         headers["Authorization"] = f"Bearer {token}"
@@ -112,24 +114,24 @@ def build_fallback_index(token: str, timeout: int = 90) -> dict[str, set[str]]:
     if r.status_code != 200:
         log("fallback index failed", f"http={r.status_code}")
         return {}
-    index: dict[str, set[str]] = {}
+    index: dict[str, dict] = {}
     for node in r.json().get("tree", []):
         path = node.get("path", "")
         if node.get("type") == "blob" and path.startswith(FALLBACK_TXT_DIR) and path.endswith(".txt"):
             stem = path[len(FALLBACK_TXT_DIR) : -4]
-            index[path] = tokens(stem)
+            index[path] = {"tokens": tokens(stem), "sha": node.get("sha", "")}
     log("fallback index", f"entries={len(index)}")
     return index
 
 
-def match_fallback(index: dict[str, set[str]], title: str, used: set[str], threshold: float = 0.6) -> tuple[str, float]:
+def match_fallback(index: dict[str, dict], title: str, used: set[str], threshold: float = 0.6) -> tuple[str, float]:
     core = re.split(r"\s*\|\s*", title)[0]
     tk = tokens(core)
     best, best_score = "", 0.0
-    for path, ptoks in index.items():
+    for path, meta in index.items():
         if path in used:
             continue
-        score = similarity(tk, ptoks)
+        score = similarity(tk, meta["tokens"])
         if score > best_score:
             best, best_score = path, score
     if best_score < threshold:
@@ -137,14 +139,31 @@ def match_fallback(index: dict[str, set[str]], title: str, used: set[str], thres
     return best, best_score
 
 
-def fetch_fallback_transcript(path: str, expected_title: str, timeout: int, tries: int = 3) -> str:
-    url = RAW_BASE + quote(path, safe="/&")
+def fetch_fallback_transcript(path: str, expected_title: str, timeout: int, sha: str = "", tries: int = 3) -> str:
+    """优先用 Blob API 按 SHA 取内容（避免 Unicode 路径编码导致的 404），失败再用 raw 链接。"""
+    headers = {"User-Agent": UA, "Accept": "application/vnd.github+json"}
+    token = os.environ.get("GH_TOKEN", "")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    urls = []
+    if sha:
+        urls.append(f"https://api.github.com/repos/{FALLBACK_REPO}/git/blobs/{sha}")
+    urls.append(RAW_BASE + quote(path, safe="/&"))
     last = "unknown"
     for attempt in range(tries):
+        url = urls[attempt % len(urls)]
         try:
-            r = requests.get(url, headers={"User-Agent": UA}, timeout=timeout)
+            r = requests.get(url, headers=headers if "api.github.com" in url else {"User-Agent": UA}, timeout=timeout)
             if r.status_code == 200:
-                text = re.sub(r"\s+", " ", r.text).strip()
+                if "api.github.com" in url:
+                    payload = r.json()
+                    if payload.get("encoding") == "base64":
+                        text = base64.b64decode(payload.get("content", "")).decode("utf-8", "replace")
+                    else:
+                        text = payload.get("content", "")
+                else:
+                    text = r.text
+                text = re.sub(r"\s+", " ", text).strip()
                 words = len(text.split())
                 if words < 400:
                     raise TranscriptError(f"fallback transcript too short: {words}")
