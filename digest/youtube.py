@@ -9,7 +9,6 @@ from pathlib import Path
 
 from .util import log, similarity, tokens
 
-YTDLP = shutil.which("yt-dlp") or "yt-dlp"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 
 
@@ -17,9 +16,17 @@ class YouTubeError(RuntimeError):
     pass
 
 
+def base_cmd() -> list[str]:
+    """优先用 PATH 上的 yt-dlp，否则退回 python -m yt_dlp（pip --target 安装场景）。"""
+    found = shutil.which("yt-dlp")
+    if found:
+        return [found]
+    return [sys.executable, "-m", "yt_dlp"]
+
+
 def _run(args: list[str], timeout: int) -> tuple[int, str, str]:
     proc = subprocess.run(
-        [YTDLP, *args],
+        [*base_cmd(), *args],
         capture_output=True,
         text=True,
         encoding="utf-8",
