@@ -691,12 +691,12 @@
   "d1eeb93398a65816": {
    "date": "2026-04-02",
    "status": "blocked",
-   "attempts": 9,
-   "last_try": "2026-10-06T08:16:21Z",
+   "attempts": 10,
+   "last_try": "2026-10-07T02:41:18Z",
    "slug": "/podcasts/huberman-lab/essentials-how-to-build-endurance",
    "match_score": 1.0,
-   "last_error": "error: title mismatch: Huberman Lab - Essentials: How to Build Endurance Transcript",
-   "last_error_at": "2026-10-06T08:16:22Z"
+   "last_error": "error: fallback fetch failed: HTTP 404",
+   "last_error_at": "2026-10-07T02:41:36Z"
   },
   "9ecaf233530da3bf": {
    "date": "2026-03-30",
@@ -4324,5 +4324,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T02:41:17Z"
+ "updated_at": "2026-10-07T02:41:36Z"
 }
