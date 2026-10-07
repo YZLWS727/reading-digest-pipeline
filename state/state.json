@@ -683,10 +683,10 @@
   "6ab9b9c25f046574": {
    "date": "2026-04-06",
    "status": "blocked",
-   "attempts": 9,
-   "last_try": "2026-10-06T08:16:20Z",
-   "last_error": "no_transcript: no transcript match (best=0.20)",
-   "last_error_at": "2026-10-06T08:16:20Z"
+   "attempts": 10,
+   "last_try": "2026-10-07T02:41:17Z",
+   "last_error": "no_transcript: no transcript match (site=0.20 fallback=0.20)",
+   "last_error_at": "2026-10-07T02:41:17Z"
   },
   "d1eeb93398a65816": {
    "date": "2026-04-02",
@@ -4324,5 +4324,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-07T02:41:15Z"
+ "updated_at": "2026-10-07T02:41:17Z"
 }
