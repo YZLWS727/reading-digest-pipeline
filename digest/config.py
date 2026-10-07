@@ -48,7 +48,7 @@ class Config:
     chunk_words: int = field(default_factory=lambda: _env_int("CHUNK_WORDS", 1100))
     max_chunk_retries: int = field(default_factory=lambda: _env_int("MAX_CHUNK_RETRIES", 3))
     max_item_minutes: float = field(default_factory=lambda: _env_float("MAX_ITEM_MINUTES", 25.0))
-    daily_cutoff_beijing: str = field(default_factory=lambda: _env("DAILY_CUTOFF_BEIJING", "22:30"))
+    daily_cutoff_beijing: str = field(default_factory=lambda: _env("DAILY_CUTOFF_BEIJING", "23:40"))
     daily_start_beijing: str = field(default_factory=lambda: _env("DAILY_START_BEIJING", "12:00"))
     max_job_minutes: float = field(default_factory=lambda: _env_float("MAX_JOB_MINUTES", 330.0))
     request_timeout: int = field(default_factory=lambda: _env_int("REQUEST_TIMEOUT", 180))
