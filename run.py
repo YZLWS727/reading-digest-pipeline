@@ -150,12 +150,28 @@ def process_item(cfg: Config, ep: Episode, state: dict, index: dict, used: set[s
     if cache.exists() and cache.stat().st_size > 2000:
         text = cache.read_text(encoding="utf-8")
     elif source == "site":
-        text = fetch_transcript(
-            f"{urlparse(cfg.transcript_base).scheme}://{urlparse(cfg.transcript_base).netloc}",
-            ref,
-            ep.title,
-            cfg.request_timeout,
-        )
+        try:
+            text = fetch_transcript(
+                f"{urlparse(cfg.transcript_base).scheme}://{urlparse(cfg.transcript_base).netloc}",
+                ref,
+                ep.title,
+                cfg.request_timeout,
+            )
+        except TranscriptError as exc:
+            if "title mismatch" not in str(exc):
+                raise
+            # 主源匹配到的页面不是这一期：改用备用源，避免反复撞同一页
+            log("title mismatch -> fallback", f"key={ep.key}")
+            record.pop("slug", None)
+            path, fscore = match_fallback(FALLBACK_INDEX, ep.title, FALLBACK_USED)
+            if not path:
+                record["source"] = ""
+                raise ItemError(f"title mismatch and no fallback (best={fscore:.2f})", kind="no_transcript")
+            record["fallback_path"] = path
+            record["source"] = "github"
+            record["match_score"] = round(fscore, 2)
+            FALLBACK_USED.add(path)
+            text = fetch_fallback_transcript(path, ep.title, cfg.request_timeout)
         WORK_DIR.mkdir(parents=True, exist_ok=True)
         cache.write_text(text, encoding="utf-8")
     else:
@@ -225,6 +241,7 @@ def main() -> int:
     ap.add_argument("--force", action="store_true", help="忽略时间窗限制（手动补跑用）")
     ap.add_argument("--no-commit", action="store_true", help="不执行 git 提交")
     ap.add_argument("--chain", type=int, default=0, help="自链接深度（防止无限循环）")
+    ap.add_argument("--no-cooldown", action="store_true", help="忽略失败冷却，立刻重试全部剩余期")
     args = ap.parse_args()
 
     cfg = Config()
@@ -279,7 +296,7 @@ def main() -> int:
             return False
         return (datetime.now(timezone.utc) - last) < timedelta(hours=20)
 
-    cooling = [e for e in pending if _cooling(state["items"].get(e.key, {}))]
+    cooling = [] if args.no_cooldown else [e for e in pending if _cooling(state["items"].get(e.key, {}))]
     if cooling:
         pending = [e for e in pending if e not in cooling]
         log("cooldown skip", f"count={len(cooling)}")
