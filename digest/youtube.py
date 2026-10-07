@@ -44,7 +44,7 @@ def available() -> bool:
         return False
 
 
-def search_video(title: str, timeout: int = 180, min_score: float = 0.7) -> tuple[str, str, float]:
+def search_video(title: str, timeout: int = 180, min_score: float = 0.7, proxy: str = "") -> tuple[str, str, float]:
     """按标题搜索频道视频，返回 (video_id, 标题, 相似度)。"""
     query = f"ytsearch3:huberman lab {title}"
     args = [
@@ -56,6 +56,8 @@ def search_video(title: str, timeout: int = 180, min_score: float = 0.7) -> tupl
         "--user-agent",
         USER_AGENT,
     ]
+    if proxy:
+        args += ["--proxy", proxy]
     code, out, err = _run(args, timeout)
     if code != 0:
         raise YouTubeError(f"search failed rc={code} {err.strip()[:120]}")
