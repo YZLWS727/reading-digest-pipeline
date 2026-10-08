@@ -3524,10 +3524,10 @@
   "1a870a5cd10bc9ae": {
    "date": "2026-05-18",
    "status": "blocked",
-   "attempts": 13,
-   "last_try": "2026-10-08T05:09:42Z",
+   "attempts": 14,
+   "last_try": "2026-10-08T05:15:10Z",
    "last_error": "error: search failed rc=1 ERROR: [youtube] Q2hOryHdgAk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authe",
-   "last_error_at": "2026-10-08T05:09:55Z",
+   "last_error_at": "2026-10-08T05:15:15Z",
    "video_id": "Q2hOryHdgAk",
    "match_score": 1.0,
    "source": "youtube",
@@ -4580,5 +4580,5 @@
   }
  },
  "runs": [],
- "updated_at": "2026-10-08T05:12:36Z"
+ "updated_at": "2026-10-08T05:15:15Z"
 }
