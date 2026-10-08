@@ -4580,7 +4580,7 @@
   },
   "95fde181fa49a2d5": {
    "date": "2026-10-08",
-   "status": "rendered",
+   "status": "done",
    "attempts": 1,
    "last_try": "2026-10-08T11:18:13Z",
    "slug": "/podcasts/huberman-lab/essentials-manage-stress-build-resilience-dr-elissa-epel",
@@ -4591,9 +4591,12 @@
    "cjk": 8703,
    "chunks": 6,
    "failed_chunks": 0,
-   "title_zh": "精华版：管理压力与建立韧性 | Dr. Elissa Epel"
+   "title_zh": "精华版：管理压力与建立韧性 | Dr. Elissa Epel",
+   "doc_id": "dmkhrNTaUSAh",
+   "doc_url": "https://docs.qq.com/doc/DZG1raHJOVGFVU0Fo",
+   "done_at": "2026-10-08T11:21:10Z"
   }
  },
  "runs": [],
- "updated_at": "2026-10-08T11:20:57Z"
+ "updated_at": "2026-10-08T11:21:10Z"
 }
